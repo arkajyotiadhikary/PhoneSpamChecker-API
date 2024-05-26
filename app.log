@@ -1,0 +1,920 @@
+2024-05-23T05:53:26.828Z [user-service] [32minfo[39m: Listening on port 3000
+2024-05-23T05:54:43.277Z [user-service] [32minfo[39m: Listening on port 3000
+2024-05-23T05:55:00.364Z [user-service] [32minfo[39m: Listening on port 3000
+2024-05-23T05:55:16.485Z [user-service] [32minfo[39m: Listening on port 3000
+2024-05-23T05:55:29.736Z [user-service] [32minfo[39m: Listening on port 3000
+2024-05-23T05:55:47.865Z [user-service] [32minfo[39m: Listening on port 3000
+2024-05-23T05:55:56.174Z [user-service] [32minfo[39m: Listening on port 3000
+2024-05-23T05:56:32.766Z [user-service] [32minfo[39m: Listening on port 3000
+2024-05-23T05:56:53.328Z [user-service] [32minfo[39m: Starting to populate the database
+2024-05-23T05:56:53.339Z [user-service] [32minfo[39m: Listening on port 3000
+2024-05-23T05:56:54.822Z [user-service] [32minfo[39m: Created user #1 with ID: 61, name: Allen Cruickshank, phoneNumber: 1-815-578-6622, email: Mitchel.Cummings21@gmail.com, password: $2b$10$Is9kIW/355CFQeVGJ./CC.aSqueNurA6zxqABe4HwlFDHmlU6n5qe
+2024-05-23T05:56:54.879Z [user-service] [32minfo[39m: Created user #2 with ID: 62, name: Ronnie Crist, phoneNumber: 1-236-889-4215 x7926, email: Meggie3@yahoo.com, password: $2b$10$6uQkRKIta6xWzP3qPDvXg.B6ksy3SEIumRvR625ZYTaX3.0bEXEou
+2024-05-23T05:56:54.936Z [user-service] [32minfo[39m: Created user #3 with ID: 63, name: Antonio McCullough, phoneNumber: 257.512.8931 x816, email: Dorthy.Weissnat29@gmail.com, password: $2b$10$rvwHzl7HlQ0AvKHVBrBNCuDu3IySppJ9xrpu4.i0VYx8DBotzm3Mi
+2024-05-23T05:56:54.994Z [user-service] [32minfo[39m: Created user #4 with ID: 64, name: Betty Dach, phoneNumber: 677.564.0169 x1512, email: Elouise_Crooks@hotmail.com, password: $2b$10$IhF/vZt9broJ.zNW8FbfpuXyqNoZafual0ChaENdehrYCzoNjp2WO
+2024-05-23T05:56:55.050Z [user-service] [32minfo[39m: Created user #5 with ID: 65, name: Miss Silvia Stroman, phoneNumber: 300.495.1520 x6063, email: Dedric.Funk14@gmail.com, password: $2b$10$NFrfr871DKI7XaKJarl5SOoz7PK7t6fGIwk35XEpF9NwI7.uuB3ee
+2024-05-23T05:56:55.108Z [user-service] [32minfo[39m: Created user #6 with ID: 66, name: Roy Altenwerth, phoneNumber: 637-336-9644 x38168, email: Felipa79@hotmail.com, password: $2b$10$oHuEIpSsn9pdwIL6PZHKZesY9/aTaAfOeq3vy05U.t58WXh0K6uaq
+2024-05-23T05:56:55.167Z [user-service] [32minfo[39m: Created user #7 with ID: 67, name: Geraldine Sawayn, phoneNumber: 203.638.9900 x0289, email: Reyes.Hills89@yahoo.com, password: $2b$10$.jo4jcDTipJzjq7F1ZW/ZOidCDHOnn4sUXIzXhyExo/3nONVhVZFa
+2024-05-23T05:56:55.229Z [user-service] [32minfo[39m: Created user #8 with ID: 68, name: Miss Leticia Kreiger, phoneNumber: 501.917.0153, email: Deon_Green@gmail.com, password: $2b$10$U8U0K/WSt9BlXizzjeZWcegZ57/7eM9l539LVwKcUCjEjc0zCQyF2
+2024-05-23T05:56:55.287Z [user-service] [32minfo[39m: Created user #9 with ID: 69, name: Tim MacGyver, phoneNumber: (767) 455-8005 x86223, email: Esta7@yahoo.com, password: $2b$10$ciOy1WTwFw8Ts8Y3GGeEx.NOD9s/4DuZBrr1TyxGKnrC2TtgKOXXW
+2024-05-23T05:56:55.345Z [user-service] [32minfo[39m: Created user #10 with ID: 70, name: Kelli Thompson, phoneNumber: 403.511.5286 x0357, email: Axel.Raynor@yahoo.com, password: $2b$10$UcYpnOHq7/ZA1mFnbjszmuGwq1e6uw.9obrCmPdPSvRJ39FKYd2ky
+2024-05-23T05:56:55.346Z [user-service] [32minfo[39m: Creating contact #1 with name: Miss Christie Shields, phoneNumber: 974-298-7763 x157, registered: true, userID: 66
+2024-05-23T05:56:55.627Z [user-service] [32minfo[39m: Creating contact #2 with name: Alexandra Daugherty, phoneNumber: 608-802-2011 x68887, registered: true, userID: 62
+2024-05-23T05:56:55.628Z [user-service] [32minfo[39m: Creating contact #3 with name: Dr. Lana Hirthe, phoneNumber: 360.314.5950 x6015, registered: false, userID: null
+2024-05-23T05:56:55.630Z [user-service] [32minfo[39m: Creating contact #4 with name: Timmy Kohler, phoneNumber: 1-722-666-4269 x653, registered: false, userID: null
+2024-05-23T05:56:55.631Z [user-service] [32minfo[39m: Creating contact #5 with name: Dr. Michael Kiehn, phoneNumber: 827.286.6413 x33225, registered: false, userID: null
+2024-05-23T05:56:55.631Z [user-service] [32minfo[39m: Creating contact #6 with name: Lowell Renner, phoneNumber: 1-979-234-8406 x9027, registered: true, userID: 61
+2024-05-23T05:56:55.632Z [user-service] [32minfo[39m: Creating contact #7 with name: Ricky Rowe, phoneNumber: 1-630-887-5557, registered: true, userID: 64
+2024-05-23T05:56:55.633Z [user-service] [32minfo[39m: Creating contact #8 with name: Judy Goyette, phoneNumber: 289-285-8116, registered: false, userID: null
+2024-05-23T05:56:55.634Z [user-service] [32minfo[39m: Creating contact #9 with name: Mrs. Jana Lynch, phoneNumber: 1-815-840-9302 x04698, registered: true, userID: 69
+2024-05-23T05:56:55.636Z [user-service] [32minfo[39m: Creating contact #10 with name: Mr. Jordan Pouros, phoneNumber: 1-258-873-3643 x190, registered: true, userID: 67
+2024-05-23T05:56:55.637Z [user-service] [32minfo[39m: Creating spam #1 with phoneNumber: 1-971-983-1369 x5059, spamCount: 5
+2024-05-23T05:56:55.701Z [user-service] [32minfo[39m: Creating spam #2 with phoneNumber: 343-323-6032, spamCount: 1
+2024-05-23T05:56:55.702Z [user-service] [32minfo[39m: Creating spam #3 with phoneNumber: (967) 455-6685, spamCount: 1
+2024-05-23T05:56:55.703Z [user-service] [32minfo[39m: Creating spam #4 with phoneNumber: 794.667.7750 x34704, spamCount: 6
+2024-05-23T05:56:55.704Z [user-service] [32minfo[39m: Creating spam #5 with phoneNumber: (725) 790-5961 x35537, spamCount: 9
+2024-05-23T05:56:55.705Z [user-service] [32minfo[39m: Creating spam #6 with phoneNumber: 285.359.8332 x081, spamCount: 7
+2024-05-23T05:56:55.706Z [user-service] [32minfo[39m: Creating spam #7 with phoneNumber: (612) 590-4478, spamCount: 8
+2024-05-23T05:56:55.707Z [user-service] [32minfo[39m: Creating spam #8 with phoneNumber: 1-937-445-0149 x2664, spamCount: 4
+2024-05-23T05:56:55.708Z [user-service] [32minfo[39m: Creating spam #9 with phoneNumber: 1-777-970-9707, spamCount: 10
+2024-05-23T05:56:55.709Z [user-service] [32minfo[39m: Creating spam #10 with phoneNumber: 260-826-4214, spamCount: 7
+2024-05-23T05:56:55.715Z [user-service] [32minfo[39m: Finished populating the database
+2024-05-23T05:58:24.559Z [user-service] [32minfo[39m: Starting to populate the database
+2024-05-23T05:58:24.568Z [user-service] [32minfo[39m: Listening on port 3000
+2024-05-23T05:58:24.677Z [user-service] [32minfo[39m: Created user #1 with ID: 71, name: Tomas DuBuque, phoneNumber: 423.818.5679 x892, email: Arvid_Hansen72@hotmail.com, password: $2b$10$1kDexycMT5Tot120Yz.01eSsei2dnx7yqS1XHu/JMUeOVWzkyuBGi
+2024-05-23T05:58:24.793Z [user-service] [32minfo[39m: Created user #2 with ID: 72, name: Wendell Reichel-Stroman, phoneNumber: 475-637-0233 x2289, email: Colten_Stroman@gmail.com, password: $2b$10$lXga5tcvoOYFZrfC35VCAuucPcNh3kclor5ZFPBo39KSUKqVMC0CW
+2024-05-23T05:58:24.858Z [user-service] [32minfo[39m: Created user #3 with ID: 73, name: Lila Paucek, phoneNumber: (455) 558-9848 x35028, email: Oliver_Quitzon7@yahoo.com, password: $2b$10$BRQsNHm4fdYj2sKO8LE6VO7JhrINmmDQDX3OE29xLFNm09LymGpWC
+2024-05-23T05:58:24.916Z [user-service] [32minfo[39m: Created user #4 with ID: 74, name: Dr. Bernadette Cronin, phoneNumber: 210.627.5420 x0946, email: Jabari_Hand@yahoo.com, password: $2b$10$cmEYgzwJt6O5tY9Rc.J.N.FRy4BfE54p2kvsilzIqaFTDMxQNqr1G
+2024-05-23T05:58:24.981Z [user-service] [32minfo[39m: Created user #5 with ID: 75, name: Bobbie Kunde, phoneNumber: 738.731.3175 x89605, email: Johnathan_Kozey@gmail.com, password: $2b$10$PC3Tnnn2.BcBl.n9HuDaKO2WqgVLKJOyLChjL/O.TYAHLO6B9E06m
+2024-05-23T05:58:25.045Z [user-service] [32minfo[39m: Created user #6 with ID: 76, name: Mr. Lewis Kertzmann, phoneNumber: 837.622.8582 x84459, email: Harry_Harber63@hotmail.com, password: $2b$10$H01CyXjTpbf6QvV7/0..juCzBiUkxw.FsJOAEVjD0y5dedPNBpqYi
+2024-05-23T05:58:25.109Z [user-service] [32minfo[39m: Created user #7 with ID: 77, name: Alberta Toy-Hilll, phoneNumber: 1-972-555-8587 x2789, email: Aracely.Okuneva@yahoo.com, password: $2b$10$H9VNOOw0uqagQeoapyncwOzUgYb9J/n6QOmwK64Si6pUxWfVnrO5O
+2024-05-23T05:58:25.173Z [user-service] [32minfo[39m: Created user #8 with ID: 78, name: Catherine Watsica, phoneNumber: 1-747-291-2037 x29839, email: Isabell_Franecki86@gmail.com, password: $2b$10$TsYmAXNq/O.cMsQqJolw5uyncnHxaQNziw8cKu5y3c03z1QrR8.ly
+2024-05-23T05:58:25.232Z [user-service] [32minfo[39m: Created user #9 with ID: 79, name: Lucia Bashirian, phoneNumber: 319-479-2084 x9240, email: Melany.Crooks99@gmail.com, password: $2b$10$V0YB2Ow6pOVGRmdptiVSoOl0hSGP9ldXDNCA.OEnXZiDGnCHfs.UO
+2024-05-23T05:58:25.291Z [user-service] [32minfo[39m: Created user #10 with ID: 80, name: Teresa Rath, phoneNumber: 775-981-9815 x5034, email: Doris.Nikolaus96@gmail.com, password: $2b$10$QGP3605WxcxtX6/Z8H8nw.pkfD9tIygxygLA2SmpuPVWDnV5No1v.
+2024-05-23T05:58:25.292Z [user-service] [32minfo[39m: Creating contact #1 with name: Kay Fadel, phoneNumber: 776.864.6116, registered: false, userID: null
+2024-05-23T05:58:25.294Z [user-service] [32minfo[39m: Creating contact #2 with name: Jane Hermann, phoneNumber: 1-307-488-4434, registered: true, userID: 74
+2024-05-23T05:58:25.297Z [user-service] [32minfo[39m: Creating contact #3 with name: Meredith Lubowitz-Kiehn, phoneNumber: 762-535-5786 x1389, registered: false, userID: null
+2024-05-23T05:58:25.299Z [user-service] [32minfo[39m: Creating contact #4 with name: Jody Sipes, phoneNumber: 694.561.8267 x1018, registered: true, userID: 76
+2024-05-23T05:58:25.300Z [user-service] [32minfo[39m: Creating contact #5 with name: Roman Schimmel, phoneNumber: 1-510-879-6615, registered: false, userID: null
+2024-05-23T05:58:25.301Z [user-service] [32minfo[39m: Creating contact #6 with name: Miss Chelsea Beier, phoneNumber: 1-428-477-2824 x273, registered: true, userID: 80
+2024-05-23T05:58:25.304Z [user-service] [32minfo[39m: Creating contact #7 with name: Nelson Mosciski IV, phoneNumber: 803-459-2611 x5469, registered: false, userID: null
+2024-05-23T05:58:25.306Z [user-service] [32minfo[39m: Creating contact #8 with name: Julia Howell DDS, phoneNumber: 1-983-384-2525 x01937, registered: true, userID: 77
+2024-05-23T05:58:25.308Z [user-service] [32minfo[39m: Creating contact #9 with name: Candice Hermiston, phoneNumber: 787-719-9405 x637, registered: false, userID: null
+2024-05-23T05:58:25.309Z [user-service] [32minfo[39m: Creating contact #10 with name: Joann Kohler V, phoneNumber: 711.814.8985 x33247, registered: false, userID: null
+2024-05-23T05:58:25.310Z [user-service] [32minfo[39m: Creating spam #1 with phoneNumber: 357.396.6901 x21751, spamCount: 4
+2024-05-23T05:58:25.311Z [user-service] [32minfo[39m: Creating spam #2 with phoneNumber: (667) 474-0852 x7866, spamCount: 4
+2024-05-23T05:58:25.312Z [user-service] [32minfo[39m: Creating spam #3 with phoneNumber: 453.211.5507 x41427, spamCount: 3
+2024-05-23T05:58:25.313Z [user-service] [32minfo[39m: Creating spam #4 with phoneNumber: 623.699.3039, spamCount: 4
+2024-05-23T05:58:25.314Z [user-service] [32minfo[39m: Creating spam #5 with phoneNumber: 512-701-4508 x61026, spamCount: 10
+2024-05-23T05:58:25.315Z [user-service] [32minfo[39m: Creating spam #6 with phoneNumber: 894-757-2407 x509, spamCount: 1
+2024-05-23T05:58:25.316Z [user-service] [32minfo[39m: Creating spam #7 with phoneNumber: 946-683-2369 x8462, spamCount: 8
+2024-05-23T05:58:25.316Z [user-service] [32minfo[39m: Creating spam #8 with phoneNumber: (920) 659-7611 x6499, spamCount: 9
+2024-05-23T05:58:25.317Z [user-service] [32minfo[39m: Creating spam #9 with phoneNumber: 272-870-5238 x410, spamCount: 3
+2024-05-23T05:58:25.318Z [user-service] [32minfo[39m: Creating spam #10 with phoneNumber: (301) 529-6645 x879, spamCount: 9
+2024-05-23T05:58:25.318Z [user-service] [32minfo[39m: Finished populating the database
+2024-05-23T05:58:32.973Z [user-service] [32minfo[39m: Starting to populate the database
+2024-05-23T05:58:32.984Z [user-service] [32minfo[39m: Listening on port 3000
+2024-05-23T05:58:33.103Z [user-service] [32minfo[39m: Created user #1 with ID: 81, name: Josephine McCullough, phoneNumber: (368) 858-9062 x2041, email: Eliza.Zboncak23@gmail.com, password: $2b$10$C39numF05GRJ29OYZuVLZeWf1.5RtFJhvhA2CK8bUZn2wdX4ePVka
+2024-05-23T05:58:33.208Z [user-service] [32minfo[39m: Created user #2 with ID: 82, name: Mrs. Cindy Schowalter, phoneNumber: (564) 700-6219 x610, email: Marcos.Murazik@hotmail.com, password: $2b$10$piE9MSlx9Ic6WkOko5FwfOR4q3orzf8qKyDLOeFUmh/Y5A0FiYyU6
+2024-05-23T05:58:33.275Z [user-service] [32minfo[39m: Created user #3 with ID: 83, name: Stewart Crona DDS, phoneNumber: (913) 939-6236, email: Yessenia_Osinski5@yahoo.com, password: $2b$10$JxKC87r6jiRkpcc1kMg2EOCsgwAeacDCp.dGeAnmYODw6npuO8gay
+2024-05-23T05:58:33.340Z [user-service] [32minfo[39m: Created user #4 with ID: 84, name: Corey West, phoneNumber: (445) 722-1705, email: Charles42@yahoo.com, password: $2b$10$rmhhFrc74qqkViD1EPx.JO9FAzPuHGWUDiRkexqXCDsjS74J/PLHO
+2024-05-23T05:58:33.400Z [user-service] [32minfo[39m: Created user #5 with ID: 85, name: Camille Haley, phoneNumber: (898) 265-6668 x822, email: Wyatt2@gmail.com, password: $2b$10$Ay0.zYTtDZISSIQbh072JuZJJ1PAy9Hq9Ks/ZJ39Hj/e5Cndfb/Fe
+2024-05-23T05:58:33.457Z [user-service] [32minfo[39m: Created user #6 with ID: 86, name: Angelo Hirthe, phoneNumber: 265-818-4862 x72885, email: Tamia_Schmeler@yahoo.com, password: $2b$10$F3OIggZNRCG9x7sTQouQveZR.EPbHByOIBnHO9xiybxtdE.b4xSNG
+2024-05-23T05:58:33.516Z [user-service] [32minfo[39m: Created user #7 with ID: 87, name: Daniel Robel, phoneNumber: 865-984-1120 x042, email: Lonnie_Treutel95@gmail.com, password: $2b$10$.BlCNOpB6NJwZH3bMx2Gpe//RvcQtVidMPXHXAE195aIBFvzns/HK
+2024-05-23T05:58:33.575Z [user-service] [32minfo[39m: Created user #8 with ID: 88, name: Dr. Richard Hintz, phoneNumber: 802-782-9183, email: Garth.Bartoletti95@hotmail.com, password: $2b$10$f5Gq52bA8r7UptO90wb5/.VpTsk1x.1yGjfr..5xU5NHtrCMqx16G
+2024-05-23T05:58:33.634Z [user-service] [32minfo[39m: Created user #9 with ID: 89, name: Erin Lemke, phoneNumber: (328) 968-7718, email: Orpha.Bergnaum69@yahoo.com, password: $2b$10$2Gec8blM48YmF8pjwCAsueiiFtXYlD4vEp.AecVZaW4tk//jzY6Ce
+2024-05-23T05:58:33.692Z [user-service] [32minfo[39m: Created user #10 with ID: 90, name: Kellie Hilll, phoneNumber: 807.527.0634 x6982, email: Coty.Jast39@hotmail.com, password: $2b$10$2f0xxu2QGoBTAn5PQH6DLOB4YlqxNo98pAHBJWSG3QxJhwbxtMj4K
+2024-05-23T05:58:33.692Z [user-service] [32minfo[39m: Creating contact #1 with name: Derek Steuber, phoneNumber: (966) 798-4871, registered: true, userID: 88
+2024-05-23T05:58:33.696Z [user-service] [32minfo[39m: Creating contact #2 with name: Shaun Kreiger, phoneNumber: 224-335-4769 x6759, registered: true, userID: 85
+2024-05-23T05:58:33.698Z [user-service] [32minfo[39m: Creating contact #3 with name: Arlene Ziemann DVM, phoneNumber: 1-302-652-9794 x941, registered: false, userID: null
+2024-05-23T05:58:33.699Z [user-service] [32minfo[39m: Creating contact #4 with name: Carrie Langworth, phoneNumber: (267) 833-0557 x323, registered: false, userID: null
+2024-05-23T05:58:33.701Z [user-service] [32minfo[39m: Creating contact #5 with name: Marta Hermann, phoneNumber: 564-936-9963 x015, registered: false, userID: null
+2024-05-23T05:58:33.702Z [user-service] [32minfo[39m: Creating contact #6 with name: Andy Kreiger, phoneNumber: 1-317-456-4566 x917, registered: true, userID: 85
+2024-05-23T05:58:33.703Z [user-service] [32minfo[39m: Creating contact #7 with name: Saul Braun, phoneNumber: 238-524-0562 x54975, registered: true, userID: 90
+2024-05-23T05:58:33.704Z [user-service] [32minfo[39m: Creating contact #8 with name: Dr. Rolando Rutherford, phoneNumber: 705.494.9790, registered: true, userID: 88
+2024-05-23T05:58:33.706Z [user-service] [32minfo[39m: Creating contact #9 with name: Carolyn Kohler, phoneNumber: 1-819-740-0428 x63127, registered: true, userID: 83
+2024-05-23T05:58:33.707Z [user-service] [32minfo[39m: Creating contact #10 with name: Malcolm Schulist, phoneNumber: (959) 813-4010 x982, registered: true, userID: 84
+2024-05-23T05:58:33.708Z [user-service] [32minfo[39m: Creating spam #1 with phoneNumber: (214) 321-7516 x7256, spamCount: 4
+2024-05-23T05:58:33.710Z [user-service] [32minfo[39m: Creating spam #2 with phoneNumber: 404-488-2123, spamCount: 3
+2024-05-23T05:58:33.711Z [user-service] [32minfo[39m: Creating spam #3 with phoneNumber: 1-611-545-9301 x6420, spamCount: 6
+2024-05-23T05:58:33.712Z [user-service] [32minfo[39m: Creating spam #4 with phoneNumber: 1-628-888-8123 x708, spamCount: 6
+2024-05-23T05:58:33.713Z [user-service] [32minfo[39m: Creating spam #5 with phoneNumber: (279) 269-4302 x7991, spamCount: 2
+2024-05-23T05:58:33.715Z [user-service] [32minfo[39m: Creating spam #6 with phoneNumber: 530.568.8893 x87418, spamCount: 7
+2024-05-23T05:58:33.716Z [user-service] [32minfo[39m: Creating spam #7 with phoneNumber: 806.909.1306, spamCount: 3
+2024-05-23T05:58:33.718Z [user-service] [32minfo[39m: Creating spam #8 with phoneNumber: 400.864.6437 x2185, spamCount: 2
+2024-05-23T05:58:33.719Z [user-service] [32minfo[39m: Creating spam #9 with phoneNumber: 310-582-7585 x87694, spamCount: 7
+2024-05-23T05:58:33.720Z [user-service] [32minfo[39m: Creating spam #10 with phoneNumber: 422-629-3367 x342, spamCount: 5
+2024-05-23T05:58:33.721Z [user-service] [32minfo[39m: Finished populating the database
+2024-05-23T05:58:39.836Z [user-service] [32minfo[39m: Starting to populate the database
+2024-05-23T05:58:39.844Z [user-service] [32minfo[39m: Listening on port 3000
+2024-05-23T05:58:39.954Z [user-service] [32minfo[39m: Created user #1 with ID: 91, name: Richard Toy, phoneNumber: 729.560.1511 x3158, email: Zander.Zieme@yahoo.com, password: $2b$10$F1Y0ZHazU8vqryLTKdY5r.MdTwnxqldEcg/x2snmsWwbrV5k/PtvG
+2024-05-23T05:58:40.056Z [user-service] [32minfo[39m: Created user #2 with ID: 92, name: Dana Mayert, phoneNumber: (489) 569-2873, email: Maybell.Larson34@gmail.com, password: $2b$10$8D0nQ8xIXjTH8/V6cyodQuHwrPSRzhR.fu7pN58DsDwR7ontUjOei
+2024-05-23T05:58:40.138Z [user-service] [32minfo[39m: Created user #3 with ID: 93, name: Candice Daugherty, phoneNumber: 701-838-9717, email: Jeramy_Armstrong55@gmail.com, password: $2b$10$TdxE4YEeuJrCEALHNxGXUOGtcBHUfATmFwmqdlPP4qDDmkm8UrYVu
+2024-05-23T05:58:40.196Z [user-service] [32minfo[39m: Created user #4 with ID: 94, name: Terri Douglas MD, phoneNumber: (978) 217-7309, email: Asha_Klein6@yahoo.com, password: $2b$10$3eLSkioZmAg/.MSRx7wQWOU33VwuRWE34z9l8rRZiou2fSKHwKSne
+2024-05-23T05:58:40.256Z [user-service] [32minfo[39m: Created user #5 with ID: 95, name: Everett Berge, phoneNumber: 1-245-620-2874 x79377, email: Jaunita.Prohaska@hotmail.com, password: $2b$10$c/vYTh9ViWjzJWOzJk91M.dA0R59oAMD8JSVSwiINaJ/9BiIoUFkO
+2024-05-23T05:58:40.317Z [user-service] [32minfo[39m: Created user #6 with ID: 96, name: Edmund Watsica, phoneNumber: 1-616-630-0707, email: Claud30@yahoo.com, password: $2b$10$kjFOlbBOpxIobAhlyBN1TOCoagHfKagxU36Dsj.U77mgyzOfmwIOK
+2024-05-23T05:58:40.380Z [user-service] [32minfo[39m: Created user #7 with ID: 97, name: Miss Winifred Kemmer, phoneNumber: (655) 436-6237 x843, email: Jefferey.Auer4@yahoo.com, password: $2b$10$I5CLrYwk1baXEVnjfVozdudO6SglX3Ur3AiOE76LW8aBlPQqZSyeC
+2024-05-23T05:58:40.442Z [user-service] [32minfo[39m: Created user #8 with ID: 98, name: Sonya Tremblay, phoneNumber: (372) 925-7320 x6880, email: Benton58@yahoo.com, password: $2b$10$SySlqlh.zqNtFbqWW0vgd.K6JHROL4N45EpUud.UArujxci6dGc06
+2024-05-23T05:58:40.501Z [user-service] [32minfo[39m: Created user #9 with ID: 99, name: Mary Schulist, phoneNumber: 1-777-781-3768 x5968, email: Hillary.Gottlieb@hotmail.com, password: $2b$10$QXIc/4GCyr0vMZSbgK5I0O.MMFgWzn4W0uzjalBv8rpYnHYQiLXE2
+2024-05-23T05:58:40.560Z [user-service] [32minfo[39m: Created user #10 with ID: 100, name: Dorothy MacGyver, phoneNumber: (704) 824-4503 x27742, email: Dewitt.Cummings13@gmail.com, password: $2b$10$ND8wEPvurGvbHmazN.lNC.1s7y9zXpP0Af53qy/5Toq3poCpqDEn6
+2024-05-23T05:58:40.561Z [user-service] [32minfo[39m: Creating contact #1 with name: Ervin Roberts, phoneNumber: 1-488-247-5663 x533, registered: true, userID: 99
+2024-05-23T05:58:40.564Z [user-service] [32minfo[39m: Creating contact #2 with name: Dr. Perry Powlowski III, phoneNumber: 1-383-573-6726 x57559, registered: true, userID: 92
+2024-05-23T05:58:40.566Z [user-service] [32minfo[39m: Creating contact #3 with name: Gilbert Becker, phoneNumber: 455-915-7782 x52773, registered: false, userID: null
+2024-05-23T05:58:40.566Z [user-service] [32minfo[39m: Creating contact #4 with name: Sheri Feest, phoneNumber: 1-843-385-0676 x484, registered: false, userID: null
+2024-05-23T05:58:40.567Z [user-service] [32minfo[39m: Creating contact #5 with name: Camille Dickinson, phoneNumber: 627.599.6402 x17168, registered: false, userID: null
+2024-05-23T05:58:40.568Z [user-service] [32minfo[39m: Creating contact #6 with name: Wilson Bayer, phoneNumber: (986) 882-7069, registered: true, userID: 93
+2024-05-23T05:58:40.569Z [user-service] [32minfo[39m: Creating contact #7 with name: Darrel Hirthe, phoneNumber: (855) 534-0966, registered: true, userID: 91
+2024-05-23T05:58:40.570Z [user-service] [32minfo[39m: Creating contact #8 with name: Mary Sauer, phoneNumber: (752) 606-2651, registered: false, userID: null
+2024-05-23T05:58:40.571Z [user-service] [32minfo[39m: Creating contact #9 with name: Muriel Jast, phoneNumber: 380.345.4410 x360, registered: false, userID: null
+2024-05-23T05:58:40.574Z [user-service] [32minfo[39m: Creating contact #10 with name: Felix Blanda, phoneNumber: 715-388-1410 x59664, registered: true, userID: 100
+2024-05-23T05:58:40.576Z [user-service] [32minfo[39m: Creating spam #1 with phoneNumber: (547) 853-5023 x5391, spamCount: 10
+2024-05-23T05:58:40.579Z [user-service] [32minfo[39m: Creating spam #2 with phoneNumber: (881) 579-5980 x481, spamCount: 7
+2024-05-23T05:58:40.580Z [user-service] [32minfo[39m: Creating spam #3 with phoneNumber: (734) 500-6515, spamCount: 6
+2024-05-23T05:58:40.581Z [user-service] [32minfo[39m: Creating spam #4 with phoneNumber: 358.478.4477 x6265, spamCount: 1
+2024-05-23T05:58:40.582Z [user-service] [32minfo[39m: Creating spam #5 with phoneNumber: 1-544-388-5712, spamCount: 10
+2024-05-23T05:58:40.583Z [user-service] [32minfo[39m: Creating spam #6 with phoneNumber: (723) 654-9965 x9469, spamCount: 9
+2024-05-23T05:58:40.583Z [user-service] [32minfo[39m: Creating spam #7 with phoneNumber: 943.532.6685 x764, spamCount: 10
+2024-05-23T05:58:40.584Z [user-service] [32minfo[39m: Creating spam #8 with phoneNumber: 793-376-8440 x216, spamCount: 6
+2024-05-23T05:58:40.585Z [user-service] [32minfo[39m: Creating spam #9 with phoneNumber: 1-859-392-2115 x1152, spamCount: 7
+2024-05-23T05:58:40.585Z [user-service] [32minfo[39m: Creating spam #10 with phoneNumber: 524.781.4543 x492, spamCount: 3
+2024-05-23T05:58:40.586Z [user-service] [32minfo[39m: Finished populating the database
+2024-05-23T05:59:06.455Z [user-service] [32minfo[39m: Starting to populate the database
+2024-05-23T05:59:06.464Z [user-service] [32minfo[39m: Listening on port 3000
+2024-05-23T05:59:06.573Z [user-service] [32minfo[39m: Created user #1 with ID: 101, name: Chris Wuckert, phoneNumber: 700.713.0158 x0992, email: Margot_Ankunding@hotmail.com, password: $2b$10$m1afWv.oN9dDzI/y7I6I8OaGUtcCZWojbSilLpokwGUeDHHEY0XPK
+2024-05-23T05:59:06.691Z [user-service] [32minfo[39m: Created user #2 with ID: 102, name: Shawn Tromp, phoneNumber: 728.394.5496 x1788, email: Olaf61@gmail.com, password: $2b$10$r4BrYsqpLWVbuueKQcZVhuml0Aq4Fg4j5TL4IQno5GJQ/1a2rPSYC
+2024-05-23T05:59:06.748Z [user-service] [32minfo[39m: Created user #3 with ID: 103, name: Yvonne Hoeger, phoneNumber: (707) 329-7666 x3567, email: Kraig_Langosh88@gmail.com, password: $2b$10$SRgHk2oKe1hBIJUDaL3aUO9eSQaGy1iVcpWDNFoubq.oTB3zdvpA6
+2024-05-23T05:59:06.806Z [user-service] [32minfo[39m: Created user #4 with ID: 104, name: Genevieve D'Amore, phoneNumber: 949.464.6838 x8999, email: Selena.Waelchi55@yahoo.com, password: $2b$10$VuBZJZhybh57pqwzSnbBu.C47PHOrDVZe54HKje2b0OoZW7AQD9Ki
+2024-05-23T05:59:06.875Z [user-service] [32minfo[39m: Created user #5 with ID: 105, name: Mr. Bob Beer V, phoneNumber: (902) 728-4748 x106, email: Boris.Effertz95@yahoo.com, password: $2b$10$cYB6pFK3eTGHy/2V.x3EK.p7imm22kpoZ.AZmjiiNyHU.iQjTFyWO
+2024-05-23T05:59:06.936Z [user-service] [32minfo[39m: Created user #6 with ID: 106, name: Alexis Brown-Olson, phoneNumber: 1-450-927-6522, email: Maxwell4@hotmail.com, password: $2b$10$CFxSsIWIeknM4NudmiXJIeRtmj7y.AG0hfKa8j6P8YXLExG9oRQyO
+2024-05-23T05:59:06.995Z [user-service] [32minfo[39m: Created user #7 with ID: 107, name: Evelyn Stehr, phoneNumber: 298-551-1329, email: Seth_Littel47@yahoo.com, password: $2b$10$Vzez/4b/i.cNO7tFpVmi2eIpXfKiQm9RpXXTyporZKHLNpEUSHOnm
+2024-05-23T05:59:07.079Z [user-service] [32minfo[39m: Created user #8 with ID: 108, name: Dr. Leona Schultz, phoneNumber: 313-729-8347 x0465, email: Delphine.Schaefer@hotmail.com, password: $2b$10$Io6dD61buDWDihA8wxe1hOs52VorcExB7qs/H7eY/8GF56walZt7m
+2024-05-23T05:59:07.151Z [user-service] [32minfo[39m: Created user #9 with ID: 109, name: Rene Lakin, phoneNumber: 1-820-282-4513 x3300, email: Clarabelle.Kling@hotmail.com, password: $2b$10$XCGM6q0cC8tCGkmFI9brEu8Pm2xATXmMU1iCDsyj3YxgSepBsA7P6
+2024-05-23T05:59:07.216Z [user-service] [32minfo[39m: Created user #10 with ID: 110, name: Rhonda Herman, phoneNumber: 388.259.2356 x9261, email: Brennon.Jenkins@gmail.com, password: $2b$10$.OZWrYIMSj7gato1p4PTnOEO5/ldnpqs7PAP/VoPk4HWy1C/b8a2q
+2024-05-23T05:59:07.217Z [user-service] [32minfo[39m: Creating contact #1 with name: Leo Cummings, phoneNumber: 1-318-946-7307, registered: true, userID: 106
+2024-05-23T05:59:07.220Z [user-service] [32minfo[39m: Creating contact #2 with name: Pedro Kuhic, phoneNumber: 1-886-814-6539 x2990, registered: true, userID: 101
+2024-05-23T05:59:07.222Z [user-service] [32minfo[39m: Creating contact #3 with name: Elias Bode, phoneNumber: 756-445-2067 x614, registered: true, userID: 106
+2024-05-23T05:59:07.223Z [user-service] [32minfo[39m: Creating contact #4 with name: Cary Zboncak, phoneNumber: 436.451.3665, registered: false, userID: null
+2024-05-23T05:59:07.224Z [user-service] [32minfo[39m: Creating contact #5 with name: Ivan Botsford, phoneNumber: 835.781.7926 x91805, registered: true, userID: 108
+2024-05-23T05:59:07.226Z [user-service] [32minfo[39m: Creating contact #6 with name: Joey Spencer, phoneNumber: 834-846-5526 x314, registered: true, userID: 108
+2024-05-23T05:59:07.227Z [user-service] [32minfo[39m: Creating contact #7 with name: Bryant Kub, phoneNumber: 703.373.8156, registered: false, userID: null
+2024-05-23T05:59:07.229Z [user-service] [32minfo[39m: Creating contact #8 with name: Penny Jakubowski PhD, phoneNumber: 1-701-456-8644 x2722, registered: false, userID: null
+2024-05-23T05:59:07.230Z [user-service] [32minfo[39m: Creating contact #9 with name: Mr. Jesus Bartell, phoneNumber: 359-363-4831, registered: true, userID: 104
+2024-05-23T05:59:07.231Z [user-service] [32minfo[39m: Creating contact #10 with name: William Williamson, phoneNumber: (649) 357-7499 x57969, registered: false, userID: null
+2024-05-23T05:59:07.232Z [user-service] [32minfo[39m: Creating spam #1 with phoneNumber: 1-413-632-3159 x0092, spamCount: 8
+2024-05-23T05:59:07.235Z [user-service] [32minfo[39m: Creating spam #2 with phoneNumber: 626.284.4813 x587, spamCount: 10
+2024-05-23T05:59:07.236Z [user-service] [32minfo[39m: Creating spam #3 with phoneNumber: 359-678-6123, spamCount: 1
+2024-05-23T05:59:07.237Z [user-service] [32minfo[39m: Creating spam #4 with phoneNumber: 370.871.0610, spamCount: 7
+2024-05-23T05:59:07.238Z [user-service] [32minfo[39m: Creating spam #5 with phoneNumber: (811) 984-8292, spamCount: 1
+2024-05-23T05:59:07.239Z [user-service] [32minfo[39m: Creating spam #6 with phoneNumber: 407-671-7117 x181, spamCount: 10
+2024-05-23T05:59:07.240Z [user-service] [32minfo[39m: Creating spam #7 with phoneNumber: (780) 592-3040 x043, spamCount: 4
+2024-05-23T05:59:07.241Z [user-service] [32minfo[39m: Creating spam #8 with phoneNumber: 688-922-5134 x90820, spamCount: 9
+2024-05-23T05:59:07.242Z [user-service] [32minfo[39m: Creating spam #9 with phoneNumber: 739.747.9331 x702, spamCount: 8
+2024-05-23T05:59:07.244Z [user-service] [32minfo[39m: Creating spam #10 with phoneNumber: 1-543-983-8650, spamCount: 4
+2024-05-23T05:59:07.245Z [user-service] [32minfo[39m: Finished populating the database
+2024-05-23T05:59:13.961Z [user-service] [32minfo[39m: Starting to populate the database
+2024-05-23T05:59:13.968Z [user-service] [32minfo[39m: Listening on port 3000
+2024-05-23T05:59:14.094Z [user-service] [32minfo[39m: Created user #1 with ID: 111, name: Beth Jones, phoneNumber: 203-963-4015, email: Noble.Marks68@yahoo.com, password: $2b$10$KIpfhu5jvA4VKUr5URntmeAU1oo2s.rbBZqv03Yxa5X3KnhUufQ32
+2024-05-23T05:59:14.163Z [user-service] [32minfo[39m: Created user #2 with ID: 112, name: Rogelio Rice, phoneNumber: 1-673-263-2952 x8023, email: Virgil_Sawayn@yahoo.com, password: $2b$10$VliiihWoTOnemdImd7OFa.x3PKtTHR85icKA7IMc1ITomMlQFwMjq
+2024-05-23T05:59:14.226Z [user-service] [32minfo[39m: Created user #3 with ID: 113, name: Gary Schmitt, phoneNumber: 740.996.9156, email: Merritt_Wolff11@gmail.com, password: $2b$10$.soJxRBCEwTYqrtmWUjxY.0N3hkjNGMj1wDhSXjWs98amVT3h9O4C
+2024-05-23T05:59:14.292Z [user-service] [32minfo[39m: Created user #4 with ID: 114, name: Dr. Santos Murphy-Predovic, phoneNumber: 213-240-6667, email: Norval65@hotmail.com, password: $2b$10$I4wTUvHvROsGcGRJLNumY.3dLXk9mQD78k3yD00gi6355xwsRKv..
+2024-05-23T05:59:14.354Z [user-service] [32minfo[39m: Created user #5 with ID: 115, name: Terence McCullough III, phoneNumber: 1-383-210-0037 x4823, email: Cyrus.Larkin-Miller71@gmail.com, password: $2b$10$IRZl4pCDIdVVCXtEZQPvNOaup7/4mHPJgGC1bwRStF0fvv8ALES3W
+2024-05-23T05:59:14.417Z [user-service] [32minfo[39m: Created user #6 with ID: 116, name: Delbert Haley-Bashirian, phoneNumber: (919) 761-0197 x6474, email: Jessika.Botsford16@hotmail.com, password: $2b$10$6Ny9UAllh/EV0wc2MPrDEOzBYnttAPkpefDDpSl721V3bHz5ZKCT.
+2024-05-23T05:59:14.482Z [user-service] [32minfo[39m: Created user #7 with ID: 117, name: Heather Hammes, phoneNumber: 854-695-0768 x60406, email: Baylee0@gmail.com, password: $2b$10$kU8IJAdFpf0lsGrSAh3Vz.kO9RWPBDTToEd/X0GP4SMro3HjtK4Hu
+2024-05-23T05:59:14.547Z [user-service] [32minfo[39m: Created user #8 with ID: 118, name: Roy Ernser, phoneNumber: 805-780-1663 x92857, email: Dariana43@hotmail.com, password: $2b$10$TxvY9GQFUst/HiU7N4fZ1OayjiSMg7R6SAQPvTLpv0auHIweV.Phq
+2024-05-23T05:59:14.613Z [user-service] [32minfo[39m: Created user #9 with ID: 119, name: Dwayne Kemmer, phoneNumber: (797) 267-5346, email: Leda.Dickinson@gmail.com, password: $2b$10$vM1kK8MUvscbKOoLUbkvUuzbRE3u8LJj7ty0gh3spFnhKt65YAoqC
+2024-05-23T05:59:14.670Z [user-service] [32minfo[39m: Created user #10 with ID: 120, name: Marion Rolfson, phoneNumber: 1-317-820-6818 x0405, email: George19@hotmail.com, password: $2b$10$64gnr8/qVq97iK8YeUc0z.JIsCVdjSSFjreqdnnSIDOllCm7P/Vbq
+2024-05-23T05:59:14.671Z [user-service] [32minfo[39m: Creating contact #1 with name: Dr. Andy Hintz, phoneNumber: 303.952.2771 x6142, registered: false, userID: null
+2024-05-23T05:59:14.674Z [user-service] [32minfo[39m: Creating contact #2 with name: Ora Legros, phoneNumber: 1-822-222-7586, registered: true, userID: 117
+2024-05-23T05:59:14.678Z [user-service] [32minfo[39m: Creating contact #3 with name: Elsa White, phoneNumber: 279-874-2709 x9129, registered: false, userID: null
+2024-05-23T05:59:14.679Z [user-service] [32minfo[39m: Creating contact #4 with name: Frank Ruecker, phoneNumber: 397.951.3913 x8582, registered: true, userID: 112
+2024-05-23T05:59:14.681Z [user-service] [32minfo[39m: Creating contact #5 with name: Rudolph Koch, phoneNumber: (468) 284-1998, registered: true, userID: 117
+2024-05-23T05:59:14.682Z [user-service] [32minfo[39m: Creating contact #6 with name: Bryant Terry, phoneNumber: 951.775.9201, registered: true, userID: 114
+2024-05-23T05:59:14.683Z [user-service] [32minfo[39m: Creating contact #7 with name: Michele Franey, phoneNumber: 1-904-416-2423 x86061, registered: false, userID: null
+2024-05-23T05:59:14.684Z [user-service] [32minfo[39m: Creating contact #8 with name: Cheryl Stoltenberg, phoneNumber: 582.294.6756 x2020, registered: false, userID: null
+2024-05-23T05:59:14.684Z [user-service] [32minfo[39m: Creating contact #9 with name: Sarah Mueller, phoneNumber: 768.463.8254 x74080, registered: true, userID: 118
+2024-05-23T05:59:14.685Z [user-service] [32minfo[39m: Creating contact #10 with name: Dr. Andrew Schumm, phoneNumber: 871-772-5183 x56210, registered: false, userID: null
+2024-05-23T05:59:14.686Z [user-service] [32minfo[39m: Creating spam #1 with phoneNumber: 931-798-1194 x56827, spamCount: 3
+2024-05-23T05:59:14.688Z [user-service] [32minfo[39m: Creating spam #2 with phoneNumber: 1-679-638-3658, spamCount: 5
+2024-05-23T05:59:14.688Z [user-service] [32minfo[39m: Creating spam #3 with phoneNumber: 654.369.3286 x916, spamCount: 10
+2024-05-23T05:59:14.689Z [user-service] [32minfo[39m: Creating spam #4 with phoneNumber: 351-979-1264 x196, spamCount: 10
+2024-05-23T05:59:14.691Z [user-service] [32minfo[39m: Creating spam #5 with phoneNumber: 523-411-7058 x045, spamCount: 10
+2024-05-23T05:59:14.693Z [user-service] [32minfo[39m: Creating spam #6 with phoneNumber: (631) 371-1354, spamCount: 9
+2024-05-23T05:59:14.695Z [user-service] [32minfo[39m: Creating spam #7 with phoneNumber: 644.256.4461, spamCount: 4
+2024-05-23T05:59:14.696Z [user-service] [32minfo[39m: Creating spam #8 with phoneNumber: (377) 226-0725 x401, spamCount: 8
+2024-05-23T05:59:14.697Z [user-service] [32minfo[39m: Creating spam #9 with phoneNumber: (824) 452-5475 x3043, spamCount: 5
+2024-05-23T05:59:14.698Z [user-service] [32minfo[39m: Creating spam #10 with phoneNumber: 432-999-1062, spamCount: 4
+2024-05-23T05:59:14.699Z [user-service] [32minfo[39m: Finished populating the database
+2024-05-23T05:59:29.214Z [user-service] [32minfo[39m: Starting to populate the database
+2024-05-23T05:59:29.224Z [user-service] [32minfo[39m: Listening on port 3000
+2024-05-23T05:59:29.426Z [user-service] [32minfo[39m: Created user #1 with ID: 121, name: Jeff Boyer, phoneNumber: 315-517-2433 x787, email: Eliezer_Tillman@gmail.com, password: $2b$10$lmyj7AL4.ejjKkouPfizTe2i/OndG4LR8igatRajZqQFOcmN6dV62
+2024-05-23T05:59:29.486Z [user-service] [32minfo[39m: Created user #2 with ID: 122, name: Leonard Weimann, phoneNumber: (428) 344-3409 x0335, email: Daisy39@gmail.com, password: $2b$10$NgV8soizZalfq3jYxxZQ4OLn7OoOwMsmi36yZ2On.w34Q.bB49Nim
+2024-05-23T05:59:29.545Z [user-service] [32minfo[39m: Created user #3 with ID: 123, name: Daniel Gorczany I, phoneNumber: 643-870-1596 x78905, email: Jazmyne5@gmail.com, password: $2b$10$.2oE3RPlwoEZqCAxjNgn8.EYX6ers8jlEpKVwik2.sZkoHW1F0PzS
+2024-05-23T05:59:29.604Z [user-service] [32minfo[39m: Created user #4 with ID: 124, name: Janet Grady, phoneNumber: (257) 405-5019 x06893, email: Nels.Morar90@gmail.com, password: $2b$10$ilj30cwf98lp3xe/mxWF8eEWdwEKZkcoOas/lacLXSqRHGrrEKf06
+2024-05-23T05:59:29.663Z [user-service] [32minfo[39m: Created user #5 with ID: 125, name: Amos Flatley, phoneNumber: 1-627-293-4421 x83733, email: Nico51@hotmail.com, password: $2b$10$Q8T0PNp8vCepn6jVXrFti.v5ZQD6DUMT56n7mON7bLJ8Ds1LlLb.C
+2024-05-23T05:59:29.721Z [user-service] [32minfo[39m: Created user #6 with ID: 126, name: Mrs. Cecelia Gleason, phoneNumber: 1-257-332-5423 x8914, email: Deshawn.Crist@yahoo.com, password: $2b$10$VnlYxJhl9fRr3uOaLmh2FugO8m.6jFE.Q.IVo9MrbO1aGl.5M6apO
+2024-05-23T05:59:29.781Z [user-service] [32minfo[39m: Created user #7 with ID: 127, name: Jonathan Pfeffer, phoneNumber: 626.770.0050 x08679, email: Katlyn99@hotmail.com, password: $2b$10$dh4mBeQHDHvpgG7WeoI62uIEHOuIQ33SrrjI0q2ryg9eYCUNVqyPu
+2024-05-23T05:59:29.841Z [user-service] [32minfo[39m: Created user #8 with ID: 128, name: Isaac Kuphal, phoneNumber: 1-887-833-7712 x891, email: Alba.Simonis46@hotmail.com, password: $2b$10$DR/nlMs5R/RPVbW8MxA2iuXAw4797PVtS6DblSxhMTubA8b/o.ONi
+2024-05-23T05:59:29.899Z [user-service] [32minfo[39m: Created user #9 with ID: 129, name: Robin Gerlach, phoneNumber: 1-268-613-5197 x91289, email: Oceane.Daugherty@yahoo.com, password: $2b$10$.NZPbcE1RV2X1sh/jkseFew89w5x52p9ZnaWchR9yDXCUioWhC/va
+2024-05-23T05:59:29.959Z [user-service] [32minfo[39m: Created user #10 with ID: 130, name: Amber Ruecker, phoneNumber: 1-430-913-4240 x4562, email: Glenna_Baumbach27@gmail.com, password: $2b$10$SPATzOq3CdFJ3M4MCEsvB.9JIGtyGI00bG2bwCFEH6.lEwBkP3m2O
+2024-05-23T05:59:29.959Z [user-service] [32minfo[39m: Creating contact #1 with name: Dr. Roger Beer, phoneNumber: 501.381.3356 x7674, registered: false, userID: null
+2024-05-23T05:59:29.962Z [user-service] [32minfo[39m: Creating contact #2 with name: Henry Jaskolski, phoneNumber: 1-681-788-4534 x3144, registered: true, userID: 123
+2024-05-23T05:59:29.965Z [user-service] [32minfo[39m: Creating contact #3 with name: Marcia Casper, phoneNumber: 1-419-220-8033, registered: true, userID: 130
+2024-05-23T05:59:29.966Z [user-service] [32minfo[39m: Creating contact #4 with name: Erik Beatty II, phoneNumber: 1-450-329-1097 x16226, registered: false, userID: null
+2024-05-23T05:59:29.968Z [user-service] [32minfo[39m: Creating contact #5 with name: Freddie Predovic, phoneNumber: 1-451-241-9136 x545, registered: false, userID: null
+2024-05-23T05:59:29.969Z [user-service] [32minfo[39m: Creating contact #6 with name: Celia Bashirian, phoneNumber: 1-981-216-4019 x4839, registered: true, userID: 130
+2024-05-23T05:59:29.970Z [user-service] [32minfo[39m: Creating contact #7 with name: Sidney Franey, phoneNumber: (567) 917-6181, registered: true, userID: 124
+2024-05-23T05:59:29.971Z [user-service] [32minfo[39m: Creating contact #8 with name: Gabriel Nikolaus, phoneNumber: 241-393-0998, registered: false, userID: null
+2024-05-23T05:59:29.972Z [user-service] [32minfo[39m: Creating contact #9 with name: Angel Graham PhD, phoneNumber: (259) 562-3660 x7579, registered: false, userID: null
+2024-05-23T05:59:29.973Z [user-service] [32minfo[39m: Creating contact #10 with name: Tasha Brekke, phoneNumber: 772.790.4452 x4052, registered: true, userID: 128
+2024-05-23T05:59:29.974Z [user-service] [32minfo[39m: Creating spam #1 with phoneNumber: (663) 912-9647 x263, spamCount: 7
+2024-05-23T05:59:29.975Z [user-service] [32minfo[39m: Creating spam #2 with phoneNumber: 1-829-505-4686 x5198, spamCount: 2
+2024-05-23T05:59:29.976Z [user-service] [32minfo[39m: Creating spam #3 with phoneNumber: 655.577.8362 x61323, spamCount: 8
+2024-05-23T05:59:29.977Z [user-service] [32minfo[39m: Creating spam #4 with phoneNumber: (507) 813-0001 x30591, spamCount: 7
+2024-05-23T05:59:29.978Z [user-service] [32minfo[39m: Creating spam #5 with phoneNumber: 831.916.1319 x51369, spamCount: 1
+2024-05-23T05:59:29.980Z [user-service] [32minfo[39m: Creating spam #6 with phoneNumber: (832) 294-9836 x0728, spamCount: 4
+2024-05-23T05:59:29.981Z [user-service] [32minfo[39m: Creating spam #7 with phoneNumber: 427.692.0412 x1567, spamCount: 6
+2024-05-23T05:59:29.982Z [user-service] [32minfo[39m: Creating spam #8 with phoneNumber: 423.697.2362, spamCount: 6
+2024-05-23T05:59:29.983Z [user-service] [32minfo[39m: Creating spam #9 with phoneNumber: (679) 880-6454, spamCount: 8
+2024-05-23T05:59:29.983Z [user-service] [32minfo[39m: Creating spam #10 with phoneNumber: 925-414-6666 x08834, spamCount: 9
+2024-05-23T05:59:29.984Z [user-service] [32minfo[39m: Finished populating the database
+2024-05-23T05:59:48.031Z [user-service] [32minfo[39m: Starting to populate the database
+2024-05-23T05:59:48.040Z [user-service] [32minfo[39m: Listening on port 3000
+2024-05-23T05:59:48.157Z [user-service] [32minfo[39m: Created user #1 with ID: 131, name: Eula Kuphal, phoneNumber: (532) 260-1781 x780, email: Kari39@hotmail.com, password: $2b$10$kIXoICOET/Ho8XW/hXC6h.xuzA/YVgDhScL0VdrlXBbrfCKjHXQqG
+2024-05-23T05:59:48.215Z [user-service] [32minfo[39m: Created user #2 with ID: 132, name: Miss Olivia Walsh, phoneNumber: 744-405-4649 x7745, email: Hettie70@hotmail.com, password: $2b$10$3bCV3rkAiGymodK3EBnxL.9sZsD1Le9O4Ab3P0g/A4MqkaLIvv6Hm
+2024-05-23T05:59:48.273Z [user-service] [32minfo[39m: Created user #3 with ID: 133, name: Angel Trantow DVM, phoneNumber: 1-426-745-1458 x59650, email: Miller_Trantow59@gmail.com, password: $2b$10$DghzErOxUabT1Wwg/PBH/O9xKAM9M5Y9OBSd3JrTtgeyJjGml4lyO
+2024-05-23T05:59:48.333Z [user-service] [32minfo[39m: Created user #4 with ID: 134, name: Priscilla Fritsch, phoneNumber: (273) 900-3939 x512, email: Dariana_OReilly@hotmail.com, password: $2b$10$kzAMtl39MqfcgGQSBcqOKONz3WUfqyGekZyKpG5AzVPP7djErQ5za
+2024-05-23T05:59:48.396Z [user-service] [32minfo[39m: Created user #5 with ID: 135, name: Sherri Shields, phoneNumber: (610) 487-5630 x095, email: Myrtice70@hotmail.com, password: $2b$10$p.G2aGeQnaonXP4e9i8wZ.Wln7N5cgJ.jDLEo7NRrLfMYqilETCE6
+2024-05-23T05:59:48.456Z [user-service] [32minfo[39m: Created user #6 with ID: 136, name: Lisa Blanda Sr., phoneNumber: 1-873-853-5643, email: Lonie.Spinka@yahoo.com, password: $2b$10$vGZ1/AnhhDBcxtz6nOs2IO4y5EvtUEeQVgFMP6ujgNkxf.mdVUcCC
+2024-05-23T05:59:48.520Z [user-service] [32minfo[39m: Created user #7 with ID: 137, name: Ian Jenkins, phoneNumber: 1-463-557-0037, email: Lenora_Wyman78@hotmail.com, password: $2b$10$j2I2X1SmxKmqmu5aSCsU2.Z4Cnjr2pZBwO7ALKIEtOSkbAUAM3aCC
+2024-05-23T05:59:48.578Z [user-service] [32minfo[39m: Created user #8 with ID: 138, name: Jeffery Bogan, phoneNumber: (878) 388-8810 x41350, email: Fred_Nienow@yahoo.com, password: $2b$10$zp1Yc/yMoUvFaqk/r1miDeezF.RtI6T/8eDT0FUa66FwURqm.H8jG
+2024-05-23T05:59:48.636Z [user-service] [32minfo[39m: Created user #9 with ID: 139, name: Jeremiah Mitchell, phoneNumber: 451.497.0998, email: Celestino_Koelpin97@gmail.com, password: $2b$10$jLa2xuHIGIgRUxsvaD/cPO5i6vFLJh4.og8FrELk2Up4dKKd3vtq.
+2024-05-23T05:59:48.694Z [user-service] [32minfo[39m: Created user #10 with ID: 140, name: Ernesto Kuphal, phoneNumber: 734-624-1597 x22118, email: Cassandra_Jaskolski@yahoo.com, password: $2b$10$fQDoWMJ/VAQL3tljyqNOY.Vmuipx/XY33kmvM4lQ7Hv20Bx2JWxZu
+2024-05-23T05:59:48.695Z [user-service] [32minfo[39m: Creating contact #1 with name: Mrs. Elvira Hammes, phoneNumber: 1-641-617-6397, registered: false, userID: null
+2024-05-23T05:59:48.697Z [user-service] [32minfo[39m: Creating contact #2 with name: Dixie Erdman, phoneNumber: (601) 392-1265 x8599, registered: false, userID: null
+2024-05-23T05:59:48.699Z [user-service] [32minfo[39m: Creating contact #3 with name: Mark Nikolaus, phoneNumber: 450.798.4067, registered: true, userID: 138
+2024-05-23T05:59:48.701Z [user-service] [32minfo[39m: Creating contact #4 with name: Dr. Andy Kassulke, phoneNumber: (489) 396-5221 x6599, registered: true, userID: 139
+2024-05-23T05:59:48.703Z [user-service] [32minfo[39m: Creating contact #5 with name: Mrs. Janie Halvorson, phoneNumber: (972) 320-6591 x617, registered: false, userID: null
+2024-05-23T05:59:48.704Z [user-service] [32minfo[39m: Creating contact #6 with name: Juanita Herzog, phoneNumber: 462.584.4531 x6864, registered: true, userID: 136
+2024-05-23T05:59:48.705Z [user-service] [32minfo[39m: Creating contact #7 with name: Iris Corkery DDS, phoneNumber: 430.548.2003 x27621, registered: true, userID: 133
+2024-05-23T05:59:48.706Z [user-service] [32minfo[39m: Creating contact #8 with name: Malcolm Torp, phoneNumber: 1-284-453-2989 x5249, registered: false, userID: null
+2024-05-23T05:59:48.708Z [user-service] [32minfo[39m: Creating contact #9 with name: Blanche Emard, phoneNumber: 897-830-7727 x6752, registered: true, userID: 131
+2024-05-23T05:59:48.708Z [user-service] [32minfo[39m: Creating contact #10 with name: Annie Quigley, phoneNumber: 963-782-2480 x48759, registered: true, userID: 139
+2024-05-23T05:59:48.722Z [user-service] [32minfo[39m: Creating spam #1 with phoneNumber: (683) 484-3000 x42209, spamCount: 2
+2024-05-23T05:59:48.725Z [user-service] [32minfo[39m: Creating spam #2 with phoneNumber: (840) 986-1214 x5019, spamCount: 10
+2024-05-23T05:59:48.728Z [user-service] [32minfo[39m: Creating spam #3 with phoneNumber: 1-861-839-8904 x9222, spamCount: 2
+2024-05-23T05:59:48.729Z [user-service] [32minfo[39m: Creating spam #4 with phoneNumber: 1-714-466-7814 x9377, spamCount: 1
+2024-05-23T05:59:48.730Z [user-service] [32minfo[39m: Creating spam #5 with phoneNumber: (750) 223-9523, spamCount: 3
+2024-05-23T05:59:48.731Z [user-service] [32minfo[39m: Creating spam #6 with phoneNumber: (917) 545-9315 x3543, spamCount: 7
+2024-05-23T05:59:48.732Z [user-service] [32minfo[39m: Creating spam #7 with phoneNumber: 495-202-0880 x442, spamCount: 4
+2024-05-23T05:59:48.732Z [user-service] [32minfo[39m: Creating spam #8 with phoneNumber: 1-353-720-8509 x88625, spamCount: 7
+2024-05-23T05:59:48.733Z [user-service] [32minfo[39m: Creating spam #9 with phoneNumber: 897.560.6016 x927, spamCount: 8
+2024-05-23T05:59:48.734Z [user-service] [32minfo[39m: Creating spam #10 with phoneNumber: 942.292.5397 x268, spamCount: 2
+2024-05-23T05:59:48.735Z [user-service] [32minfo[39m: Finished populating the database
+2024-05-23T06:00:00.484Z [user-service] [32minfo[39m: Starting to populate the database
+2024-05-23T06:00:00.495Z [user-service] [32minfo[39m: Listening on port 3000
+2024-05-23T06:00:00.617Z [user-service] [32minfo[39m: Created user #1 with ID: 141, name: Pam Bernier, phoneNumber: (629) 491-2777 x0205, email: Lori12@hotmail.com, password: $2b$10$H4yf.hh4PWuWkV51b4ReRum8EnngC31JbB9zl3ONKQnDamdiCrgae
+2024-05-23T06:00:00.682Z [user-service] [32minfo[39m: Created user #2 with ID: 142, name: Kristen Bogan, phoneNumber: 1-531-570-3860 x08255, email: Antonia_Hermann6@hotmail.com, password: $2b$10$KibnpCZVeRO5VqqDIOLYG.mGkWQYOZrzPlPXACOoOKiFD47dve/ai
+2024-05-23T06:00:00.745Z [user-service] [32minfo[39m: Created user #3 with ID: 143, name: Guadalupe Jones, phoneNumber: (647) 466-0613 x520, email: Elvera.Murazik92@yahoo.com, password: $2b$10$CiB1lLpaibQn5JfImGOQEO1bODABi1SBiX0LSccBJ2T0qK0D8EzM.
+2024-05-23T06:00:00.811Z [user-service] [32minfo[39m: Created user #4 with ID: 144, name: Marsha Hilpert-Rosenbaum, phoneNumber: 462-866-8626 x902, email: Andre_Pacocha91@hotmail.com, password: $2b$10$tGxr0b0Y7pVP4kDUm0ZRvO5mRS8ElfMnH2GeWXSMWchL.RN6rxRSm
+2024-05-23T06:00:00.875Z [user-service] [32minfo[39m: Created user #5 with ID: 145, name: Clyde Feest, phoneNumber: 1-814-642-7814 x798, email: Jack47@hotmail.com, password: $2b$10$5E/rzxNRJ283od51AMG46OgCV4spGNqfqX.izYEa464qzHA6FbQP6
+2024-05-23T06:00:00.933Z [user-service] [32minfo[39m: Created user #6 with ID: 146, name: Bryant Jenkins, phoneNumber: 728.511.2643 x27393, email: Elaina_Stanton@gmail.com, password: $2b$10$u0jl.FpyMyf6oL7mMubRHOOsuy8ScODKyTT5uEZivSINxr6FhJaGq
+2024-05-23T06:00:00.991Z [user-service] [32minfo[39m: Created user #7 with ID: 147, name: Lena Rowe, phoneNumber: 965-875-3689 x965, email: Genoveva_Howe@hotmail.com, password: $2b$10$P1tZqSmxcXlOgfND.l6vqOub6UGgNPgrK6PrshiJxSRLtnUfdYOPa
+2024-05-23T06:00:01.050Z [user-service] [32minfo[39m: Created user #8 with ID: 148, name: Ricardo Connelly, phoneNumber: 598-225-7479 x36231, email: Billie.Feest13@hotmail.com, password: $2b$10$EzfUWM41El/zTb7tOg/F0OEfw46xBDsPGQCNcjwlcDcWuRSv.a6cK
+2024-05-23T06:00:01.110Z [user-service] [32minfo[39m: Created user #9 with ID: 149, name: Tommie Hammes, phoneNumber: 1-680-394-3437 x9326, email: Kianna_Hand46@yahoo.com, password: $2b$10$rR/nD0.j6zL5o/RgkdRRyOypaNS45j2egNnafoucAuTTx8ELUqqO.
+2024-05-23T06:00:01.168Z [user-service] [32minfo[39m: Created user #10 with ID: 150, name: Luther Grimes, phoneNumber: 516-703-5546 x928, email: Greyson_Lang@gmail.com, password: $2b$10$43OfPXwjfQaOOvOtg30Qe.vNj5bPKHBCexzqLBzt.K.CVNXh0.Vna
+2024-05-23T06:00:01.169Z [user-service] [32minfo[39m: Creating contact #1 with name: Dr. Alfred Casper, phoneNumber: 1-749-527-6678 x818, registered: false, userID: null
+2024-05-23T06:00:01.180Z [user-service] [32minfo[39m: Creating contact #2 with name: Cesar Barton, phoneNumber: (536) 612-9026 x1427, registered: false, userID: null
+2024-05-23T06:00:01.181Z [user-service] [32minfo[39m: Creating contact #3 with name: Faith Monahan, phoneNumber: (654) 295-7834 x562, registered: true, userID: 149
+2024-05-23T06:00:01.183Z [user-service] [32minfo[39m: Creating contact #4 with name: Mrs. Carrie Schoen, phoneNumber: 1-283-270-3575 x577, registered: false, userID: null
+2024-05-23T06:00:01.184Z [user-service] [32minfo[39m: Creating contact #5 with name: Misty Paucek PhD, phoneNumber: 226-683-4351 x08921, registered: true, userID: 146
+2024-05-23T06:00:01.186Z [user-service] [32minfo[39m: Creating contact #6 with name: Leon Johns, phoneNumber: (511) 851-5987 x0302, registered: true, userID: 149
+2024-05-23T06:00:01.188Z [user-service] [32minfo[39m: Creating contact #7 with name: Regina Veum, phoneNumber: 1-783-616-2686, registered: false, userID: null
+2024-05-23T06:00:01.190Z [user-service] [32minfo[39m: Creating contact #8 with name: Leticia O'Hara, phoneNumber: 996-711-4320, registered: false, userID: null
+2024-05-23T06:00:01.191Z [user-service] [32minfo[39m: Creating contact #9 with name: Teri Windler, phoneNumber: (487) 914-7964 x573, registered: true, userID: 145
+2024-05-23T06:00:01.192Z [user-service] [32minfo[39m: Creating contact #10 with name: Kurt Ferry, phoneNumber: 712.753.6163, registered: false, userID: null
+2024-05-23T06:00:01.192Z [user-service] [32minfo[39m: Creating spam #1 with phoneNumber: 1-639-685-0174 x8702, spamCount: 1
+2024-05-23T06:00:01.194Z [user-service] [32minfo[39m: Creating spam #2 with phoneNumber: 1-451-973-3813 x1886, spamCount: 1
+2024-05-23T06:00:01.195Z [user-service] [32minfo[39m: Creating spam #3 with phoneNumber: 214.533.2705 x963, spamCount: 9
+2024-05-23T06:00:01.196Z [user-service] [32minfo[39m: Creating spam #4 with phoneNumber: 1-277-862-9746 x209, spamCount: 9
+2024-05-23T06:00:01.197Z [user-service] [32minfo[39m: Creating spam #5 with phoneNumber: 610-443-7425 x9601, spamCount: 7
+2024-05-23T06:00:01.197Z [user-service] [32minfo[39m: Creating spam #6 with phoneNumber: 1-789-888-6214, spamCount: 4
+2024-05-23T06:00:01.198Z [user-service] [32minfo[39m: Creating spam #7 with phoneNumber: 817-950-6018 x760, spamCount: 4
+2024-05-23T06:00:01.199Z [user-service] [32minfo[39m: Creating spam #8 with phoneNumber: 1-704-389-2458, spamCount: 9
+2024-05-23T06:00:01.199Z [user-service] [32minfo[39m: Creating spam #9 with phoneNumber: 388.399.4607, spamCount: 3
+2024-05-23T06:00:01.200Z [user-service] [32minfo[39m: Creating spam #10 with phoneNumber: 234-573-3266 x78995, spamCount: 9
+2024-05-23T06:00:01.201Z [user-service] [32minfo[39m: Finished populating the database
+2024-05-23T06:00:11.157Z [user-service] [32minfo[39m: Starting to populate the database
+2024-05-23T06:00:11.168Z [user-service] [32minfo[39m: Listening on port 3000
+2024-05-23T06:00:11.299Z [user-service] [32minfo[39m: Created user #1 with ID: 151, name: Randall Sanford, phoneNumber: 379.203.5829 x42677, email: Alec.Reichel21@hotmail.com, password: $2b$10$xAblVRy0ckKxo0.SU72odeuGnihq1kIg5N7VfaqzZhNVPv5CyQOIG
+2024-05-23T06:00:11.367Z [user-service] [32minfo[39m: Created user #2 with ID: 152, name: Garry Schneider, phoneNumber: (685) 242-3339 x4389, email: Monique_Conn@hotmail.com, password: $2b$10$pA05MwPUIWEmzd3bgnQhVOreVrhUpDv4aj0FQWsVjuLV4T2AVV8h6
+2024-05-23T06:00:11.426Z [user-service] [32minfo[39m: Created user #3 with ID: 153, name: Juan Renner, phoneNumber: (913) 673-9264 x964, email: Mohamed.Pfannerstill42@gmail.com, password: $2b$10$xoII1ej6dqGFwEXTIqRbm.nK5ObRhBJUPVMCd3xUu9EhlOlfKV4LO
+2024-05-23T06:00:11.485Z [user-service] [32minfo[39m: Created user #4 with ID: 154, name: Mr. Albert Gleichner, phoneNumber: (609) 330-8847 x15639, email: Etha_Hilpert@gmail.com, password: $2b$10$NzHt8PvYj53Upjv1v5q18..0ApNBcwjmIA.x2Ml0m2ehFrEuXolGu
+2024-05-23T06:00:11.544Z [user-service] [32minfo[39m: Created user #5 with ID: 155, name: Gustavo Schaden V, phoneNumber: 503.212.6374 x60040, email: Wiley_Bosco@yahoo.com, password: $2b$10$kV3MvwuOTOqpMXiDXnW9J.HKmCLF5KdRXAlGeUyyZiAiTLIy1bxeG
+2024-05-23T06:00:11.602Z [user-service] [32minfo[39m: Created user #6 with ID: 156, name: Philip Hoeger, phoneNumber: 1-951-278-1865 x620, email: Coty_Durgan@yahoo.com, password: $2b$10$k/O7FX6HTuKV47EoPY5bwu9hzEC6uSL608rC6oLpbBYZzIOznaW0q
+2024-05-23T06:00:11.662Z [user-service] [32minfo[39m: Created user #7 with ID: 157, name: Bobbie Nikolaus, phoneNumber: 528-516-1523 x456, email: Gunnar.Block3@hotmail.com, password: $2b$10$ZnAKB5llLaGF7OgmqFQ46ehpkiETu0ZlspMznkkuVkjkl6hp3lROq
+2024-05-23T06:00:11.721Z [user-service] [32minfo[39m: Created user #8 with ID: 158, name: Sadie Swift, phoneNumber: (885) 729-1288 x936, email: Kody_Cole87@hotmail.com, password: $2b$10$.2wely0QIkDgRmh.z.PuH.q4UTjfZ.fW9hujaQ63B61PeBqTE5Opa
+2024-05-23T06:00:11.782Z [user-service] [32minfo[39m: Created user #9 with ID: 159, name: Santos Roberts, phoneNumber: 1-636-580-2746, email: Jaycee.Runolfsdottir36@gmail.com, password: $2b$10$GTBanVxuB3o95UJrFdzE0.U6ho6JE6mg9IwI9/B8BOTYbvBwgOHaq
+2024-05-23T06:00:11.843Z [user-service] [32minfo[39m: Created user #10 with ID: 160, name: Mr. Duane Wisoky, phoneNumber: 368-971-4543 x51638, email: Mariano.Schuppe79@yahoo.com, password: $2b$10$876RFcd6309APLKzgImjQeamkhdV9DojKVzKucVaGKhUPvhNcCfiC
+2024-05-23T06:00:11.845Z [user-service] [32minfo[39m: Creating contact #1 with name: Joey Kutch, phoneNumber: 502-972-7084 x544, registered: true, userID: 158
+2024-05-23T06:00:11.849Z [user-service] [32minfo[39m: Creating contact #2 with name: Cecilia Hermann, phoneNumber: 792.957.5077 x736, registered: true, userID: 151
+2024-05-23T06:00:11.850Z [user-service] [32minfo[39m: Creating contact #3 with name: Laurence Gorczany, phoneNumber: 398.284.4034 x5501, registered: true, userID: 160
+2024-05-23T06:00:11.852Z [user-service] [32minfo[39m: Creating contact #4 with name: Elsa Hane, phoneNumber: 481-849-3463, registered: false, userID: null
+2024-05-23T06:00:11.853Z [user-service] [32minfo[39m: Creating contact #5 with name: Joey Dickens, phoneNumber: 762-442-6189 x63003, registered: false, userID: null
+2024-05-23T06:00:11.854Z [user-service] [32minfo[39m: Creating contact #6 with name: Eddie Hirthe, phoneNumber: 1-895-625-3631, registered: false, userID: null
+2024-05-23T06:00:11.855Z [user-service] [32minfo[39m: Creating contact #7 with name: Mrs. Terry Heller, phoneNumber: (669) 508-4563 x0009, registered: true, userID: 157
+2024-05-23T06:00:11.857Z [user-service] [32minfo[39m: Creating contact #8 with name: Raymond Zboncak, phoneNumber: (232) 435-0397 x1683, registered: true, userID: 158
+2024-05-23T06:00:11.859Z [user-service] [32minfo[39m: Creating contact #9 with name: Clara Ryan, phoneNumber: (912) 401-9544, registered: true, userID: 152
+2024-05-23T06:00:11.861Z [user-service] [32minfo[39m: Creating contact #10 with name: Kevin Casper, phoneNumber: (962) 847-2119 x06921, registered: false, userID: null
+2024-05-23T06:00:11.862Z [user-service] [32minfo[39m: Creating spam #1 with phoneNumber: (684) 864-2861 x802, spamCount: 7
+2024-05-23T06:00:11.864Z [user-service] [32minfo[39m: Creating spam #2 with phoneNumber: 1-305-936-1750 x46114, spamCount: 9
+2024-05-23T06:00:11.865Z [user-service] [32minfo[39m: Creating spam #3 with phoneNumber: 371.248.4598 x55317, spamCount: 1
+2024-05-23T06:00:11.866Z [user-service] [32minfo[39m: Creating spam #4 with phoneNumber: 298-368-9587, spamCount: 3
+2024-05-23T06:00:11.866Z [user-service] [32minfo[39m: Creating spam #5 with phoneNumber: 486.341.4945 x729, spamCount: 3
+2024-05-23T06:00:11.867Z [user-service] [32minfo[39m: Creating spam #6 with phoneNumber: 1-724-206-2429 x259, spamCount: 4
+2024-05-23T06:00:11.868Z [user-service] [32minfo[39m: Creating spam #7 with phoneNumber: 1-454-360-7166, spamCount: 4
+2024-05-23T06:00:11.869Z [user-service] [32minfo[39m: Creating spam #8 with phoneNumber: 816-471-9877 x5491, spamCount: 2
+2024-05-23T06:00:11.870Z [user-service] [32minfo[39m: Creating spam #9 with phoneNumber: 1-586-334-6715, spamCount: 8
+2024-05-23T06:00:11.871Z [user-service] [32minfo[39m: Creating spam #10 with phoneNumber: 606-897-9778 x004, spamCount: 1
+2024-05-23T06:00:11.871Z [user-service] [32minfo[39m: Finished populating the database
+2024-05-23T06:00:18.624Z [user-service] [32minfo[39m: Starting to populate the database
+2024-05-23T06:00:18.633Z [user-service] [32minfo[39m: Listening on port 3000
+2024-05-23T06:00:18.750Z [user-service] [32minfo[39m: Created user #1 with ID: 161, name: Howard VonRueden, phoneNumber: (262) 917-5579, email: Providenci_Cummings39@gmail.com, password: $2b$10$RSY7nZ21dsaLDjbDWHJYzOLxOFWaqfiykKOOxsyuJamoheaZMSdy.
+2024-05-23T06:00:18.812Z [user-service] [32minfo[39m: Created user #2 with ID: 162, name: Mr. Elmer Rodriguez, phoneNumber: 759.932.7083 x14084, email: Sid89@gmail.com, password: $2b$10$f/42O2SoAHHKN/dJMC/wtu.mlLUPHJ.85j21jUC3BXJ/Svv2yTOoG
+2024-05-23T06:00:18.873Z [user-service] [32minfo[39m: Created user #3 with ID: 163, name: Angelina Carter, phoneNumber: 748.598.9093 x53719, email: Ted22@hotmail.com, password: $2b$10$0r6lk1xVK42w90Bz8HSIsOhIrtRPXgq2wN5xXBa7Wc3vdXpRSy9qa
+2024-05-23T06:00:18.932Z [user-service] [32minfo[39m: Created user #4 with ID: 164, name: Russell Homenick I, phoneNumber: 1-270-667-8644, email: Reta.Cummerata2@yahoo.com, password: $2b$10$SjmDReR2pRGkWu8DYmHQSOpMDOB60dPsqDxrI1xubtvykQRZtjMzq
+2024-05-23T06:00:18.990Z [user-service] [32minfo[39m: Created user #5 with ID: 165, name: Alicia Greenholt, phoneNumber: (667) 852-9360 x12687, email: Kelsi.Jacobson18@hotmail.com, password: $2b$10$sG/ylh7DKMgPJz6MBxUFe.P78tovMVblY067CPNtzc3iK8vBHEyHW
+2024-05-23T06:00:19.050Z [user-service] [32minfo[39m: Created user #6 with ID: 166, name: Veronica Rodriguez, phoneNumber: 688.208.7354, email: Bella_Kassulke56@gmail.com, password: $2b$10$.hSu0q20HNa9D.6sYXZlNOaipzE7.3mafBQQMhhwSbXJa/TAwcGVy
+2024-05-23T06:00:19.110Z [user-service] [32minfo[39m: Created user #7 with ID: 167, name: Leigh Schimmel, phoneNumber: 742-852-0368 x89468, email: Steve.McKenzie@hotmail.com, password: $2b$10$WzVGniB1751lyuzXbNdsHeblt5kNdRcncHTKHn96L/MOpEQidEEh2
+2024-05-23T06:00:19.168Z [user-service] [32minfo[39m: Created user #8 with ID: 168, name: Franklin Ritchie, phoneNumber: 1-903-219-5910 x2436, email: Sterling.Kovacek@yahoo.com, password: $2b$10$96NNgdpERATIyXkFMh3doex6FOthX42IUHKhnjco9x4IHeEWDH0nK
+2024-05-23T06:00:19.229Z [user-service] [32minfo[39m: Created user #9 with ID: 169, name: Jessie Smitham-Schulist, phoneNumber: 811.911.4556 x1961, email: Jayde_Schoen23@gmail.com, password: $2b$10$ufANYg4QzCAUy5mPyl8.4eYQRsFBifnRxY3/buFlS9L/nKvGQ0RlS
+2024-05-23T06:00:19.288Z [user-service] [32minfo[39m: Created user #10 with ID: 170, name: Patricia Rath, phoneNumber: 1-820-571-8704 x29687, email: Andrew36@hotmail.com, password: $2b$10$bctQCC3imdmvgLNWE7P7e.5nZmzIs1b5Nsy9/arN0gZcC44EojtxS
+2024-05-23T06:00:19.288Z [user-service] [32minfo[39m: Creating contact #1 with name: Curtis Schimmel, phoneNumber: 471-838-1038 x155, registered: false, userID: null
+2024-05-23T06:00:19.291Z [user-service] [32minfo[39m: Creating contact #2 with name: Mr. Johnathan Skiles, phoneNumber: (974) 594-2744 x1316, registered: true, userID: 165
+2024-05-23T06:00:19.293Z [user-service] [32minfo[39m: Creating contact #3 with name: Justin Lubowitz, phoneNumber: 657-307-8476 x5731, registered: false, userID: null
+2024-05-23T06:00:19.294Z [user-service] [32minfo[39m: Creating contact #4 with name: Silvia Kub, phoneNumber: 251-215-8685 x87338, registered: true, userID: 169
+2024-05-23T06:00:19.296Z [user-service] [32minfo[39m: Creating contact #5 with name: Francisco Bosco, phoneNumber: 1-542-530-8649, registered: false, userID: null
+2024-05-23T06:00:19.297Z [user-service] [32minfo[39m: Creating contact #6 with name: Russell Prosacco, phoneNumber: 466.637.3943 x0786, registered: false, userID: null
+2024-05-23T06:00:19.297Z [user-service] [32minfo[39m: Creating contact #7 with name: Miss Lucia Spencer, phoneNumber: (379) 510-3908 x31019, registered: false, userID: null
+2024-05-23T06:00:19.298Z [user-service] [32minfo[39m: Creating contact #8 with name: Santiago Douglas, phoneNumber: 205.725.2611 x17074, registered: false, userID: null
+2024-05-23T06:00:19.299Z [user-service] [32minfo[39m: Creating contact #9 with name: Bertha Stoltenberg, phoneNumber: 1-207-729-1481 x3390, registered: false, userID: null
+2024-05-23T06:00:19.302Z [user-service] [32minfo[39m: Creating contact #10 with name: Dr. Harvey Konopelski, phoneNumber: 296-578-4118 x522, registered: true, userID: 162
+2024-05-23T06:00:19.304Z [user-service] [32minfo[39m: Creating spam #1 with phoneNumber: (541) 647-7306 x223, spamCount: 7
+2024-05-23T06:00:19.306Z [user-service] [32minfo[39m: Creating spam #2 with phoneNumber: (265) 558-8824, spamCount: 8
+2024-05-23T06:00:19.307Z [user-service] [32minfo[39m: Creating spam #3 with phoneNumber: (256) 425-1397 x310, spamCount: 2
+2024-05-23T06:00:19.308Z [user-service] [32minfo[39m: Creating spam #4 with phoneNumber: 462.572.8857 x7863, spamCount: 4
+2024-05-23T06:00:19.308Z [user-service] [32minfo[39m: Creating spam #5 with phoneNumber: 553-643-0181 x596, spamCount: 9
+2024-05-23T06:00:19.309Z [user-service] [32minfo[39m: Creating spam #6 with phoneNumber: 1-670-565-5395 x554, spamCount: 8
+2024-05-23T06:00:19.310Z [user-service] [32minfo[39m: Creating spam #7 with phoneNumber: 298-998-3006 x83539, spamCount: 9
+2024-05-23T06:00:19.311Z [user-service] [32minfo[39m: Creating spam #8 with phoneNumber: 391-843-9801 x302, spamCount: 10
+2024-05-23T06:00:19.311Z [user-service] [32minfo[39m: Creating spam #9 with phoneNumber: 1-622-938-1936 x0823, spamCount: 8
+2024-05-23T06:00:19.312Z [user-service] [32minfo[39m: Creating spam #10 with phoneNumber: 1-546-768-9430 x1529, spamCount: 2
+2024-05-23T06:00:19.313Z [user-service] [32minfo[39m: Finished populating the database
+2024-05-23T06:00:35.376Z [user-service] [32minfo[39m: Starting to populate the database
+2024-05-23T06:00:35.385Z [user-service] [32minfo[39m: Listening on port 3000
+2024-05-23T06:00:35.512Z [user-service] [32minfo[39m: Created user #1 with ID: 171, name: Carl Hegmann IV, phoneNumber: (238) 593-8334, email: Garnet.Ferry@gmail.com, password: $2b$10$SWFUXDBZKINuQVdE.YzMUuriKSD7ixN1rNq5C5gsrWXoWXcBeMVbe
+2024-05-23T06:00:35.583Z [user-service] [32minfo[39m: Created user #2 with ID: 172, name: Sheldon Ebert, phoneNumber: 391-458-3937 x9585, email: Kyla.Greenfelder52@hotmail.com, password: $2b$10$cx95IO2pCdM9q9FCe1HnN.qw7/235nE6dbDkOZKPAiE73NzPlnPdO
+2024-05-23T06:00:35.653Z [user-service] [32minfo[39m: Created user #3 with ID: 173, name: Nicholas Runolfsson, phoneNumber: 868.429.1679 x50438, email: Clarabelle.Dare@gmail.com, password: $2b$10$F6AUtAY6WHZV1A2bYtV9EuhBGksUXEE4sYcBbhpKgmv8LizFWUs/y
+2024-05-23T06:00:35.727Z [user-service] [32minfo[39m: Created user #4 with ID: 174, name: Chris Abbott, phoneNumber: 865-977-6657 x7095, email: Michale.McDermott62@yahoo.com, password: $2b$10$Fj2T72e.Ef5Yk.GomC3vr.GXSgArZhANon1uYArk9AoybUQQecS9a
+2024-05-23T06:00:35.785Z [user-service] [32minfo[39m: Created user #5 with ID: 175, name: Candice Marquardt III, phoneNumber: 1-763-483-4537, email: Roger_Halvorson@yahoo.com, password: $2b$10$VAzOtwJ2nAdsqh32Py7fhuLTeku5n3ExLIHVQSY6XGZZmfJYY5Ha2
+2024-05-23T06:00:35.844Z [user-service] [32minfo[39m: Created user #6 with ID: 176, name: Marco Herzog, phoneNumber: (525) 408-9662, email: Princess.Graham@gmail.com, password: $2b$10$4On/H7fnB2kz5tw8iB/R/ujg5nCLuO71DeQQ2JZnGAHgn1Lrmq4He
+2024-05-23T06:00:35.902Z [user-service] [32minfo[39m: Created user #7 with ID: 177, name: Otis Cole, phoneNumber: (811) 433-9095, email: Deion.Waelchi@yahoo.com, password: $2b$10$4yqxM9b4VgnnLf8/4J1YWuzWTdg1/yj4nlyoz4nTlP0nWTLkyNDFW
+2024-05-23T06:00:35.960Z [user-service] [32minfo[39m: Created user #8 with ID: 178, name: Rick Donnelly, phoneNumber: (431) 205-6903 x108, email: Mohamed.Brown15@gmail.com, password: $2b$10$48fScieoY9g96osSvv5GYez/gSC2mly4Y1AmwD2Diynv1GXoxICc.
+2024-05-23T06:00:36.019Z [user-service] [32minfo[39m: Created user #9 with ID: 179, name: Jan Ward, phoneNumber: (401) 589-8511 x886, email: Camylle_Marvin@yahoo.com, password: $2b$10$gHGdg1c9602xmBU3IphGuO8pBvRpSUCNERrhapYw7ULXvW0rnl86y
+2024-05-23T06:00:36.078Z [user-service] [32minfo[39m: Created user #10 with ID: 180, name: Ora Jenkins, phoneNumber: 1-829-888-7564 x15154, email: Tito.Cummings80@yahoo.com, password: $2b$10$IZMCKSXYYUrjeXh7jznEIOvPrkDghv2X45NVCeWLjP8uxTz6.1eou
+2024-05-23T06:00:36.079Z [user-service] [32minfo[39m: Creating contact #1 with name: Donna Torphy, phoneNumber: (653) 726-6115, registered: true, userID: 172
+2024-05-23T06:00:36.082Z [user-service] [32minfo[39m: Creating contact #2 with name: Cameron Mertz III, phoneNumber: (652) 339-9720, registered: true, userID: 179
+2024-05-23T06:00:36.083Z [user-service] [32minfo[39m: Creating contact #3 with name: Harold Zieme, phoneNumber: (326) 856-5756 x249, registered: true, userID: 175
+2024-05-23T06:00:36.084Z [user-service] [32minfo[39m: Creating contact #4 with name: Gerald Kihn-Jenkins, phoneNumber: 1-574-842-1192 x639, registered: true, userID: 175
+2024-05-23T06:00:36.085Z [user-service] [32minfo[39m: Creating contact #5 with name: Francis Donnelly, phoneNumber: 432-277-9024 x74808, registered: true, userID: 171
+2024-05-23T06:00:36.086Z [user-service] [32minfo[39m: Creating contact #6 with name: Kathleen Torp, phoneNumber: 536.710.6649 x4082, registered: false, userID: null
+2024-05-23T06:00:36.087Z [user-service] [32minfo[39m: Creating contact #7 with name: Dr. Olivia Herzog, phoneNumber: (333) 392-5650, registered: true, userID: 180
+2024-05-23T06:00:36.088Z [user-service] [32minfo[39m: Creating contact #8 with name: Toni Krajcik, phoneNumber: 1-563-659-5019 x25833, registered: false, userID: null
+2024-05-23T06:00:36.089Z [user-service] [32minfo[39m: Creating contact #9 with name: Ms. Marion Rodriguez, phoneNumber: 997.214.0914 x8282, registered: true, userID: 176
+2024-05-23T06:00:36.090Z [user-service] [32minfo[39m: Creating contact #10 with name: Viola Windler, phoneNumber: 286.888.2105 x150, registered: false, userID: null
+2024-05-23T06:00:36.091Z [user-service] [32minfo[39m: Creating spam #1 with phoneNumber: 887.292.7833 x7460, spamCount: 6
+2024-05-23T06:00:36.094Z [user-service] [32minfo[39m: Creating spam #2 with phoneNumber: 646-787-2707 x935, spamCount: 6
+2024-05-23T06:00:36.134Z [user-service] [32minfo[39m: Creating spam #3 with phoneNumber: 628.351.9603, spamCount: 8
+2024-05-23T06:00:36.136Z [user-service] [32minfo[39m: Creating spam #4 with phoneNumber: (802) 262-7269 x48167, spamCount: 8
+2024-05-23T06:00:36.137Z [user-service] [32minfo[39m: Creating spam #5 with phoneNumber: (643) 516-5907 x6367, spamCount: 10
+2024-05-23T06:00:36.138Z [user-service] [32minfo[39m: Creating spam #6 with phoneNumber: 529.350.7633 x66958, spamCount: 1
+2024-05-23T06:00:36.138Z [user-service] [32minfo[39m: Creating spam #7 with phoneNumber: 1-537-514-9100 x34802, spamCount: 6
+2024-05-23T06:00:36.139Z [user-service] [32minfo[39m: Creating spam #8 with phoneNumber: 578-813-9676, spamCount: 6
+2024-05-23T06:00:36.140Z [user-service] [32minfo[39m: Creating spam #9 with phoneNumber: 1-725-607-2102 x62639, spamCount: 9
+2024-05-23T06:00:36.141Z [user-service] [32minfo[39m: Creating spam #10 with phoneNumber: 248-408-6182, spamCount: 1
+2024-05-23T06:00:36.141Z [user-service] [32minfo[39m: Finished populating the database
+2024-05-23T06:00:45.612Z [user-service] [32minfo[39m: Starting to populate the database
+2024-05-23T06:00:45.624Z [user-service] [32minfo[39m: Listening on port 3000
+2024-05-23T06:00:45.740Z [user-service] [32minfo[39m: Created user #1 with ID: 181, name: Mr. Clay Mitchell, phoneNumber: 356.697.4751 x68980, email: Rosie.Lesch@hotmail.com, password: $2b$10$AWqG0/QDq.irufMcw3BRvO6gSIS8MXe67LaK7Z/RpCKyepUnQ1NLG
+2024-05-23T06:00:45.799Z [user-service] [32minfo[39m: Created user #2 with ID: 182, name: Lois Schmitt, phoneNumber: 616-748-9983, email: Morris_Kuhic@hotmail.com, password: $2b$10$sXwsM9JwaiBZkrvR54SXF..tT/gWZol5fVxLid.4QUuNUeCs7lw0G
+2024-05-23T06:00:45.864Z [user-service] [32minfo[39m: Created user #3 with ID: 183, name: Israel Kunze, phoneNumber: 360-872-8379 x88828, email: Karelle_Stehr@yahoo.com, password: $2b$10$EPhc8YXzTeaOaSinBpLUSe7kbWI1P9lKTvrJghdWqNDvK3RDei8Ei
+2024-05-23T06:00:45.926Z [user-service] [32minfo[39m: Created user #4 with ID: 184, name: Ms. Hannah Homenick, phoneNumber: 510-635-9568 x4339, email: Samara_Watsica41@gmail.com, password: $2b$10$s1hvvwD//q2Bd32wCGHsTOdlgE0W.TzGH4IVENsB79Yn1uqYcjoNO
+2024-05-23T06:00:45.986Z [user-service] [32minfo[39m: Created user #5 with ID: 185, name: Olive Dibbert, phoneNumber: (675) 784-4321, email: Minnie_Sauer26@gmail.com, password: $2b$10$iYr9TsB/P0auKECHJDz8qe4ebjcK8mGPly4AIpmeYTUeUCX297f0y
+2024-05-23T06:00:46.042Z [user-service] [32minfo[39m: Created user #6 with ID: 186, name: Janie Kiehn, phoneNumber: 555-921-4071 x4022, email: Damion_Dicki@hotmail.com, password: $2b$10$jxHDhbXLjNwL3U7UhY6XcuiY0yrpRR4TCRMoDIUmve03weuP49d0K
+2024-05-23T06:00:46.101Z [user-service] [32minfo[39m: Created user #7 with ID: 187, name: Mr. Kyle Ondricka, phoneNumber: 848-988-5740 x915, email: Dion.Bradtke91@hotmail.com, password: $2b$10$hDHsne8cwesFVQGkKlkJY.rzqOTkckkqBd0sU7jbIE2kThL57.yri
+2024-05-23T06:00:46.162Z [user-service] [32minfo[39m: Created user #8 with ID: 188, name: Milton Luettgen, phoneNumber: (458) 745-3177, email: Helene.Haley@gmail.com, password: $2b$10$4Cl7qrc2SSrK/tSaI45uJ.4NsMW3HqGy1pBGLnm1PAYiPQ51jW.Mi
+2024-05-23T06:00:46.223Z [user-service] [32minfo[39m: Created user #9 with ID: 189, name: Kristie Schneider, phoneNumber: 1-590-311-8029 x5013, email: Kali.Ryan29@hotmail.com, password: $2b$10$pzyFyiyHzwp97avWGivFCOxB.AfqzPX.F95sEpeH7rXln4KIWzA8y
+2024-05-23T06:00:46.282Z [user-service] [32minfo[39m: Created user #10 with ID: 190, name: Boyd Gislason, phoneNumber: 636-525-6380 x3630, email: Kaitlyn72@yahoo.com, password: $2b$10$RKv6ucHaIhnZtLExcBpFrOgMuJhjIzO/2UOhPQ4o7sj8UjX1flcNC
+2024-05-23T06:00:46.282Z [user-service] [32minfo[39m: Creating contact #1 with name: Latoya Hintz, phoneNumber: 362.284.5730 x44771, registered: true, userID: 188
+2024-05-23T06:00:46.286Z [user-service] [32minfo[39m: Creating contact #2 with name: Miss Becky Schamberger-Will, phoneNumber: 799-413-4268 x8846, registered: false, userID: null
+2024-05-23T06:00:46.287Z [user-service] [32minfo[39m: Creating contact #3 with name: Miss Lydia Wisoky, phoneNumber: 432-706-0321 x88990, registered: false, userID: null
+2024-05-23T06:00:46.288Z [user-service] [32minfo[39m: Creating contact #4 with name: Miss Erma Bechtelar MD, phoneNumber: (761) 379-1609, registered: false, userID: null
+2024-05-23T06:00:46.289Z [user-service] [32minfo[39m: Creating contact #5 with name: Norma Strosin, phoneNumber: 846-789-4719 x8962, registered: false, userID: null
+2024-05-23T06:00:46.290Z [user-service] [32minfo[39m: Creating contact #6 with name: Herman Trantow, phoneNumber: 528-964-5716, registered: true, userID: 183
+2024-05-23T06:00:46.291Z [user-service] [32minfo[39m: Creating contact #7 with name: Jose Gottlieb V, phoneNumber: 591.369.6140 x707, registered: false, userID: null
+2024-05-23T06:00:46.292Z [user-service] [32minfo[39m: Creating contact #8 with name: Johnnie Considine, phoneNumber: 212-535-2226, registered: false, userID: null
+2024-05-23T06:00:46.293Z [user-service] [32minfo[39m: Creating contact #9 with name: Catherine Boyle-DuBuque, phoneNumber: 1-873-222-7780 x07462, registered: true, userID: 184
+2024-05-23T06:00:46.295Z [user-service] [32minfo[39m: Creating contact #10 with name: Rachel Swaniawski, phoneNumber: (625) 798-0784 x925, registered: false, userID: null
+2024-05-23T06:00:46.297Z [user-service] [32minfo[39m: Creating spam #1 with phoneNumber: 403-244-3586, spamCount: 4
+2024-05-23T06:00:46.299Z [user-service] [32minfo[39m: Creating spam #2 with phoneNumber: 1-282-590-9266, spamCount: 2
+2024-05-23T06:00:46.300Z [user-service] [32minfo[39m: Creating spam #3 with phoneNumber: 1-578-218-2813 x79358, spamCount: 3
+2024-05-23T06:00:46.301Z [user-service] [32minfo[39m: Creating spam #4 with phoneNumber: 1-830-744-8057 x00242, spamCount: 6
+2024-05-23T06:00:46.302Z [user-service] [32minfo[39m: Creating spam #5 with phoneNumber: 1-975-960-2125 x8143, spamCount: 2
+2024-05-23T06:00:46.303Z [user-service] [32minfo[39m: Creating spam #6 with phoneNumber: 923.608.1946 x178, spamCount: 8
+2024-05-23T06:00:46.304Z [user-service] [32minfo[39m: Creating spam #7 with phoneNumber: 503.788.5399 x2676, spamCount: 9
+2024-05-23T06:00:46.305Z [user-service] [32minfo[39m: Creating spam #8 with phoneNumber: 621.929.1594 x2458, spamCount: 7
+2024-05-23T06:00:46.306Z [user-service] [32minfo[39m: Creating spam #9 with phoneNumber: 618-468-0509 x09827, spamCount: 7
+2024-05-23T06:00:46.306Z [user-service] [32minfo[39m: Creating spam #10 with phoneNumber: (601) 557-4090 x6483, spamCount: 6
+2024-05-23T06:00:46.307Z [user-service] [32minfo[39m: Finished populating the database
+2024-05-23T06:00:49.865Z [user-service] [32minfo[39m: Starting to populate the database
+2024-05-23T06:00:49.878Z [user-service] [32minfo[39m: Listening on port 3000
+2024-05-23T06:00:50.053Z [user-service] [32minfo[39m: Created user #1 with ID: 191, name: Donald Reichert MD, phoneNumber: 449-630-4210 x63798, email: Annabel_Simonis@gmail.com, password: $2b$10$CBY5hlqWO88sz.LVsP51JO2hFlxscGcS2SgmipageZQOuxTEZF7x.
+2024-05-23T06:00:50.123Z [user-service] [32minfo[39m: Created user #2 with ID: 192, name: Hazel Gerlach, phoneNumber: 982.236.4748, email: Jamie.Hills@hotmail.com, password: $2b$10$wCxNikSff2/GEb7riw04o.NdZWh7mCjYhWk/0E2l.Zi4KMK7x/vGy
+2024-05-23T06:00:50.186Z [user-service] [32minfo[39m: Created user #3 with ID: 193, name: Melanie Douglas, phoneNumber: (371) 820-3140 x372, email: Orlando47@yahoo.com, password: $2b$10$mWvLFHZCwfIMEb0NbG/Scee4ki157bdzP7fdXZg4zgEJYikxDKTUy
+2024-05-23T06:00:50.246Z [user-service] [32minfo[39m: Created user #4 with ID: 194, name: Mr. Larry Zulauf, phoneNumber: (559) 257-3100 x45451, email: Lorenza_Legros@yahoo.com, password: $2b$10$t2aOyZFNBfCgXBKHk7iz8ex51WS.lGxpgwn9mW5rcillLetNO0/yC
+2024-05-23T06:00:50.306Z [user-service] [32minfo[39m: Created user #5 with ID: 195, name: Guillermo Aufderhar, phoneNumber: 1-255-846-3217 x885, email: Thaddeus35@yahoo.com, password: $2b$10$FVfHVD1Qs0BWYlXJ.ITkt.Q9cLRO2kVnRHTCGi4mMTgKSdfZ7rsLm
+2024-05-23T06:00:50.371Z [user-service] [32minfo[39m: Created user #6 with ID: 196, name: Jeannie Adams, phoneNumber: (550) 770-7097 x967, email: Myrl31@gmail.com, password: $2b$10$v4jsnTrqv09LRV3fgNcc4.fE55z2TyV261kHQcb.f0mnTSYlnUvzu
+2024-05-23T06:00:50.430Z [user-service] [32minfo[39m: Created user #7 with ID: 197, name: Gary Witting, phoneNumber: 616-851-3669, email: Kiana_Nienow@yahoo.com, password: $2b$10$a1F/g9.alK4emhyGe/lYW.0CfSUNOIEL55ZzQhFy93AMgGYjwUI5W
+2024-05-23T06:00:50.491Z [user-service] [32minfo[39m: Created user #8 with ID: 198, name: Ronnie Heathcote, phoneNumber: 679.752.4861, email: Cristal12@gmail.com, password: $2b$10$Tg28WXA.GxSGXqWmmLiokOD1mqYxL8ugjETgwoEk/PCxAgd4Enjsi
+2024-05-23T06:00:50.551Z [user-service] [32minfo[39m: Created user #9 with ID: 199, name: Myra Cummings, phoneNumber: 1-208-969-9938 x1689, email: Ellen85@hotmail.com, password: $2b$10$Uj0Au1du93WkJDsdEOAaE.KvhGQ.4ZfHgCfsYEoG7IOxcHviqYP6.
+2024-05-23T06:00:50.611Z [user-service] [32minfo[39m: Created user #10 with ID: 200, name: Marion Dickinson, phoneNumber: (698) 804-6925 x92998, email: Filomena57@hotmail.com, password: $2b$10$TY52JmiIBBAlYsmJsxsJ4uMRupaJRF1UVv.VianjHkaDNzXl8swzi
+2024-05-23T06:00:50.612Z [user-service] [32minfo[39m: Creating contact #1 with name: Penny Jacobs, phoneNumber: 702-228-4256 x901, registered: false, userID: null
+2024-05-23T06:00:50.615Z [user-service] [32minfo[39m: Creating contact #2 with name: Randal King, phoneNumber: 1-768-301-7687 x77176, registered: false, userID: null
+2024-05-23T06:00:50.616Z [user-service] [32minfo[39m: Creating contact #3 with name: Freddie Weimann, phoneNumber: 1-272-223-2629 x94341, registered: true, userID: 198
+2024-05-23T06:00:50.618Z [user-service] [32minfo[39m: Creating contact #4 with name: Cody Casper, phoneNumber: 204-696-8161, registered: true, userID: 200
+2024-05-23T06:00:50.619Z [user-service] [32minfo[39m: Creating contact #5 with name: Kenny Bradtke, phoneNumber: 277.598.8161 x5834, registered: false, userID: null
+2024-05-23T06:00:50.621Z [user-service] [32minfo[39m: Creating contact #6 with name: Arthur VonRueden, phoneNumber: 606.363.8846 x9588, registered: true, userID: 199
+2024-05-23T06:00:50.622Z [user-service] [32minfo[39m: Creating contact #7 with name: Cindy Upton, phoneNumber: (440) 797-8606 x7309, registered: true, userID: 198
+2024-05-23T06:00:50.623Z [user-service] [32minfo[39m: Creating contact #8 with name: Vincent Howe, phoneNumber: 909.983.9623 x8102, registered: false, userID: null
+2024-05-23T06:00:50.624Z [user-service] [32minfo[39m: Creating contact #9 with name: Rudolph Auer DVM, phoneNumber: 289-709-4948, registered: true, userID: 198
+2024-05-23T06:00:50.625Z [user-service] [32minfo[39m: Creating contact #10 with name: Guillermo Lind, phoneNumber: 564.963.5440 x3661, registered: false, userID: null
+2024-05-23T06:00:50.627Z [user-service] [32minfo[39m: Creating spam #1 with phoneNumber: 930-790-8295, spamCount: 6
+2024-05-23T06:00:50.630Z [user-service] [32minfo[39m: Creating spam #2 with phoneNumber: 874-347-3386 x248, spamCount: 1
+2024-05-23T06:00:50.631Z [user-service] [32minfo[39m: Creating spam #3 with phoneNumber: 673-898-1583 x3626, spamCount: 2
+2024-05-23T06:00:50.632Z [user-service] [32minfo[39m: Creating spam #4 with phoneNumber: 420.373.8953 x332, spamCount: 8
+2024-05-23T06:00:50.632Z [user-service] [32minfo[39m: Creating spam #5 with phoneNumber: 788.619.4857 x25868, spamCount: 2
+2024-05-23T06:00:50.634Z [user-service] [32minfo[39m: Creating spam #6 with phoneNumber: 1-800-245-8727 x077, spamCount: 6
+2024-05-23T06:00:50.634Z [user-service] [32minfo[39m: Creating spam #7 with phoneNumber: 828-563-3289 x5879, spamCount: 7
+2024-05-23T06:00:50.635Z [user-service] [32minfo[39m: Creating spam #8 with phoneNumber: 268.619.4807 x67574, spamCount: 8
+2024-05-23T06:00:50.636Z [user-service] [32minfo[39m: Creating spam #9 with phoneNumber: 703.922.8359 x374, spamCount: 9
+2024-05-23T06:00:50.636Z [user-service] [32minfo[39m: Creating spam #10 with phoneNumber: 1-423-953-9186 x0357, spamCount: 6
+2024-05-23T06:00:50.637Z [user-service] [32minfo[39m: Finished populating the database
+2024-05-23T06:02:12.219Z [user-service] [32minfo[39m: Starting to populate the database
+2024-05-23T06:02:12.230Z [user-service] [32minfo[39m: Listening on port 3000
+2024-05-23T06:02:12.356Z [user-service] [32minfo[39m: Created user #1 with ID: 201, name: Leonard Hyatt, phoneNumber: 1-402-200-9109, email: Gage.Adams71@hotmail.com, password: $2b$10$mSGRrvs2ZuWHUE67YB/9gOypmjIygow9rTB0n9kGyVOlsvfVurkiW
+2024-05-23T06:02:12.427Z [user-service] [32minfo[39m: Created user #2 with ID: 202, name: Dean O'Reilly, phoneNumber: 204.866.7633, email: Amara_Blick64@hotmail.com, password: $2b$10$Chd3w./7kGTVaDGmlSK0q.hUTBgwLWUPk5phh2koMrKjrABOfCoMK
+2024-05-23T06:02:12.493Z [user-service] [32minfo[39m: Created user #3 with ID: 203, name: Jake Ledner MD, phoneNumber: 1-833-369-8866 x924, email: Manuela.Hamill@gmail.com, password: $2b$10$fp9KCKOWvLtrM1FTSl/v7uUtX6w5Cbn47jzrp7dybAuagK4J5mPfC
+2024-05-23T06:02:12.565Z [user-service] [32minfo[39m: Created user #4 with ID: 204, name: Cora Gorczany, phoneNumber: (688) 771-9589, email: Dallas.Torp74@gmail.com, password: $2b$10$NNGZdpuSTVZ2hQFpN93KMuaaWaVfnR3DLARKeovgdGBiQOwCoRe8S
+2024-05-23T06:02:12.627Z [user-service] [32minfo[39m: Created user #5 with ID: 205, name: Rafael Jacobson-Baumbach, phoneNumber: (253) 626-0494 x00330, email: Alysson.Quigley@yahoo.com, password: $2b$10$uCJCPnyhVH7qPl0CIqa95uirkV79q39uFg3IOO9bzGbKNAcfeU7p.
+2024-05-23T06:02:12.683Z [user-service] [32minfo[39m: Created user #6 with ID: 206, name: Miss Kathleen Konopelski, phoneNumber: 1-560-952-5773 x016, email: Eileen_Green48@gmail.com, password: $2b$10$tU6MIqMqb3/hqjAK6EjrguYGfKNhyzzQLldkXuFv7eI0dl8odDrTi
+2024-05-23T06:02:12.742Z [user-service] [32minfo[39m: Created user #7 with ID: 207, name: Guadalupe Hirthe, phoneNumber: 1-752-475-8411 x9699, email: Raquel29@yahoo.com, password: $2b$10$KfzfQ/E9P6pDPTlFGlqKbef.4dUyceGOxKxBY71iO16RGHDfbMwbO
+2024-05-23T06:02:12.800Z [user-service] [32minfo[39m: Created user #8 with ID: 208, name: Matt Jones Jr., phoneNumber: 1-669-568-7424 x196, email: Thora.Lebsack@gmail.com, password: $2b$10$gMESbnKPsePaaH.M8SAs7ee2Rz/0rG31I6FcLbEnNLIpCjUfBI0Je
+2024-05-23T06:02:12.858Z [user-service] [32minfo[39m: Created user #9 with ID: 209, name: Janet Casper, phoneNumber: (917) 809-2938 x69811, email: Kenton75@gmail.com, password: $2b$10$lcV99nTCHEKlI60jICWK6.4OPMemqam5/yoBacWe5ki0ZwmAHfhBS
+2024-05-23T06:02:12.917Z [user-service] [32minfo[39m: Created user #10 with ID: 210, name: Rachel Terry, phoneNumber: 244.961.7430 x671, email: Anissa.Ferry14@gmail.com, password: $2b$10$GBIr1fsld0TygoKRwE1ykuDFGgPzfqBSsB.HihBYJ0jqaURyTkBpW
+2024-05-23T06:02:12.917Z [user-service] [32minfo[39m: Creating contact #1 with name: Tim Kautzer, phoneNumber: 402.406.5558, registered: true, userID: 203
+2024-05-23T06:02:12.921Z [user-service] [32minfo[39m: Creating contact #2 with name: Walter Little, phoneNumber: (235) 279-5767 x22950, registered: true, userID: 210
+2024-05-23T06:02:12.923Z [user-service] [32minfo[39m: Creating contact #3 with name: Cheryl Konopelski, phoneNumber: 1-460-487-8558 x564, registered: true, userID: 205
+2024-05-23T06:02:12.924Z [user-service] [32minfo[39m: Creating contact #4 with name: Preston Borer, phoneNumber: 585-805-4754 x7596, registered: true, userID: 205
+2024-05-23T06:02:12.925Z [user-service] [32minfo[39m: Creating contact #5 with name: Kent Haag, phoneNumber: 1-297-247-0077 x577, registered: true, userID: 205
+2024-05-23T06:02:12.926Z [user-service] [32minfo[39m: Creating contact #6 with name: Neil Thompson-McDermott, phoneNumber: 258.392.2461 x9806, registered: false, userID: null
+2024-05-23T06:02:12.927Z [user-service] [32minfo[39m: Creating contact #7 with name: Mindy Kozey, phoneNumber: 807-697-7082 x71328, registered: false, userID: null
+2024-05-23T06:02:12.928Z [user-service] [32minfo[39m: Creating contact #8 with name: Blake Wolf, phoneNumber: 420-263-5230 x2706, registered: true, userID: 210
+2024-05-23T06:02:12.929Z [user-service] [32minfo[39m: Creating contact #9 with name: Nadine Jerde, phoneNumber: 894-765-9775, registered: false, userID: null
+2024-05-23T06:02:12.931Z [user-service] [32minfo[39m: Creating contact #10 with name: Geraldine Dach, phoneNumber: 1-258-569-5631 x4460, registered: true, userID: 203
+2024-05-23T06:02:12.933Z [user-service] [32minfo[39m: Creating spam #1 with phoneNumber: 1-349-303-5829 x526, spamCount: 3
+2024-05-23T06:02:12.935Z [user-service] [32minfo[39m: Creating spam #2 with phoneNumber: (221) 877-2449, spamCount: 10
+2024-05-23T06:02:12.936Z [user-service] [32minfo[39m: Creating spam #3 with phoneNumber: 1-346-249-1281 x94764, spamCount: 10
+2024-05-23T06:02:12.937Z [user-service] [32minfo[39m: Creating spam #4 with phoneNumber: 990-832-4977 x22077, spamCount: 5
+2024-05-23T06:02:12.938Z [user-service] [32minfo[39m: Creating spam #5 with phoneNumber: 1-559-641-5228 x53615, spamCount: 3
+2024-05-23T06:02:12.939Z [user-service] [32minfo[39m: Creating spam #6 with phoneNumber: 341-658-8096 x87731, spamCount: 2
+2024-05-23T06:02:12.940Z [user-service] [32minfo[39m: Creating spam #7 with phoneNumber: (397) 740-9709 x7672, spamCount: 6
+2024-05-23T06:02:12.940Z [user-service] [32minfo[39m: Creating spam #8 with phoneNumber: 1-805-977-7615 x0437, spamCount: 7
+2024-05-23T06:02:12.941Z [user-service] [32minfo[39m: Creating spam #9 with phoneNumber: 1-782-706-5214, spamCount: 10
+2024-05-23T06:02:12.942Z [user-service] [32minfo[39m: Creating spam #10 with phoneNumber: 807.237.8418 x4222, spamCount: 9
+2024-05-23T06:02:12.942Z [user-service] [32minfo[39m: Finished populating the database
+2024-05-23T07:46:43.703Z [user-service] [32minfo[39m: Starting to populate the database
+2024-05-23T07:46:43.712Z [user-service] [32minfo[39m: Listening on port 3000
+2024-05-23T07:46:43.817Z [user-service] [32minfo[39m: Created user #1 with ID: 211, name: Dwayne Schroeder, phoneNumber: 954.371.8235 x9515, email: Nathaniel21@hotmail.com, password: $2b$10$sSNWB.3vpRGv7sOFyb7XYOuwtMUZZPmLCWVbLBTrJMie7oi03muuK
+2024-05-23T07:46:43.875Z [user-service] [32minfo[39m: Created user #2 with ID: 212, name: Lynn Auer, phoneNumber: (962) 615-6402 x79497, email: Vilma_Bogisich21@yahoo.com, password: $2b$10$AcGW56hEg/rPBkU2l4IDy.HxDSBSii.Wa5Y25NfxIwxuFHML26O16
+2024-05-23T07:46:43.934Z [user-service] [32minfo[39m: Created user #3 with ID: 213, name: Samantha Rath, phoneNumber: 924.850.5378 x778, email: Bret.Hartmann@hotmail.com, password: $2b$10$J58euW4oq3UZjuSf.V496e549tYCLE/QpX.xFbtvi.nkebX.0CkVu
+2024-05-23T07:46:43.995Z [user-service] [32minfo[39m: Created user #4 with ID: 214, name: Jesus Friesen, phoneNumber: 1-620-560-2163, email: Okey84@gmail.com, password: $2b$10$U7qbWjR.i9/fBxz3aJfgEuox1M9EgctkL3SpJIzPFY97JmkJqrKFW
+2024-05-23T07:46:44.070Z [user-service] [32minfo[39m: Created user #5 with ID: 215, name: Mary Barrows, phoneNumber: 1-629-625-9453 x79307, email: Loyce_Cruickshank@yahoo.com, password: $2b$10$cZCmxMmrXAGteQXIvKLpM.ix56QguxLvPLLv21fsnLbxp1c48ZZLO
+2024-05-23T07:46:44.128Z [user-service] [32minfo[39m: Created user #6 with ID: 216, name: Don White, phoneNumber: 1-283-508-0815 x372, email: Derrick.Murray@hotmail.com, password: $2b$10$ET6fEarD4aP4mcLbqroebOsQ5IPQqoHf2vAzcD/h4j8/WZKhnhFYq
+2024-05-23T07:46:46.357Z [user-service] [32minfo[39m: Starting to populate the database
+2024-05-23T07:46:46.366Z [user-service] [32minfo[39m: Listening on port 3000
+2024-05-23T07:46:46.463Z [user-service] [32minfo[39m: Created user #1 with ID: 217, name: Jeannette Schumm, phoneNumber: 228.517.3133 x050, email: Zander22@hotmail.com, password: $2b$10$icBKdIpWt1/WNcppj2WOIObRS2pHb0AWLgPJnxmA08zEmS/t7qFdW
+2024-05-23T07:46:46.567Z [user-service] [32minfo[39m: Created user #2 with ID: 218, name: Felix Towne, phoneNumber: 1-486-500-1558, email: Sidney_Hayes@hotmail.com, password: $2b$10$z3Yf5hfwgLQK05e/8RFUvei9B6GHE3QBV6ywnfh7VXaK6zg4M7qD.
+2024-05-23T07:46:46.625Z [user-service] [32minfo[39m: Created user #3 with ID: 219, name: Andre Stark, phoneNumber: 1-935-231-5596 x1847, email: Aiden_Spinka69@yahoo.com, password: $2b$10$eujM9tTi2ET46kLEtIlwXuh1AxyLFxzE/y3ItxjgmZzSEVWNYH4u.
+2024-05-23T07:46:46.681Z [user-service] [32minfo[39m: Created user #4 with ID: 220, name: Earl Haag, phoneNumber: 571.232.5671 x0840, email: Terrell.Ward51@yahoo.com, password: $2b$10$UefujYReF30q/eBKK/ZKTeyF1M1DsCDqG0HEkyzjH0VTAFxkHe91y
+2024-05-23T07:46:46.736Z [user-service] [32minfo[39m: Created user #5 with ID: 221, name: Dr. Reginald Miller, phoneNumber: (592) 389-5244 x6744, email: Julie98@gmail.com, password: $2b$10$JbxT5UMBRc/HHdagYwtZFeTEwHzSfBmLsxXlfU2Ej7.rXCxcKuS3W
+2024-05-23T07:46:46.791Z [user-service] [32minfo[39m: Created user #6 with ID: 222, name: Lydia Hintz MD, phoneNumber: 1-353-771-2271 x8602, email: Joyce89@gmail.com, password: $2b$10$HX8ZG5m5ijy6/uNy8DStreSV1O5Ou64EQCImBNr3azbEITjbtWphG
+2024-05-23T07:46:46.846Z [user-service] [32minfo[39m: Created user #7 with ID: 223, name: Forrest Brakus, phoneNumber: 228-225-6461 x935, email: Lauren.Zboncak83@gmail.com, password: $2b$10$gKvSPUhofXTFQdtiRe2PAeHHJaRF1C88meMc/zx2B.NXw.EmKE5GC
+2024-05-23T07:46:46.902Z [user-service] [32minfo[39m: Created user #8 with ID: 224, name: Phillip Toy, phoneNumber: 881-826-8686 x4103, email: Helen_Hayes@gmail.com, password: $2b$10$TGxDQtay3VPQhumhdtY7L.dHqZiEug81B1zwwC3j/3DWBFMeYmwZS
+2024-05-23T07:46:46.960Z [user-service] [32minfo[39m: Created user #9 with ID: 225, name: Mandy Walker, phoneNumber: 536-800-6463 x324, email: Destiney_Botsford83@hotmail.com, password: $2b$10$hNYSshot9QHtgn06Rwkk5e2USqQ36dpTMUM5hxnG6QcGwbHnOJGAq
+2024-05-23T07:46:47.016Z [user-service] [32minfo[39m: Created user #10 with ID: 226, name: Miguel Harris, phoneNumber: (214) 818-7474 x11031, email: Robin_Waters82@hotmail.com, password: $2b$10$GsnTOFZfSUC7ngI2GMqKD.CF5pSqBXUGDhwc9DMHi.0ttQiWh9ys6
+2024-05-23T07:46:47.017Z [user-service] [32minfo[39m: Creating contact #1 with name: Johnny Sanford, phoneNumber: 1-954-315-1630 x5269, registered: true, userID: 217
+2024-05-23T07:46:47.021Z [user-service] [32minfo[39m: Creating contact #2 with name: Dr. Randall Ruecker DDS, phoneNumber: 1-493-379-5960 x22508, registered: true, userID: 223
+2024-05-23T07:46:47.023Z [user-service] [32minfo[39m: Creating contact #3 with name: Luz Funk, phoneNumber: 739-771-6309, registered: false, userID: null
+2024-05-23T07:46:47.024Z [user-service] [32minfo[39m: Creating contact #4 with name: Wilbert Halvorson, phoneNumber: 981.514.8476 x458, registered: true, userID: 219
+2024-05-23T07:46:47.025Z [user-service] [32minfo[39m: Creating contact #5 with name: Rose Boyle, phoneNumber: 305.859.1799, registered: false, userID: null
+2024-05-23T07:46:47.026Z [user-service] [32minfo[39m: Creating contact #6 with name: Ruben Towne, phoneNumber: 1-724-219-3679 x58744, registered: false, userID: null
+2024-05-23T07:46:47.027Z [user-service] [32minfo[39m: Creating contact #7 with name: Jennifer Ondricka, phoneNumber: (300) 584-9959 x835, registered: false, userID: null
+2024-05-23T07:46:47.028Z [user-service] [32minfo[39m: Creating contact #8 with name: Roosevelt Conn, phoneNumber: 1-887-265-1136 x3637, registered: false, userID: null
+2024-05-23T07:46:47.029Z [user-service] [32minfo[39m: Creating contact #9 with name: Alexandra McLaughlin, phoneNumber: (693) 250-8115 x03871, registered: false, userID: null
+2024-05-23T07:46:47.030Z [user-service] [32minfo[39m: Creating contact #10 with name: Emily Ortiz, phoneNumber: 1-724-834-5696 x2542, registered: false, userID: null
+2024-05-23T07:46:47.031Z [user-service] [32minfo[39m: Creating spam #1 with phoneNumber: (410) 485-1888 x76478, spamCount: 6
+2024-05-23T07:46:47.033Z [user-service] [32minfo[39m: Creating spam #2 with phoneNumber: 368-650-9229 x5623, spamCount: 10
+2024-05-23T07:46:47.034Z [user-service] [32minfo[39m: Creating spam #3 with phoneNumber: 1-800-717-8182 x756, spamCount: 9
+2024-05-23T07:46:47.034Z [user-service] [32minfo[39m: Creating spam #4 with phoneNumber: (347) 535-6577 x5443, spamCount: 5
+2024-05-23T07:46:47.035Z [user-service] [32minfo[39m: Creating spam #5 with phoneNumber: 649.222.9167 x8939, spamCount: 2
+2024-05-23T07:46:47.036Z [user-service] [32minfo[39m: Creating spam #6 with phoneNumber: 1-422-320-6559, spamCount: 4
+2024-05-23T07:46:47.037Z [user-service] [32minfo[39m: Creating spam #7 with phoneNumber: 1-992-541-0366, spamCount: 7
+2024-05-23T07:46:47.038Z [user-service] [32minfo[39m: Creating spam #8 with phoneNumber: (737) 967-0808 x0790, spamCount: 7
+2024-05-23T07:46:47.039Z [user-service] [32minfo[39m: Creating spam #9 with phoneNumber: 1-212-253-8822 x52236, spamCount: 9
+2024-05-23T07:46:47.040Z [user-service] [32minfo[39m: Creating spam #10 with phoneNumber: 866.431.7538 x967, spamCount: 2
+2024-05-23T07:46:47.041Z [user-service] [32minfo[39m: Finished populating the database
+2024-05-23T07:47:03.956Z [user-service] [32minfo[39m: Starting to populate the database
+2024-05-23T07:47:03.963Z [user-service] [32minfo[39m: Listening on port 3000
+2024-05-23T07:47:04.061Z [user-service] [32minfo[39m: Created user #1 with ID: 227, name: Tina Lebsack, phoneNumber: (969) 853-1649 x72311, email: Gustave_Hane@yahoo.com, password: $2b$10$p2QQ9Lg/.Ja4KqyqT8ny8.P3a0svsJNWWhwo3ztJMZWjGUSQ2iB7O
+2024-05-23T07:47:04.186Z [user-service] [32minfo[39m: Created user #2 with ID: 228, name: Christian Smith, phoneNumber: 428.632.7612, email: Kylie.Gusikowski@hotmail.com, password: $2b$10$4FkP.Z1zmI.6u4IQlmB/vO/A9mbUQeO5.8I/bD25S1YsQqnFo9V1y
+2024-05-23T07:47:04.240Z [user-service] [32minfo[39m: Created user #3 with ID: 229, name: Cameron Lehner, phoneNumber: 1-831-689-3153, email: Penelope.Nikolaus@gmail.com, password: $2b$10$vy4RGlLNuNeUW.lgQP6pKucTh9qp.97QAfyo/1iLeUqwE6yvjU/Oq
+2024-05-23T07:47:04.295Z [user-service] [32minfo[39m: Created user #4 with ID: 230, name: Harvey Moore, phoneNumber: 760-226-2192, email: Damion_VonRueden85@gmail.com, password: $2b$10$BgEHTxz7htg1jn/QnvvR8.8mRt0/fZ9wMGhX3ME6CAjExxqmgmW/e
+2024-05-23T07:47:04.349Z [user-service] [32minfo[39m: Created user #5 with ID: 231, name: Cassandra Franey, phoneNumber: 316-252-2887 x4400, email: Glenda4@hotmail.com, password: $2b$10$L6p58B4eh5B41iPl5mp0u.k6pTq1l9gkq6WQM1xgIq4zU9se5Yci6
+2024-05-23T07:47:04.405Z [user-service] [32minfo[39m: Created user #6 with ID: 232, name: Micheal Sipes, phoneNumber: 695-900-2808 x52840, email: Merle.Hudson@hotmail.com, password: $2b$10$2zJrZmXhes6bFecxw1Yzxu4wzgUCP.nK2QWdB9J2RF/8Dm76o44JG
+2024-05-23T07:47:04.460Z [user-service] [32minfo[39m: Created user #7 with ID: 233, name: Margaret Barrows, phoneNumber: (822) 560-2793, email: Javonte_Hyatt@hotmail.com, password: $2b$10$6LZTlO29ugveMO76YBFGbuC2z.ciGT1B/9C1YhB9DZ11SzZaas7zu
+2024-05-23T07:47:04.516Z [user-service] [32minfo[39m: Created user #8 with ID: 234, name: Willard Wilkinson Jr., phoneNumber: 201-437-1414 x66967, email: Emmy14@hotmail.com, password: $2b$10$Ot59yQaeTrmGmk29VTX6fOu4ErMj87jiZhZ.7SKvFXDir1AQCvwwu
+2024-05-23T07:47:04.572Z [user-service] [32minfo[39m: Created user #9 with ID: 235, name: Tabitha Franey, phoneNumber: 1-825-518-6666 x2076, email: Hadley60@hotmail.com, password: $2b$10$pyPbKY3Oz2qGzF.l2FHjgO8DJ4wer2Gsc/DmCPjqZ03nqrp/fCQHu
+2024-05-23T07:47:04.627Z [user-service] [32minfo[39m: Created user #10 with ID: 236, name: Duane Simonis-Flatley, phoneNumber: 1-241-637-2381, email: Coralie22@gmail.com, password: $2b$10$X0TjMFKKg1sJZk2UUmxxfOq3ny.vG5n.nGVLaINbIz0LsnwWKZgyi
+2024-05-23T07:47:04.628Z [user-service] [32minfo[39m: Creating contact #1 with name: Sophia Jaskolski, phoneNumber: 774.735.8338 x53336, registered: true, userID: 228
+2024-05-23T07:47:04.631Z [user-service] [32minfo[39m: Creating contact #2 with name: Santos Vandervort, phoneNumber: 1-943-865-4648 x5001, registered: true, userID: 231
+2024-05-23T07:47:04.633Z [user-service] [32minfo[39m: Creating contact #3 with name: Micheal Walker, phoneNumber: 1-641-857-8238 x709, registered: false, userID: null
+2024-05-23T07:47:04.634Z [user-service] [32minfo[39m: Creating contact #4 with name: Pamela Reichert, phoneNumber: (980) 715-4945, registered: true, userID: 232
+2024-05-23T07:47:04.635Z [user-service] [32minfo[39m: Creating contact #5 with name: Lucy Thompson-Hayes III, phoneNumber: 932-208-0074 x243, registered: true, userID: 233
+2024-05-23T07:47:04.636Z [user-service] [32minfo[39m: Creating contact #6 with name: Shelley Gusikowski, phoneNumber: 760-908-7951 x70013, registered: false, userID: null
+2024-05-23T07:47:04.638Z [user-service] [32minfo[39m: Creating contact #7 with name: Teri Runte, phoneNumber: 794-224-3155 x500, registered: true, userID: 228
+2024-05-23T07:47:04.639Z [user-service] [32minfo[39m: Creating contact #8 with name: Rodolfo Bartoletti, phoneNumber: 365.951.9453 x172, registered: false, userID: null
+2024-05-23T07:47:04.640Z [user-service] [32minfo[39m: Creating contact #9 with name: Patrick Padberg, phoneNumber: 470-249-9340 x48782, registered: true, userID: 228
+2024-05-23T07:47:04.641Z [user-service] [32minfo[39m: Creating contact #10 with name: Felicia Bode, phoneNumber: 1-711-835-9019 x6950, registered: false, userID: null
+2024-05-23T07:47:04.642Z [user-service] [32minfo[39m: Creating spam #1 with phoneNumber: 1-255-950-4680 x9195, spamCount: 9
+2024-05-23T07:47:04.644Z [user-service] [32minfo[39m: Creating spam #2 with phoneNumber: (365) 466-9663 x4424, spamCount: 7
+2024-05-23T07:47:04.645Z [user-service] [32minfo[39m: Creating spam #3 with phoneNumber: (293) 700-7482 x18110, spamCount: 3
+2024-05-23T07:47:04.646Z [user-service] [32minfo[39m: Creating spam #4 with phoneNumber: 369-556-4571 x34988, spamCount: 6
+2024-05-23T07:47:04.647Z [user-service] [32minfo[39m: Creating spam #5 with phoneNumber: 1-790-223-2105 x987, spamCount: 10
+2024-05-23T07:47:04.648Z [user-service] [32minfo[39m: Creating spam #6 with phoneNumber: 391.616.8094 x760, spamCount: 3
+2024-05-23T07:47:04.649Z [user-service] [32minfo[39m: Creating spam #7 with phoneNumber: 637-492-6499 x0925, spamCount: 1
+2024-05-23T07:47:04.650Z [user-service] [32minfo[39m: Creating spam #8 with phoneNumber: 226.274.6007 x953, spamCount: 7
+2024-05-23T07:47:04.650Z [user-service] [32minfo[39m: Creating spam #9 with phoneNumber: 402.297.7960, spamCount: 10
+2024-05-23T07:47:04.651Z [user-service] [32minfo[39m: Creating spam #10 with phoneNumber: 450-624-7973 x2165, spamCount: 1
+2024-05-23T07:47:04.652Z [user-service] [32minfo[39m: Finished populating the database
+2024-05-23T07:47:08.353Z [user-service] [32minfo[39m: Starting to populate the database
+2024-05-23T07:47:08.361Z [user-service] [32minfo[39m: Listening on port 3000
+2024-05-23T07:47:08.458Z [user-service] [32minfo[39m: Created user #1 with ID: 237, name: Ellen Koepp, phoneNumber: 1-359-337-8516, email: Hailee.Rowe91@gmail.com, password: $2b$10$SIVacuRJCYAkrwdnG/KIDuzHqjFEWmgUPvkkJqJS0GDD7/Vj96F0C
+2024-05-23T07:47:08.565Z [user-service] [32minfo[39m: Created user #2 with ID: 238, name: Lamar Kihn, phoneNumber: 295.627.8350 x7946, email: Daphney57@hotmail.com, password: $2b$10$f/KTBteRBnAtrXOlDT6Ibeg3t74.q6xiqxOuVmtXZShEhuo/xI7wC
+2024-05-23T07:47:08.634Z [user-service] [32minfo[39m: Created user #3 with ID: 239, name: David Collier DVM, phoneNumber: (356) 883-2247 x797, email: Zack95@yahoo.com, password: $2b$10$.XsoblWyzm30e6VngsXIYu096IgShUuOA01y5F3V7m2L.j0dIWRR6
+2024-05-23T07:47:08.688Z [user-service] [32minfo[39m: Created user #4 with ID: 240, name: Michele Flatley, phoneNumber: 269-467-2533 x94822, email: Henry.Hessel@yahoo.com, password: $2b$10$U3WB/zpAGVgV0JdM5iqm5uDLAJnSohRlwqdsRGEKYvE/vCWNVFhCy
+2024-05-23T07:47:08.742Z [user-service] [32minfo[39m: Created user #5 with ID: 241, name: Carmen Gleichner, phoneNumber: 639.336.9876 x603, email: Sylvester91@hotmail.com, password: $2b$10$dEIYSJObQ8.y97ZhC30WnOSdncwi0sqxL.wianMRk6yecTXvWjGxW
+2024-05-23T07:47:08.797Z [user-service] [32minfo[39m: Created user #6 with ID: 242, name: Anthony Kuphal, phoneNumber: 1-231-583-0324, email: Minerva75@gmail.com, password: $2b$10$J8ro3MRG3ziGiCH71133uuPH60lOsuWyJkfizL5xKshWXgYSjrTo6
+2024-05-23T07:47:08.852Z [user-service] [32minfo[39m: Created user #7 with ID: 243, name: Eileen Roob, phoneNumber: 237-749-7444 x42833, email: Walker_Schoen93@gmail.com, password: $2b$10$upKgKcnArrjtIO.yj6N75.PR3zi1Z.3vgEtlVJQz3XonY9rbF5Pi2
+2024-05-23T07:47:08.906Z [user-service] [32minfo[39m: Created user #8 with ID: 244, name: Ramiro Conroy, phoneNumber: 380-343-1178 x5064, email: Romaine.Grady49@gmail.com, password: $2b$10$G/xFL7zdGVHmYrSzy9m4i.LsoVRSs7RlUT6rAKTSX9EAeDfTKMRpG
+2024-05-23T07:47:08.960Z [user-service] [32minfo[39m: Created user #9 with ID: 245, name: Dr. Saul Lehner PhD, phoneNumber: (656) 973-5121 x4342, email: Casimer.Bashirian15@hotmail.com, password: $2b$10$Se6lhAO9r3VhOx83Dk2HLuXzJ0NSqKdNS9/UgO8OI6DmqEYefT0de
+2024-05-23T07:47:09.015Z [user-service] [32minfo[39m: Created user #10 with ID: 246, name: Lois Tremblay-Mann, phoneNumber: 464-667-9392, email: Lia.Hamill37@gmail.com, password: $2b$10$LCp6RAiWOCJJ.ms0t1n5K.s6V8yLMw1FyjkSebuW26/RJcaxw4zTW
+2024-05-23T07:47:09.016Z [user-service] [32minfo[39m: Creating contact #1 with name: Essie Feest, phoneNumber: 568-660-0608 x2747, registered: false, userID: null
+2024-05-23T07:47:09.018Z [user-service] [32minfo[39m: Creating contact #2 with name: Ed Fadel, phoneNumber: 445-915-6347 x26911, registered: false, userID: null
+2024-05-23T07:47:09.019Z [user-service] [32minfo[39m: Creating contact #3 with name: Fannie Wunsch, phoneNumber: 404-860-8874 x4718, registered: true, userID: 246
+2024-05-23T07:47:09.021Z [user-service] [32minfo[39m: Creating contact #4 with name: Sadie Osinski, phoneNumber: 467-793-1535 x71027, registered: false, userID: null
+2024-05-23T07:47:09.022Z [user-service] [32minfo[39m: Creating contact #5 with name: Marsha Bins, phoneNumber: 897-743-8626 x21712, registered: false, userID: null
+2024-05-23T07:47:09.023Z [user-service] [32minfo[39m: Creating contact #6 with name: Mrs. Andrea Bruen, phoneNumber: 1-409-554-7584 x630, registered: false, userID: null
+2024-05-23T07:47:09.024Z [user-service] [32minfo[39m: Creating contact #7 with name: Jake Franecki, phoneNumber: (423) 941-0474 x12371, registered: false, userID: null
+2024-05-23T07:47:09.025Z [user-service] [32minfo[39m: Creating contact #8 with name: Mr. Garrett Kerluke, phoneNumber: 631-316-7372 x32496, registered: true, userID: 240
+2024-05-23T07:47:09.026Z [user-service] [32minfo[39m: Creating contact #9 with name: Devin Russel I, phoneNumber: (872) 540-9512 x67167, registered: true, userID: 246
+2024-05-23T07:47:09.026Z [user-service] [32minfo[39m: Creating contact #10 with name: Ethel Stracke III, phoneNumber: 1-732-486-4415 x57190, registered: true, userID: 246
+2024-05-23T07:47:09.027Z [user-service] [32minfo[39m: Creating spam #1 with phoneNumber: 1-917-686-9670 x944, spamCount: 6
+2024-05-23T07:47:09.029Z [user-service] [32minfo[39m: Creating spam #2 with phoneNumber: (732) 701-7928, spamCount: 6
+2024-05-23T07:47:09.030Z [user-service] [32minfo[39m: Creating spam #3 with phoneNumber: 1-781-996-6184 x821, spamCount: 6
+2024-05-23T07:47:09.031Z [user-service] [32minfo[39m: Creating spam #4 with phoneNumber: (554) 236-2480 x675, spamCount: 3
+2024-05-23T07:47:09.032Z [user-service] [32minfo[39m: Creating spam #5 with phoneNumber: (557) 959-1737 x79410, spamCount: 5
+2024-05-23T07:47:09.032Z [user-service] [32minfo[39m: Creating spam #6 with phoneNumber: 348.334.4184 x161, spamCount: 9
+2024-05-23T07:47:09.033Z [user-service] [32minfo[39m: Creating spam #7 with phoneNumber: 1-821-643-9468, spamCount: 1
+2024-05-23T07:47:09.034Z [user-service] [32minfo[39m: Creating spam #8 with phoneNumber: (736) 619-4477 x3536, spamCount: 10
+2024-05-23T07:47:09.035Z [user-service] [32minfo[39m: Creating spam #9 with phoneNumber: 1-789-257-6602 x2926, spamCount: 2
+2024-05-23T07:47:09.036Z [user-service] [32minfo[39m: Creating spam #10 with phoneNumber: (825) 691-5257, spamCount: 8
+2024-05-23T07:47:09.036Z [user-service] [32minfo[39m: Finished populating the database
+2024-05-23T07:47:19.368Z [user-service] [32minfo[39m: Starting to populate the database
+2024-05-23T07:47:19.375Z [user-service] [32minfo[39m: Listening on port 3000
+2024-05-23T07:47:19.473Z [user-service] [32minfo[39m: Created user #1 with ID: 247, name: Felicia Pollich, phoneNumber: 477.207.4230 x9978, email: Lucas.Schumm61@hotmail.com, password: $2b$10$Oxoh48X9k.lvwXS6NcdYbePkWd.3vtFoh.PT9fhL5.uJjiod3G7BO
+2024-05-23T07:47:19.580Z [user-service] [32minfo[39m: Created user #2 with ID: 248, name: Eleanor Emmerich, phoneNumber: 1-619-840-1608, email: Deja78@hotmail.com, password: $2b$10$ucjMtpsfKf7B6r1fD0fbFObWOoxh5PQdFm9wQ7DtGIgiy/Krx1EJe
+2024-05-23T07:47:19.636Z [user-service] [32minfo[39m: Created user #3 with ID: 249, name: Genevieve Larkin, phoneNumber: 265-242-2445, email: Rick.Corkery@yahoo.com, password: $2b$10$MuWX/qBVjockmuu9aO/76.EQjduFenMK6JWXbPN7WvLzAhIm9d5T2
+2024-05-23T07:47:19.691Z [user-service] [32minfo[39m: Created user #4 with ID: 250, name: Abraham Hansen, phoneNumber: 1-334-748-5572 x1473, email: Eleanora82@yahoo.com, password: $2b$10$VAWul4QBYsK/QHJNAWC2wurjrh0DobHQoUY3daPRSuwFoa2ejPNEm
+2024-05-23T07:47:19.746Z [user-service] [32minfo[39m: Created user #5 with ID: 251, name: Neil Swaniawski, phoneNumber: 526.344.0097 x55460, email: Donato.Hane@yahoo.com, password: $2b$10$p6QM282ruRmjfIvNzI93qel1xt9r9GPaNeVQpqH5d1IgektJUlFpG
+2024-05-23T07:47:19.801Z [user-service] [32minfo[39m: Created user #6 with ID: 252, name: Lowell Prosacco, phoneNumber: 449-514-8334 x45981, email: Lester.Bruen90@hotmail.com, password: $2b$10$BNIqgzooTHiJux8IA1yK/eRIPUTP3XcIe8.cK5Ma9hrhtAulu0bre
+2024-05-23T07:47:19.856Z [user-service] [32minfo[39m: Created user #7 with ID: 253, name: Cecil Volkman, phoneNumber: 1-369-297-8506 x892, email: Felix.Kunde2@yahoo.com, password: $2b$10$Pjyvdi2TcgTfS47QvPA8TOyzH6lOTq6yn/jf/D9RNOY9EqaT3Ehx6
+2024-05-23T07:47:19.911Z [user-service] [32minfo[39m: Created user #8 with ID: 254, name: Eloise Bednar, phoneNumber: 1-796-303-7574 x61495, email: Ricardo_Schmeler8@gmail.com, password: $2b$10$i8GzPkiehJky4mZW.zf1lOQkidy3sZHDtH8gUnGvUzn5rrJcObZ4W
+2024-05-23T07:47:19.966Z [user-service] [32minfo[39m: Created user #9 with ID: 255, name: Wayne Goodwin MD, phoneNumber: 479.243.6363, email: Quentin84@gmail.com, password: $2b$10$BJP7goWmJ6ak8b7S8wqEauVme8bUf7h9ionNvN/JdFwsGsLfuKEDq
+2024-05-23T07:47:20.021Z [user-service] [32minfo[39m: Created user #10 with ID: 256, name: Woodrow Crooks, phoneNumber: (796) 573-6613 x5610, email: Russ.Bashirian@yahoo.com, password: $2b$10$Xtnd2B0U.WlOOQc9iV3REu9jbjPEp/e3oSzbiTDnD5a.D5UP42EFu
+2024-05-23T07:47:20.022Z [user-service] [32minfo[39m: Creating contact #1 with name: Irma Heaney, phoneNumber: 410-337-6843 x7465, registered: true, userID: 251
+2024-05-23T07:47:20.025Z [user-service] [32minfo[39m: Creating contact #2 with name: Charlie Johnson, phoneNumber: 1-536-856-3362 x19883, registered: true, userID: 251
+2024-05-23T07:47:20.026Z [user-service] [32minfo[39m: Creating contact #3 with name: Leon Daugherty, phoneNumber: 571-561-3391 x5046, registered: true, userID: 247
+2024-05-23T07:47:20.027Z [user-service] [32minfo[39m: Creating contact #4 with name: Ruben Willms, phoneNumber: 911.921.2917 x17243, registered: false, userID: null
+2024-05-23T07:47:20.027Z [user-service] [32minfo[39m: Creating contact #5 with name: Leslie McCullough, phoneNumber: 1-590-322-9787, registered: true, userID: 251
+2024-05-23T07:47:20.028Z [user-service] [32minfo[39m: Creating contact #6 with name: Dr. Velma Mertz, phoneNumber: 1-607-295-1122 x70892, registered: false, userID: null
+2024-05-23T07:47:20.029Z [user-service] [32minfo[39m: Creating contact #7 with name: Javier Rice, phoneNumber: 895-409-1100, registered: false, userID: null
+2024-05-23T07:47:20.030Z [user-service] [32minfo[39m: Creating contact #8 with name: Edmund Reinger, phoneNumber: 648-349-9070 x77750, registered: true, userID: 251
+2024-05-23T07:47:20.031Z [user-service] [32minfo[39m: Creating contact #9 with name: Frances Langworth, phoneNumber: 902-675-6222, registered: true, userID: 251
+2024-05-23T07:47:20.031Z [user-service] [32minfo[39m: Creating contact #10 with name: Nichole Kuphal, phoneNumber: 667.927.9921, registered: false, userID: null
+2024-05-23T07:47:20.032Z [user-service] [32minfo[39m: Creating spam #1 with phoneNumber: 1-438-551-4633 x55606, spamCount: 8
+2024-05-23T07:47:20.034Z [user-service] [32minfo[39m: Creating spam #2 with phoneNumber: 362-346-4733 x9428, spamCount: 1
+2024-05-23T07:47:20.035Z [user-service] [32minfo[39m: Creating spam #3 with phoneNumber: 1-904-545-3336 x0345, spamCount: 2
+2024-05-23T07:47:20.036Z [user-service] [32minfo[39m: Creating spam #4 with phoneNumber: 940.339.9599, spamCount: 5
+2024-05-23T07:47:20.037Z [user-service] [32minfo[39m: Creating spam #5 with phoneNumber: 547-274-4823 x3423, spamCount: 6
+2024-05-23T07:47:20.038Z [user-service] [32minfo[39m: Creating spam #6 with phoneNumber: 931-271-8438 x2595, spamCount: 10
+2024-05-23T07:47:20.039Z [user-service] [32minfo[39m: Creating spam #7 with phoneNumber: (540) 224-4844 x604, spamCount: 4
+2024-05-23T07:47:20.039Z [user-service] [32minfo[39m: Creating spam #8 with phoneNumber: 761-966-9267, spamCount: 2
+2024-05-23T07:47:20.040Z [user-service] [32minfo[39m: Creating spam #9 with phoneNumber: 936-881-9539 x253, spamCount: 7
+2024-05-23T07:47:20.041Z [user-service] [32minfo[39m: Creating spam #10 with phoneNumber: (407) 213-4445, spamCount: 5
+2024-05-23T07:47:20.041Z [user-service] [32minfo[39m: Finished populating the database
+2024-05-23T07:47:26.603Z [user-service] [32minfo[39m: Starting to populate the database
+2024-05-23T07:47:26.610Z [user-service] [32minfo[39m: Listening on port 3000
+2024-05-23T07:47:26.807Z [user-service] [32minfo[39m: Created user #1 with ID: 257, name: Kyle Zieme, phoneNumber: 1-790-821-2224, email: Vernie96@gmail.com, password: $2b$10$AT4UOZgcQSO6t6DWogAzMeBRl0n9iyoFIK3QMLjRqi551lNI5XhIe
+2024-05-23T07:47:26.881Z [user-service] [32minfo[39m: Created user #2 with ID: 258, name: Beverly Okuneva, phoneNumber: 228.267.4450 x0881, email: Kenneth80@yahoo.com, password: $2b$10$9TrnA7hWceesQyw1KBGVBetVxkdhU.HuozgbX9VpDQB9T0ZfEhB8W
+2024-05-23T07:47:26.966Z [user-service] [32minfo[39m: Created user #3 with ID: 259, name: Preston Wehner, phoneNumber: 631-702-0681 x9667, email: Kaycee57@yahoo.com, password: $2b$10$CFttox1qVhi4YXo2KCuBleO/TcZQKW7N0Ctmdyv73aq3K1R8pv2vS
+2024-05-23T07:47:27.033Z [user-service] [32minfo[39m: Created user #4 with ID: 260, name: Dr. Abraham Stark, phoneNumber: 1-566-496-6078 x70049, email: Nicole.Wisoky@yahoo.com, password: $2b$10$3f2DOyal8zKR36bxDaq7euIUAZAyRKWI33dKf2hAe24IgIyNB8RkK
+2024-05-23T07:47:27.100Z [user-service] [32minfo[39m: Created user #5 with ID: 261, name: Elbert Hackett, phoneNumber: 616-778-0724 x29920, email: Walker.Lubowitz@yahoo.com, password: $2b$10$qm.6IVSfaB/98AxU8ANCnuoGvE19nVrsQlATxo/8zQKr9CpwqC2Tq
+2024-05-23T07:47:27.168Z [user-service] [32minfo[39m: Created user #6 with ID: 262, name: Cody Purdy, phoneNumber: (911) 324-3440 x8090, email: Karson63@gmail.com, password: $2b$10$r16pRzLQpNy2dzG5B7/49u6GBhuAc6cenxXQf0qOQTMz5STTqnDUq
+2024-05-23T07:47:27.233Z [user-service] [32minfo[39m: Created user #7 with ID: 263, name: Marianne Lebsack, phoneNumber: (989) 587-8144 x852, email: Caroline_Swaniawski80@gmail.com, password: $2b$10$.l1MZnQnFSLUu/HbGnb9P.9EgoGwIHMKiD58b3ZPkkC6.WpJEfxxW
+2024-05-23T07:47:27.296Z [user-service] [32minfo[39m: Created user #8 with ID: 264, name: Anita Breitenberg, phoneNumber: 353.477.9706 x844, email: Aubree_Kling@hotmail.com, password: $2b$10$vUuIK8omHzOBF2UUM45zu.NI6nIgv93kZi6fAv6GlwEGvUlbZxvBK
+2024-05-23T07:47:27.356Z [user-service] [32minfo[39m: Created user #9 with ID: 265, name: Cameron Walter, phoneNumber: 1-595-488-3609 x92460, email: Isaias_Monahan59@yahoo.com, password: $2b$10$upOulycQP2xiGl7N7axESuFSGMeNzTtEMGf69PNAW30Cl25NAYHfi
+2024-05-23T07:47:27.414Z [user-service] [32minfo[39m: Created user #10 with ID: 266, name: Courtney Cartwright, phoneNumber: 1-389-510-7996 x495, email: Chloe_Greenfelder69@yahoo.com, password: $2b$10$.4yHhz5xUGga/RuTw5XqXO6KHCbpDiRxEClYASe94slV6szRulXF.
+2024-05-23T07:47:27.415Z [user-service] [32minfo[39m: Creating contact #1 with name: Marie Fay PhD, phoneNumber: (234) 860-9891 x318, registered: false, userID: null
+2024-05-23T07:47:27.418Z [user-service] [32minfo[39m: Creating contact #2 with name: Karl Turner, phoneNumber: 1-383-951-2268 x470, registered: false, userID: null
+2024-05-23T07:47:27.420Z [user-service] [32minfo[39m: Creating contact #3 with name: Nathaniel Hagenes, phoneNumber: (987) 445-8392 x22920, registered: true, userID: 264
+2024-05-23T07:47:27.422Z [user-service] [32minfo[39m: Creating contact #4 with name: Javier Kunze, phoneNumber: 681-217-1288 x38332, registered: false, userID: null
+2024-05-23T07:47:27.423Z [user-service] [32minfo[39m: Creating contact #5 with name: Rudy Ledner DDS, phoneNumber: 802.329.3427 x88614, registered: false, userID: null
+2024-05-23T07:47:27.424Z [user-service] [32minfo[39m: Creating contact #6 with name: Theresa Bernier-Walsh, phoneNumber: 1-572-703-2826 x358, registered: false, userID: null
+2024-05-23T07:47:27.425Z [user-service] [32minfo[39m: Creating contact #7 with name: Leona Rempel, phoneNumber: 897.375.4275 x910, registered: true, userID: 262
+2024-05-23T07:47:27.427Z [user-service] [32minfo[39m: Creating contact #8 with name: Allan Schmeler, phoneNumber: 559.597.7589 x81247, registered: true, userID: 260
+2024-05-23T07:47:27.428Z [user-service] [32minfo[39m: Creating contact #9 with name: Abraham Quigley-Bins V, phoneNumber: 304-202-4891 x015, registered: true, userID: 265
+2024-05-23T07:47:27.430Z [user-service] [32minfo[39m: Creating contact #10 with name: Mr. Winston Jones, phoneNumber: 1-445-953-2742, registered: true, userID: 257
+2024-05-23T07:47:27.431Z [user-service] [32minfo[39m: Creating spam #1 with phoneNumber: 415-492-2662 x4776, spamCount: 3
+2024-05-23T07:47:27.434Z [user-service] [32minfo[39m: Creating spam #2 with phoneNumber: 1-671-594-7639 x800, spamCount: 3
+2024-05-23T07:47:27.435Z [user-service] [32minfo[39m: Creating spam #3 with phoneNumber: (837) 285-1699 x5884, spamCount: 5
+2024-05-23T07:47:27.436Z [user-service] [32minfo[39m: Creating spam #4 with phoneNumber: 827-661-3263 x4611, spamCount: 5
+2024-05-23T07:47:27.437Z [user-service] [32minfo[39m: Creating spam #5 with phoneNumber: 569.777.1173 x6984, spamCount: 2
+2024-05-23T07:47:27.438Z [user-service] [32minfo[39m: Creating spam #6 with phoneNumber: 610.955.1048 x20970, spamCount: 1
+2024-05-23T07:47:27.438Z [user-service] [32minfo[39m: Creating spam #7 with phoneNumber: (284) 607-4932 x8250, spamCount: 7
+2024-05-23T07:47:27.439Z [user-service] [32minfo[39m: Creating spam #8 with phoneNumber: 1-856-436-8871, spamCount: 9
+2024-05-23T07:47:27.440Z [user-service] [32minfo[39m: Creating spam #9 with phoneNumber: 831-964-4091 x60099, spamCount: 2
+2024-05-23T07:47:27.440Z [user-service] [32minfo[39m: Creating spam #10 with phoneNumber: (303) 771-4657 x3139, spamCount: 1
+2024-05-23T07:47:27.441Z [user-service] [32minfo[39m: Finished populating the database
+2024-05-23T07:47:30.559Z [user-service] [32minfo[39m: Starting to populate the database
+2024-05-23T07:47:30.566Z [user-service] [32minfo[39m: Listening on port 3000
+2024-05-23T07:47:30.665Z [user-service] [32minfo[39m: Created user #1 with ID: 267, name: Mrs. Karla Koss, phoneNumber: 794.519.9505 x4534, email: Marlin_Goodwin22@yahoo.com, password: $2b$10$Ott/pymoe/GLneWv6Cp6te.IWLPKiydl3U9C5070hM08rKOEylQR6
+2024-05-23T07:47:30.720Z [user-service] [32minfo[39m: Created user #2 with ID: 268, name: Shelia Predovic, phoneNumber: 1-428-285-0121 x1857, email: Fredy.Upton@yahoo.com, password: $2b$10$BO/WxG8gvU3DtKRYM/emee7M6ftVTJNRe9ih7.vqLAK6RWQuHbYvW
+2024-05-23T07:47:30.775Z [user-service] [32minfo[39m: Created user #3 with ID: 269, name: Jay Lang, phoneNumber: 1-581-760-9297 x648, email: Austin_Crist1@yahoo.com, password: $2b$10$rino./LMQsbjkhTbf.lmFuieJNwR8d..4T/eKJNkYCACehk.ljqcy
+2024-05-23T07:47:30.829Z [user-service] [32minfo[39m: Created user #4 with ID: 270, name: Shane Runolfsson, phoneNumber: 473-531-4902 x4745, email: Cristobal.Adams18@gmail.com, password: $2b$10$autMyfd9YzGKhV3SJzQxX.li4lE7GMpbZoK1T19V7zYr1LAALNKoC
+2024-05-23T07:47:30.885Z [user-service] [32minfo[39m: Created user #5 with ID: 271, name: Shaun Ferry I, phoneNumber: 974-531-2739, email: Lucio.Purdy60@hotmail.com, password: $2b$10$n5Oe19PA7/YudCCxf7LayOjkrfwlPyXuEZJjSe2rrgFASx0ttoLPi
+2024-05-23T07:47:30.941Z [user-service] [32minfo[39m: Created user #6 with ID: 272, name: Rene Robel, phoneNumber: 1-949-209-9589 x273, email: Elizabeth_Price@gmail.com, password: $2b$10$w2Rw28vQirQM8CtBei.qjOIC2yhC7MPqnXR.j2VM3T/njAo01CUq.
+2024-05-23T07:47:30.996Z [user-service] [32minfo[39m: Created user #7 with ID: 273, name: Wilfred Denesik, phoneNumber: 608.472.8833 x405, email: Kay57@hotmail.com, password: $2b$10$HoteAoKl4leXIgoiBpguIejDud5TXJ2SeORwxX3IzifKurZH9zRKW
+2024-05-23T07:47:31.059Z [user-service] [32minfo[39m: Created user #8 with ID: 274, name: Miguel Sanford, phoneNumber: 1-482-820-1029 x33138, email: Dave44@hotmail.com, password: $2b$10$dPXvTz6wq4Z8UtewH7msNeG9mzt0CeS45cQzcYJFuXBqF.sZetmzK
+2024-05-23T07:47:31.117Z [user-service] [32minfo[39m: Created user #9 with ID: 275, name: Jacqueline Nitzsche II, phoneNumber: 618.711.2988 x32866, email: Asia.Emard20@yahoo.com, password: $2b$10$.WPp.lfCHKENvrTVwE/ABeYXcABaLvSHO71qiSO17ktQgOJ6/sxVK
+2024-05-23T07:47:31.176Z [user-service] [32minfo[39m: Created user #10 with ID: 276, name: Mattie Connelly, phoneNumber: (743) 230-8401 x146, email: Dee.Monahan@yahoo.com, password: $2b$10$mcwAyBriPjpqfUsBPMq8g.mLZT.zzT/As02okTjlLBbPZCvie4LqC
+2024-05-23T07:47:31.177Z [user-service] [32minfo[39m: Creating contact #1 with name: Dr. Martha Cremin MD, phoneNumber: 1-252-452-6099 x49854, registered: false, userID: null
+2024-05-23T07:47:31.180Z [user-service] [32minfo[39m: Creating contact #2 with name: Roberto Monahan, phoneNumber: 365-894-9306 x844, registered: true, userID: 272
+2024-05-23T07:47:31.183Z [user-service] [32minfo[39m: Creating contact #3 with name: Mr. Elias Gerlach, phoneNumber: 1-580-315-6944, registered: false, userID: null
+2024-05-23T07:47:31.184Z [user-service] [32minfo[39m: Creating contact #4 with name: Susie Beier, phoneNumber: 411.364.4081 x77977, registered: false, userID: null
+2024-05-23T07:47:31.186Z [user-service] [32minfo[39m: Creating contact #5 with name: John Wolf, phoneNumber: 732-906-8131 x1549, registered: false, userID: null
+2024-05-23T07:47:31.187Z [user-service] [32minfo[39m: Creating contact #6 with name: Harriet Cummings Jr., phoneNumber: 372.977.3929 x82125, registered: true, userID: 267
+2024-05-23T07:47:31.188Z [user-service] [32minfo[39m: Creating contact #7 with name: Pat Nicolas, phoneNumber: 864-736-5325 x852, registered: true, userID: 271
+2024-05-23T07:47:31.189Z [user-service] [32minfo[39m: Creating contact #8 with name: Eduardo Stark, phoneNumber: 311.722.5677, registered: false, userID: null
+2024-05-23T07:47:31.190Z [user-service] [32minfo[39m: Creating contact #9 with name: Reginald Batz-Bechtelar, phoneNumber: (834) 517-8587, registered: true, userID: 275
+2024-05-23T07:47:31.192Z [user-service] [32minfo[39m: Creating contact #10 with name: Melody Emmerich, phoneNumber: (895) 288-6069, registered: false, userID: null
+2024-05-23T07:47:31.193Z [user-service] [32minfo[39m: Creating spam #1 with phoneNumber: 965-671-0852 x90065, spamCount: 7
+2024-05-23T07:47:31.195Z [user-service] [32minfo[39m: Creating spam #2 with phoneNumber: 954-627-7551 x94731, spamCount: 2
+2024-05-23T07:47:31.196Z [user-service] [32minfo[39m: Creating spam #3 with phoneNumber: 626.513.2843 x19719, spamCount: 2
+2024-05-23T07:47:31.197Z [user-service] [32minfo[39m: Creating spam #4 with phoneNumber: 871.962.3130 x42691, spamCount: 4
+2024-05-23T07:47:31.197Z [user-service] [32minfo[39m: Creating spam #5 with phoneNumber: (487) 533-5677 x157, spamCount: 9
+2024-05-23T07:47:31.198Z [user-service] [32minfo[39m: Creating spam #6 with phoneNumber: 1-316-809-1154 x93122, spamCount: 7
+2024-05-23T07:47:31.199Z [user-service] [32minfo[39m: Creating spam #7 with phoneNumber: (816) 632-3235, spamCount: 10
+2024-05-23T07:47:31.200Z [user-service] [32minfo[39m: Creating spam #8 with phoneNumber: 566-801-9003, spamCount: 1
+2024-05-23T07:47:31.201Z [user-service] [32minfo[39m: Creating spam #9 with phoneNumber: (387) 286-6749 x666, spamCount: 9
+2024-05-23T07:47:31.201Z [user-service] [32minfo[39m: Creating spam #10 with phoneNumber: (353) 481-1113 x2000, spamCount: 10
+2024-05-23T07:47:31.202Z [user-service] [32minfo[39m: Finished populating the database
+2024-05-23T07:47:51.768Z [user-service] [32minfo[39m: Starting to populate the database
+2024-05-23T07:47:51.774Z [user-service] [32minfo[39m: Listening on port 3000
+2024-05-23T07:47:51.984Z [user-service] [32minfo[39m: Created user #1 with ID: 277, name: Laverne Schiller, phoneNumber: 866.289.7509 x340, email: Pinkie22@gmail.com, password: $2b$10$YRoCOWIP6r/tgdr4FB49EOavDKxskO6d2dGFVsMI45JxPh8ZFnCum
+2024-05-23T07:47:52.088Z [user-service] [32minfo[39m: Created user #2 with ID: 278, name: Sheryl Sawayn, phoneNumber: (861) 763-4616 x337, email: Samara_Legros@hotmail.com, password: $2b$10$kcHV4nCLtiSBZNyj5ECFE.HrbMujXVI.GVA8WhVd0ESYBIkWQmLEu
+2024-05-23T07:47:52.143Z [user-service] [32minfo[39m: Created user #3 with ID: 279, name: Geoffrey Heidenreich, phoneNumber: (775) 845-9283, email: Eunice16@hotmail.com, password: $2b$10$Qam3K/fkMr6wwf0pB9UPguLfv47jDtwT2UYDrdsKVgqVT0yI9rUgO
+2024-05-23T07:47:52.201Z [user-service] [32minfo[39m: Created user #4 with ID: 280, name: Pablo Harber, phoneNumber: 946.801.7886 x255, email: Elwyn74@yahoo.com, password: $2b$10$T/Y5D6xfoS0VTSp5prHEp./ONIYdKXys5ggkG3FSmjTNZF5MNb9Ey
+2024-05-23T07:47:52.259Z [user-service] [32minfo[39m: Created user #5 with ID: 281, name: Dr. Jackie Sanford, phoneNumber: 1-784-972-7872 x650, email: Lorna.Rohan@hotmail.com, password: $2b$10$Gz68Tr.0ZzM5qgRyzYV5zOkT6N0s.s2CnYKl1oFLQ9ovlMJvpk0kq
+2024-05-23T07:47:52.316Z [user-service] [32minfo[39m: Created user #6 with ID: 282, name: Dr. Bonnie Adams, phoneNumber: (969) 662-6734 x2531, email: Frederic60@gmail.com, password: $2b$10$fZAyFj89OODyLB58nUBa7.QomP8MilcMcyqbU4nTMKyMaBd19YtJq
+2024-05-23T07:47:52.373Z [user-service] [32minfo[39m: Created user #7 with ID: 283, name: Owen Bednar Jr., phoneNumber: 1-727-247-1732 x208, email: Christine_Reinger@yahoo.com, password: $2b$10$cb1qnW40074xg2gBH1OmhOibPXCWLUi0NRc1aNSYXBkyLtlm0F4E.
+2024-05-23T07:47:52.430Z [user-service] [32minfo[39m: Created user #8 with ID: 284, name: Abraham Klein, phoneNumber: 1-685-605-3733 x180, email: Wellington77@yahoo.com, password: $2b$10$iUBDsc1B1oDMFR5BkVAsseiprAHvTpg3V8IKVmvIZ2RecKd8vGViS
+2024-05-23T07:47:52.487Z [user-service] [32minfo[39m: Created user #9 with ID: 285, name: Dr. Morris Ondricka-Schmeler, phoneNumber: 1-346-855-0527 x9877, email: Natasha81@yahoo.com, password: $2b$10$LkKgs/sGeUZ0sak.ZfMd/.c9XlPEuDv61RhuLM90FcUPZmxmfjHMu
+2024-05-23T07:47:52.544Z [user-service] [32minfo[39m: Created user #10 with ID: 286, name: Mr. Israel Heller, phoneNumber: 446.345.9701, email: Toy_Goyette51@hotmail.com, password: $2b$10$v2TG3lqFNSWghNf.bJLOouop4.0uJfJSxAyAZo0q7ZC6RDmV2OSQO
+2024-05-23T07:47:52.545Z [user-service] [32minfo[39m: Creating contact #1 with name: Kristy Prosacco, phoneNumber: 241.999.8976, registered: true, userID: 282
+2024-05-23T07:47:52.548Z [user-service] [32minfo[39m: Creating contact #2 with name: Camille Hirthe, phoneNumber: 492.964.0884 x175, registered: true, userID: 283
+2024-05-23T07:47:52.549Z [user-service] [32minfo[39m: Creating contact #3 with name: Stewart Marvin, phoneNumber: 1-275-810-8233 x402, registered: true, userID: 279
+2024-05-23T07:47:52.551Z [user-service] [32minfo[39m: Creating contact #4 with name: William Marks, phoneNumber: 677-644-8042, registered: true, userID: 279
+2024-05-23T07:47:52.552Z [user-service] [32minfo[39m: Creating contact #5 with name: Jackie Lynch, phoneNumber: 899.933.9170 x134, registered: true, userID: 278
+2024-05-23T07:47:52.554Z [user-service] [32minfo[39m: Creating contact #6 with name: Doug Swaniawski, phoneNumber: 903-389-3624 x769, registered: true, userID: 278
+2024-05-23T07:47:52.555Z [user-service] [32minfo[39m: Creating contact #7 with name: Victor Abernathy, phoneNumber: 1-694-670-6728 x70349, registered: true, userID: 286
+2024-05-23T07:47:52.556Z [user-service] [32minfo[39m: Creating contact #8 with name: Daniel Kling, phoneNumber: 598.681.9956 x1481, registered: true, userID: 279
+2024-05-23T07:47:52.556Z [user-service] [32minfo[39m: Creating contact #9 with name: Teresa Wisozk, phoneNumber: 535-382-6109 x958, registered: true, userID: 279
+2024-05-23T07:47:52.557Z [user-service] [32minfo[39m: Creating contact #10 with name: Miss Maggie Wilderman, phoneNumber: 290.926.4041 x5142, registered: true, userID: 281
+2024-05-23T07:47:52.558Z [user-service] [32minfo[39m: Creating spam #1 with phoneNumber: (749) 635-3011 x389, spamCount: 1
+2024-05-23T07:47:52.560Z [user-service] [32minfo[39m: Creating spam #2 with phoneNumber: 433.700.8180, spamCount: 2
+2024-05-23T07:47:52.561Z [user-service] [32minfo[39m: Creating spam #3 with phoneNumber: 628-709-5367 x9923, spamCount: 8
+2024-05-23T07:47:52.561Z [user-service] [32minfo[39m: Creating spam #4 with phoneNumber: (571) 434-0203 x80366, spamCount: 7
+2024-05-23T07:47:52.562Z [user-service] [32minfo[39m: Creating spam #5 with phoneNumber: 518-225-5984 x8008, spamCount: 4
+2024-05-23T07:47:52.563Z [user-service] [32minfo[39m: Creating spam #6 with phoneNumber: 378-318-7647, spamCount: 8
+2024-05-23T07:47:52.564Z [user-service] [32minfo[39m: Creating spam #7 with phoneNumber: 235-218-9048, spamCount: 7
+2024-05-23T07:47:52.565Z [user-service] [32minfo[39m: Creating spam #8 with phoneNumber: 694.971.7757 x5163, spamCount: 2
+2024-05-23T07:47:52.566Z [user-service] [32minfo[39m: Creating spam #9 with phoneNumber: 507-655-9882 x0055, spamCount: 6
+2024-05-23T07:47:52.567Z [user-service] [32minfo[39m: Creating spam #10 with phoneNumber: 297-656-2373 x932, spamCount: 8
+2024-05-23T07:47:52.567Z [user-service] [32minfo[39m: Finished populating the database
+2024-05-23T07:47:59.353Z [user-service] [32minfo[39m: Starting to populate the database
+2024-05-23T07:47:59.363Z [user-service] [32minfo[39m: Listening on port 3000
+2024-05-23T07:47:59.460Z [user-service] [32minfo[39m: Created user #1 with ID: 287, name: Bert Kling, phoneNumber: 916-595-2133 x152, email: Gaston_Hegmann24@hotmail.com, password: $2b$10$xX1atuF/t5MAy3aNgztfNeTl.KydepYnzwU1wyVZ5i/NbhauOBXiG
+2024-05-23T07:47:59.577Z [user-service] [32minfo[39m: Created user #2 with ID: 288, name: Ms. Fannie Moore Sr., phoneNumber: (660) 643-0186, email: Maryjane26@yahoo.com, password: $2b$10$whvxv8rO61qQvA3Tb6R/gulqWx7gmpVQO.y3zPNeGJViyCZ4co9B.
+2024-05-23T07:47:59.635Z [user-service] [32minfo[39m: Created user #3 with ID: 289, name: Ruth Marquardt, phoneNumber: (809) 668-5171 x4190, email: Palma_Greenfelder47@gmail.com, password: $2b$10$Qvr8l3/Tv7vCdZxCZbRI7.Cadvl1ln/6T.WaqT2zjJL2l315vEZFW
+2024-05-23T07:47:59.706Z [user-service] [32minfo[39m: Created user #4 with ID: 290, name: Casey Effertz V, phoneNumber: 1-252-591-0805 x891, email: Emma39@hotmail.com, password: $2b$10$yGWPWwUo7Lmk8GjQYzATtOKRj4WIV3/lArMWEcXcztB/rDuMr.0wC
+2024-05-23T07:47:59.770Z [user-service] [32minfo[39m: Created user #5 with ID: 291, name: Ismael Schuster, phoneNumber: (476) 315-2271, email: Brandon_Schultz@hotmail.com, password: $2b$10$T4CIOPycWOxVw8pGH4BPgOf6b13cScitSQJLXFBEZ1cDTVa3RwvcC
+2024-05-23T07:47:59.829Z [user-service] [32minfo[39m: Created user #6 with ID: 292, name: Luis Jaskolski, phoneNumber: (208) 639-7125 x055, email: Lessie_Brekke-OKon73@gmail.com, password: $2b$10$UDujGiQYOSwtOeDSmOl66OtWgRw3SHTxiBZAYA.beqA2CTAcJdwfW
+2024-05-23T07:47:59.888Z [user-service] [32minfo[39m: Created user #7 with ID: 293, name: Clarence Boehm, phoneNumber: 350-826-5218 x79979, email: Kyle_Klein35@yahoo.com, password: $2b$10$xWXg.rPRVNKaQ9oh6MeaZ.pI8rSiS8R2jG3uOo7gCAciMwN9D.oTy
+2024-05-23T07:47:59.945Z [user-service] [32minfo[39m: Created user #8 with ID: 294, name: Jana Armstrong, phoneNumber: 240-895-3655, email: Isabella_Bechtelar@hotmail.com, password: $2b$10$zUMfVIWxQvPRaMHkwwFSh.B0ZABWcvv5Ddp9RMUUtNm7l.GZ17Bq2
+2024-05-23T07:48:00.003Z [user-service] [32minfo[39m: Created user #9 with ID: 295, name: Marty Pfeffer, phoneNumber: (271) 351-4629 x5950, email: Ollie_Hagenes9@yahoo.com, password: $2b$10$2K/m3q7.i0k3xeSllQmyQeixZROnDVhNxMDMuWWEa6y3UyQ4Pxjca
+2024-05-23T07:48:00.063Z [user-service] [32minfo[39m: Created user #10 with ID: 296, name: Wallace Toy, phoneNumber: 782-532-8278, email: Julianne_Crist33@gmail.com, password: $2b$10$uFBmknpUaBKquXgxx9c2Rerai3xJ4DaRGn1eHgHgnMcaT3/aXt7Hi
+2024-05-23T07:48:00.063Z [user-service] [32minfo[39m: Creating contact #1 with name: Inez Rodriguez, phoneNumber: 227-698-9754, registered: false, userID: null
+2024-05-23T07:48:00.067Z [user-service] [32minfo[39m: Creating contact #2 with name: Mathew Welch, phoneNumber: 391-898-4233 x439, registered: true, userID: 290
+2024-05-23T07:48:00.070Z [user-service] [32minfo[39m: Creating contact #3 with name: Robert Carter, phoneNumber: 1-444-809-1400, registered: false, userID: null
+2024-05-23T07:48:00.071Z [user-service] [32minfo[39m: Creating contact #4 with name: Lucille Mueller, phoneNumber: (824) 328-9545, registered: false, userID: null
+2024-05-23T07:48:00.072Z [user-service] [32minfo[39m: Creating contact #5 with name: Bobby Crona, phoneNumber: 394-678-7619 x219, registered: true, userID: 290
+2024-05-23T07:48:00.074Z [user-service] [32minfo[39m: Creating contact #6 with name: Eric Jacobson, phoneNumber: 1-792-907-3980 x3938, registered: true, userID: 290
+2024-05-23T07:48:00.075Z [user-service] [32minfo[39m: Creating contact #7 with name: Kerry Langosh, phoneNumber: (267) 636-7035 x94190, registered: false, userID: null
+2024-05-23T07:48:00.076Z [user-service] [32minfo[39m: Creating contact #8 with name: Alonzo Nicolas, phoneNumber: 1-695-235-0648 x7711, registered: true, userID: 289
+2024-05-23T07:48:00.077Z [user-service] [32minfo[39m: Creating contact #9 with name: Pat Tremblay, phoneNumber: 221.977.9297 x0684, registered: true, userID: 291
+2024-05-23T07:48:00.078Z [user-service] [32minfo[39m: Creating contact #10 with name: Cecilia Monahan, phoneNumber: 1-479-983-1176 x693, registered: false, userID: null
+2024-05-23T07:48:00.080Z [user-service] [32minfo[39m: Creating spam #1 with phoneNumber: 1-313-775-9063, spamCount: 7
+2024-05-23T07:48:00.085Z [user-service] [32minfo[39m: Creating spam #2 with phoneNumber: (746) 261-7507 x659, spamCount: 1
+2024-05-23T07:48:00.087Z [user-service] [32minfo[39m: Creating spam #3 with phoneNumber: 277-315-0881 x5302, spamCount: 5
+2024-05-23T07:48:00.088Z [user-service] [32minfo[39m: Creating spam #4 with phoneNumber: 1-494-313-0803 x770, spamCount: 6
+2024-05-23T07:48:00.090Z [user-service] [32minfo[39m: Creating spam #5 with phoneNumber: 1-775-399-7929 x2505, spamCount: 10
+2024-05-23T07:48:00.092Z [user-service] [32minfo[39m: Creating spam #6 with phoneNumber: 379-953-9768 x3043, spamCount: 2
+2024-05-23T07:48:00.094Z [user-service] [32minfo[39m: Creating spam #7 with phoneNumber: 309-897-9581 x196, spamCount: 10
+2024-05-23T07:48:00.096Z [user-service] [32minfo[39m: Creating spam #8 with phoneNumber: 1-235-433-8679 x607, spamCount: 7
+2024-05-23T07:48:00.097Z [user-service] [32minfo[39m: Creating spam #9 with phoneNumber: 630-564-5061 x1158, spamCount: 2
+2024-05-23T07:48:00.099Z [user-service] [32minfo[39m: Creating spam #10 with phoneNumber: 1-466-424-0026, spamCount: 10
+2024-05-23T07:48:00.100Z [user-service] [32minfo[39m: Finished populating the database
+2024-05-23T07:48:03.369Z [user-service] [32minfo[39m: Starting to populate the database
+2024-05-23T07:48:03.378Z [user-service] [32minfo[39m: Listening on port 3000
+2024-05-23T07:48:03.482Z [user-service] [32minfo[39m: Created user #1 with ID: 297, name: Isabel Vandervort, phoneNumber: (553) 302-5059, email: Esperanza87@hotmail.com, password: $2b$10$gBK6IChpC9rs5DiP6qRg7egS/0EcFlSuDL6WkC6jkkivwTYXETIvS
+2024-05-23T07:48:03.541Z [user-service] [32minfo[39m: Created user #2 with ID: 298, name: Vivian Stoltenberg, phoneNumber: 766-453-3004 x46247, email: Garett2@yahoo.com, password: $2b$10$O4Y4Xg0stWahoFt1Kmn.bOGC6EKR4h4n3SXOJMD/T1stPdZP7jkdq
+2024-05-23T07:48:03.598Z [user-service] [32minfo[39m: Created user #3 with ID: 299, name: Winston Fadel, phoneNumber: (545) 343-4437, email: Name79@gmail.com, password: $2b$10$egBCUX4E4NMxDwKy526qT.Pw/LbLmiLGXcwUsnVnKzNbsiHT1tCim
+2024-05-23T07:48:03.655Z [user-service] [32minfo[39m: Created user #4 with ID: 300, name: Katrina Rodriguez, phoneNumber: 737.337.7838 x398, email: Alexa_Raynor64@hotmail.com, password: $2b$10$WydJI2FaFTd3w9lDqRkXw.dgrg/TAGbFGbc9uuQjwlzmo87Cu8IFC
+2024-05-23T07:48:03.712Z [user-service] [32minfo[39m: Created user #5 with ID: 301, name: Sophie Boehm, phoneNumber: (876) 722-2201 x5915, email: Brannon_Bradtke32@gmail.com, password: $2b$10$GosEwr00RQPpN4K0g00Wc.z3QVhYSTmkwbF5nfRbPN1N.S60L6Giq
+2024-05-23T07:48:03.769Z [user-service] [32minfo[39m: Created user #6 with ID: 302, name: Marian Littel, phoneNumber: 414.424.2120 x311, email: Rosalia_Baumbach62@yahoo.com, password: $2b$10$dOiAsyrjqVEvB2Bwt78CiuKXA7lZSDIAsGWTu3GcQTiXDKYPtToRa
+2024-05-23T07:48:03.825Z [user-service] [32minfo[39m: Created user #7 with ID: 303, name: Deborah Hackett, phoneNumber: 875-347-9644 x65867, email: Talia71@yahoo.com, password: $2b$10$kTX5hvN3nJ6LQ3UtDPSdceeIm0kHC3.U7OSjO.prvvf/ckHDdTrfS
+2024-05-23T07:48:03.884Z [user-service] [32minfo[39m: Created user #8 with ID: 304, name: Linda Keebler-Klocko, phoneNumber: 611.799.6020, email: Conor.Heathcote@gmail.com, password: $2b$10$osgK.8yG8caozIC10z3uzOYD0ZXBKyHj1beyYpaGoMEPSI9LfDK7G
+2024-05-23T07:48:03.942Z [user-service] [32minfo[39m: Created user #9 with ID: 305, name: Frances Boyer, phoneNumber: (948) 260-1864 x720, email: Felipa56@hotmail.com, password: $2b$10$fBAsF2mWob595ftxP2tw1.Aw944sfh.XtZO7ECvhqJWp5080r2/BS
+2024-05-23T07:48:03.997Z [user-service] [32minfo[39m: Created user #10 with ID: 306, name: Barry Heidenreich, phoneNumber: (539) 207-0908 x27433, email: Alisha.Kuhn@hotmail.com, password: $2b$10$qaq880t489tq79aTtsRf8eGUONvXBkwK66VpNV91zCNhs64VhF.PO
+2024-05-23T07:48:03.997Z [user-service] [32minfo[39m: Creating contact #1 with name: Noah Corwin, phoneNumber: 989.333.9633, registered: false, userID: null
+2024-05-23T07:48:03.999Z [user-service] [32minfo[39m: Creating contact #2 with name: Dr. Barbara Kiehn Jr., phoneNumber: (718) 599-0249 x89828, registered: false, userID: null
+2024-05-23T07:48:04.000Z [user-service] [32minfo[39m: Creating contact #3 with name: Dr. Tracy Ziemann, phoneNumber: 1-865-767-5822, registered: true, userID: 301
+2024-05-23T07:48:04.002Z [user-service] [32minfo[39m: Creating contact #4 with name: Brian Keebler, phoneNumber: 1-206-943-2978 x898, registered: true, userID: 301
+2024-05-23T07:48:04.003Z [user-service] [32minfo[39m: Creating contact #5 with name: Colleen Halvorson, phoneNumber: 806.446.1400 x9907, registered: false, userID: null
+2024-05-23T07:48:04.004Z [user-service] [32minfo[39m: Creating contact #6 with name: Alan Fritsch, phoneNumber: 358-686-5267 x17241, registered: true, userID: 302
+2024-05-23T07:48:04.006Z [user-service] [32minfo[39m: Creating contact #7 with name: Lawrence Roob, phoneNumber: (975) 711-4361 x369, registered: true, userID: 303
+2024-05-23T07:48:04.007Z [user-service] [32minfo[39m: Creating contact #8 with name: Lana Kertzmann, phoneNumber: (293) 760-4190 x062, registered: false, userID: null
+2024-05-23T07:48:04.008Z [user-service] [32minfo[39m: Creating contact #9 with name: Darla Robel, phoneNumber: (862) 607-4971 x1586, registered: true, userID: 304
+2024-05-23T07:48:04.010Z [user-service] [32minfo[39m: Creating contact #10 with name: Leland Stroman, phoneNumber: 584-535-8790 x458, registered: false, userID: null
+2024-05-23T07:48:04.010Z [user-service] [32minfo[39m: Creating spam #1 with phoneNumber: 276.501.0278 x4343, spamCount: 8
+2024-05-23T07:48:04.012Z [user-service] [32minfo[39m: Creating spam #2 with phoneNumber: 927-631-9322 x0935, spamCount: 4
+2024-05-23T07:48:04.013Z [user-service] [32minfo[39m: Creating spam #3 with phoneNumber: 489-770-0581 x98027, spamCount: 10
+2024-05-23T07:48:04.013Z [user-service] [32minfo[39m: Creating spam #4 with phoneNumber: 696-663-3949, spamCount: 6
+2024-05-23T07:48:04.014Z [user-service] [32minfo[39m: Creating spam #5 with phoneNumber: (321) 884-0367 x6850, spamCount: 7
+2024-05-23T07:48:04.015Z [user-service] [32minfo[39m: Creating spam #6 with phoneNumber: 326.344.8384 x17395, spamCount: 1
+2024-05-23T07:48:04.016Z [user-service] [32minfo[39m: Creating spam #7 with phoneNumber: 1-815-740-8343 x2349, spamCount: 3
+2024-05-23T07:48:04.017Z [user-service] [32minfo[39m: Creating spam #8 with phoneNumber: 1-641-443-9951 x285, spamCount: 3
+2024-05-23T07:48:04.018Z [user-service] [32minfo[39m: Creating spam #9 with phoneNumber: 287-758-7842 x2916, spamCount: 3
+2024-05-23T07:48:04.019Z [user-service] [32minfo[39m: Creating spam #10 with phoneNumber: (296) 261-9434 x06737, spamCount: 10
+2024-05-23T07:48:04.020Z [user-service] [32minfo[39m: Finished populating the database
+2024-05-23T07:48:19.880Z [user-service] [32minfo[39m: Listening on port 3000
+2024-05-23T07:51:56.041Z [user-service] [32minfo[39m: Listening on port 3000
+2024-05-23T08:06:07.344Z [user-service] [32minfo[39m: listening on port 3000
+2024-05-23T08:06:44.554Z [user-service] [32minfo[39m: listeninqg on port 3000
+2024-05-23T09:05:16.184Z [user-service] [32minfo[39m: Starting to populate the database
+2024-05-23T09:05:16.945Z [user-service] [32minfo[39m: Created 10 users
+2024-05-23T09:05:16.958Z [user-service] [32minfo[39m: Created 10 contacts
+2024-05-23T09:05:16.967Z [user-service] [32minfo[39m: Created 0 spam entries
+2024-05-23T09:05:16.967Z [user-service] [32minfo[39m: Data population completed in 0.782 seconds
+2024-05-23T09:05:17.016Z [user-service] [32minfo[39m: Finished populating the database
+2024-05-23T09:05:33.031Z [user-service] [32minfo[39m: Starting to populate the database
+2024-05-23T09:05:33.618Z [user-service] [32minfo[39m: Created 10 users
+2024-05-23T09:05:33.630Z [user-service] [32minfo[39m: Created 10 contacts
+2024-05-23T09:05:33.639Z [user-service] [32minfo[39m: Created 0 spam entries
+2024-05-23T09:05:33.639Z [user-service] [32minfo[39m: Data population completed in 0.607 seconds
+2024-05-23T09:05:33.659Z [user-service] [32minfo[39m: Finished populating the database
+2024-05-23T09:05:50.688Z [user-service] [32minfo[39m: Starting to populate the database
+2024-05-23T09:05:51.307Z [user-service] [32minfo[39m: Created 10 users
+2024-05-23T09:05:51.318Z [user-service] [32minfo[39m: Created 10 contacts
+2024-05-23T09:05:51.326Z [user-service] [32minfo[39m: Created 0 spam entries
+2024-05-23T09:05:51.327Z [user-service] [32minfo[39m: Data population completed in 0.637 seconds
+2024-05-23T09:05:51.338Z [user-service] [32minfo[39m: Finished populating the database
+2024-05-23T09:05:59.509Z [user-service] [32minfo[39m: Starting to populate the database
+2024-05-23T09:06:00.105Z [user-service] [32minfo[39m: Created 10 users
+2024-05-23T09:06:00.116Z [user-service] [32minfo[39m: Created 10 contacts
+2024-05-23T09:06:00.124Z [user-service] [32minfo[39m: Created 0 spam entries
+2024-05-23T09:06:00.124Z [user-service] [32minfo[39m: Data population completed in 0.614 seconds
+2024-05-23T09:06:00.141Z [user-service] [32minfo[39m: Finished populating the database
+2024-05-23T09:06:15.937Z [user-service] [32minfo[39m: Starting to populate the database
+2024-05-23T09:06:16.530Z [user-service] [32minfo[39m: Created 10 users
+2024-05-23T09:06:16.539Z [user-service] [32minfo[39m: Created 10 contacts
+2024-05-23T09:06:16.547Z [user-service] [32minfo[39m: Created 0 spam entries
+2024-05-23T09:06:16.547Z [user-service] [32minfo[39m: Data population completed in 0.609 seconds
+2024-05-23T09:06:16.554Z [user-service] [32minfo[39m: Finished populating the database
+2024-05-23T11:05:03.066Z [user-service] [32minfo[39m: Starting to populate the database
+2024-05-23T11:05:03.751Z [user-service] [32minfo[39m: Created 10 users
+2024-05-23T11:05:03.766Z [user-service] [32minfo[39m: Created 10 contacts
+2024-05-23T11:05:03.777Z [user-service] [32minfo[39m: Created 0 spam entries
+2024-05-23T11:05:03.777Z [user-service] [32minfo[39m: Data population completed in 0.71 seconds
+2024-05-23T11:05:03.794Z [user-service] [32minfo[39m: Finished populating the database
+2024-05-23T11:05:18.877Z [user-service] [32minfo[39m: Starting to populate the database
+2024-05-23T11:05:19.535Z [user-service] [32minfo[39m: Created 10 users
+2024-05-23T11:05:19.550Z [user-service] [32minfo[39m: Created 10 contacts
+2024-05-23T11:05:19.558Z [user-service] [32minfo[39m: Created 0 spam entries
+2024-05-23T11:05:19.559Z [user-service] [32minfo[39m: Data population completed in 0.68 seconds
+2024-05-23T11:05:19.568Z [user-service] [32minfo[39m: Finished populating the database
+2024-05-23T11:05:26.111Z [user-service] [32minfo[39m: Starting to populate the database
+2024-05-23T11:05:26.757Z [user-service] [32minfo[39m: Created 10 users
+2024-05-23T11:05:26.772Z [user-service] [32minfo[39m: Created 10 contacts
+2024-05-23T11:05:26.781Z [user-service] [32minfo[39m: Created 0 spam entries
+2024-05-23T11:05:26.781Z [user-service] [32minfo[39m: Data population completed in 0.669 seconds
+2024-05-23T11:05:26.800Z [user-service] [32minfo[39m: Finished populating the database
+2024-05-23T11:05:48.666Z [user-service] [32minfo[39m: Starting to populate the database
+2024-05-23T11:05:49.300Z [user-service] [32minfo[39m: Created 10 users
+2024-05-23T11:05:49.315Z [user-service] [32minfo[39m: Created 10 contacts
+2024-05-23T11:05:49.327Z [user-service] [32minfo[39m: Created 0 spam entries
+2024-05-23T11:05:49.327Z [user-service] [32minfo[39m: Data population completed in 0.66 seconds
+2024-05-23T11:05:49.335Z [user-service] [32minfo[39m: Finished populating the database
+2024-05-23T11:05:55.191Z [user-service] [32minfo[39m: Starting to populate the database
+2024-05-23T11:05:55.813Z [user-service] [32minfo[39m: Created 10 users
+2024-05-23T11:05:55.825Z [user-service] [32minfo[39m: Created 10 contacts
+2024-05-23T11:05:55.833Z [user-service] [32minfo[39m: Created 0 spam entries
+2024-05-23T11:05:55.834Z [user-service] [32minfo[39m: Data population completed in 0.642 seconds
+2024-05-23T11:05:55.849Z [user-service] [32minfo[39m: Finished populating the database
+2024-05-23T11:06:06.187Z [user-service] [32minfo[39m: Starting to populate the database
+2024-05-23T11:06:06.833Z [user-service] [32minfo[39m: Created 10 users
+2024-05-23T11:06:06.848Z [user-service] [32minfo[39m: Created 10 contacts
+2024-05-23T11:06:06.858Z [user-service] [32minfo[39m: Created 0 spam entries
+2024-05-23T11:06:06.858Z [user-service] [32minfo[39m: Data population completed in 0.67 seconds
+2024-05-23T11:06:06.865Z [user-service] [32minfo[39m: Finished populating the database
+2024-05-23T11:06:14.333Z [user-service] [32minfo[39m: Starting to populate the database
+2024-05-23T11:06:14.975Z [user-service] [32minfo[39m: Created 10 users
+2024-05-23T11:06:14.985Z [user-service] [32minfo[39m: Created 10 contacts
+2024-05-23T11:06:14.995Z [user-service] [32minfo[39m: Created 0 spam entries
+2024-05-23T11:06:14.995Z [user-service] [32minfo[39m: Data population completed in 0.661 seconds
+2024-05-23T11:06:15.003Z [user-service] [32minfo[39m: Finished populating the database
+2024-05-23T11:11:37.883Z [user-service] [32minfo[39m: Starting to populate the database
+2024-05-23T11:11:38.623Z [user-service] [32minfo[39m: Created 10 users
+2024-05-23T11:11:38.639Z [user-service] [32minfo[39m: Created 10 contacts
+2024-05-23T11:11:38.648Z [user-service] [32minfo[39m: Created 0 spam entries
+2024-05-23T11:11:38.649Z [user-service] [32minfo[39m: Data population completed in 0.764 seconds
+2024-05-23T11:11:38.658Z [user-service] [32minfo[39m: Finished populating the database
+2024-05-23T11:12:11.777Z [user-service] [32minfo[39m: Starting to populate the database
+2024-05-23T11:12:12.510Z [user-service] [32minfo[39m: Created 10 users
+2024-05-23T11:12:12.528Z [user-service] [32minfo[39m: Created 10 contacts
+2024-05-23T11:12:12.536Z [user-service] [32minfo[39m: Created 0 spam entries
+2024-05-23T11:12:12.537Z [user-service] [32minfo[39m: Data population completed in 0.759 seconds
+2024-05-23T11:12:12.553Z [user-service] [32minfo[39m: Finished populating the database
+2024-05-23T11:12:29.211Z [user-service] [32minfo[39m: Starting to populate the database
+2024-05-23T11:12:29.887Z [user-service] [32minfo[39m: Created 10 users
+2024-05-23T11:12:29.901Z [user-service] [32minfo[39m: Created 10 contacts
+2024-05-23T11:12:29.912Z [user-service] [32minfo[39m: Created 0 spam entries
+2024-05-23T11:12:29.912Z [user-service] [32minfo[39m: Data population completed in 0.699 seconds
+2024-05-23T11:12:29.922Z [user-service] [32minfo[39m: Finished populating the database
+2024-05-23T11:12:37.878Z [user-service] [32minfo[39m: Starting to populate the database
+2024-05-23T11:12:38.640Z [user-service] [32minfo[39m: Created 10 users
+2024-05-23T11:12:38.653Z [user-service] [32minfo[39m: Created 10 contacts
+2024-05-23T11:12:38.660Z [user-service] [32minfo[39m: Created 0 spam entries
+2024-05-23T11:12:38.661Z [user-service] [32minfo[39m: Data population completed in 0.782 seconds
+2024-05-23T11:12:38.668Z [user-service] [32minfo[39m: Finished populating the database
+2024-05-26T07:48:08.719Z [user-service] [32minfo[39m: Starting to populate the database
+2024-05-26T07:48:10.954Z [user-service] [32minfo[39m: Created 10 users
+2024-05-26T07:48:11.574Z [user-service] [32minfo[39m: Created 10 contacts
+2024-05-26T07:48:12.126Z [user-service] [32minfo[39m: Created 0 spam entries
+2024-05-26T07:48:12.127Z [user-service] [32minfo[39m: Data population completed in 3.407 seconds
+2024-05-26T07:48:12.139Z [user-service] [32minfo[39m: Finished populating the database
+2024-05-26T07:49:42.921Z [user-service] [32minfo[39m: Starting to populate the database
+2024-05-26T07:49:44.444Z [user-service] [32minfo[39m: Created 10 users
+2024-05-26T07:49:45.049Z [user-service] [32minfo[39m: Created 10 contacts
+2024-05-26T07:49:45.601Z [user-service] [32minfo[39m: Created 0 spam entries
+2024-05-26T07:49:45.601Z [user-service] [32minfo[39m: Data population completed in 2.679 seconds
+2024-05-26T07:49:45.618Z [user-service] [32minfo[39m: Finished populating the database
