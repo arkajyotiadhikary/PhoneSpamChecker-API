@@ -33,8 +33,6 @@ describe("POST /markAsSpam/:phoneNumber", () => {
       it("should handle invalid phone number", async () => {
             const phoneNumber = "00000000";
             const response = await request(app).post(`/markAsSpam/${phoneNumber}`);
-            console.log("response body", response.body);
-            console.log("response status", response.status);
             expect(response.status).toBe(404);
       });
 });

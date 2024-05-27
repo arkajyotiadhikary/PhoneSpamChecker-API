@@ -11,11 +11,14 @@ const auth = (req, res, next) => {
     if (!token) {
         return res.status(401).json({ message: "Unauthorized" });
     }
-    const decoded = jsonwebtoken_1.default.verify(token, secret);
-    if (!decoded) {
+    try {
+        const decoded = jsonwebtoken_1.default.verify(token, secret);
+        req.userId = decoded.id;
+        next();
+    }
+    catch (err) {
         return res.status(401).json({ message: "Unauthorized" });
     }
-    next();
 };
 exports.auth = auth;
 //# sourceMappingURL=auth.middleware.js.map

@@ -9,48 +9,71 @@ var __awaiter = (this && this.__awaiter) || function (thisArg, _arguments, P, ge
     });
 };
 Object.defineProperty(exports, "__esModule", { value: true });
-exports.markAsSpam = void 0;
+exports.getSpamNumbers = exports.getSpamCounts = exports.markAsSpam = void 0;
 const client_1 = require("@prisma/client");
 const prisma = new client_1.PrismaClient();
-const getPhoneNumber = (req, res) => { };
 const markAsSpam = (req, res, next) => __awaiter(void 0, void 0, void 0, function* () {
     const { phoneNumber } = req.params;
-    console.log("markAsSpam", phoneNumber);
     try {
-        // check if phone number exists
-        const existNumber = yield prisma.spam.findUnique({
+        const spam = yield prisma.spam.upsert({
             where: {
                 phoneNumber,
             },
-            select: {
-                phoneNumber: true,
+            update: {
+                spamCount: {
+                    increment: 1,
+                },
+            },
+            create: {
+                phoneNumber,
             },
         });
-        if (existNumber) {
-            const spam = yield prisma.spam.upsert({
-                where: {
-                    phoneNumber,
-                },
-                update: {
-                    spamCount: {
-                        increment: 1,
-                    },
-                },
-                create: {
-                    phoneNumber,
-                },
-            });
-            res.status(201).json({ spamLikelihood: spam.spamCount });
-        }
-        else {
-            res.status(404).json({ message: "Phone number not found" });
-        }
+        res.status(201).json({ spamLikelihood: spam.spamCount });
     }
     catch (error) {
-        console.log(error);
         next(error);
     }
 });
 exports.markAsSpam = markAsSpam;
 // Get spam counts
+const getSpamCounts = (req, res, next) => __awaiter(void 0, void 0, void 0, function* () {
+    try {
+        const spamCounts = yield prisma.spam.groupBy({
+            by: ["phoneNumber"],
+            _sum: {
+                spamCount: true,
+            },
+            orderBy: {
+                _sum: {
+                    spamCount: "desc",
+                },
+            },
+        });
+        res.status(200).json({ spamCounts });
+    }
+    catch (error) {
+        next(error);
+    }
+});
+exports.getSpamCounts = getSpamCounts;
+// Get spam numbers where spamCount > 5
+const getSpamNumbers = (req, res, next) => __awaiter(void 0, void 0, void 0, function* () {
+    try {
+        const spamNumbers = yield prisma.spam.findMany({
+            select: {
+                phoneNumber: true,
+            },
+            where: {
+                spamCount: {
+                    gte: 5,
+                },
+            },
+        });
+        res.status(200).json({ spamNumbers });
+    }
+    catch (error) {
+        next(error);
+    }
+});
+exports.getSpamNumbers = getSpamNumbers;
 //# sourceMappingURL=phoneNumber.controller.js.map

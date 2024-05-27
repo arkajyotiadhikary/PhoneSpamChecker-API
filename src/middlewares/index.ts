@@ -1,4 +1,3 @@
-import { auth } from "./auth.middleware";
 import { logger } from "./logger.middleware";
 import { limiter } from "./limiter.middleware";
 import { errorHandling } from "./errorHandling.middleware";
