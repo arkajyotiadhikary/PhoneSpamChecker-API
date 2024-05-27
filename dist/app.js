@@ -33,7 +33,7 @@ app.use(express_1.default.json());
 app.use(middlewares_1.middlewares);
 // error handling middleware
 // use routes
-app.use("/", user_routes_1.default);
-app.use("/", phoneNumber_routes_1.default);
+app.use("/api", user_routes_1.default);
+app.use("/api", phoneNumber_routes_1.default);
 exports.default = app;
 //# sourceMappingURL=app.js.map

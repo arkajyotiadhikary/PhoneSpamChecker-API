@@ -36,6 +36,6 @@ app.use(middlewares);
 // error handling middleware
 
 // use routes
-app.use("/", userRouter);
-app.use("/", phoneNumberRouter);
+app.use("/api", userRouter);
+app.use("/api", phoneNumberRouter);
 export default app;
