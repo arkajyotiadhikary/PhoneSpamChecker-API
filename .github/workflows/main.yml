@@ -1,33 +1,46 @@
 name: Spam Detection CI
 
 on:
-  push:
-    branches: [main]
-  pull_request:
-    branches: [main]
+      push:
+            branches: [main]
+      pull_request:
+            branches: [main]
 
 jobs:
-  build:
-    runs-on: self-hosted
-    strategy:
-      matrix:
-        node-version: [18.x]
-    steps:
-      - uses: actions/checkout@v2
-      - name: Use Node.js ${{ matrix.node-version }}
-        uses: actions/setup-node@v2
-        with:
-          node-version: ${{ matrix.node-version }}
-      - name: Install dependencies
-        run: npm ci
-      - name: Copying .env File
-        run: |
-          touch .env
-          echo "${{ secrets.ENV_FILE }}" > .env
-      # - name: Run tests
-      #   run: npm test
-      - name: Build
-        run: npm run build
+      build:
+            runs-on: self-hosted
+            strategy:
+                  matrix:
+                        node-version: [18.x]
+            steps:
+                  - uses: actions/checkout@v2
 
-      - name: Restart Backend API
-        run: pm2 restart BackendAPI 
+                  - name: Use Node.js ${{ matrix.node-version }}
+                    uses: actions/setup-node@v2
+                    with:
+                          node-version: ${{ matrix.node-version }}
+
+                  - name: Install dependencies
+                    run: npm ci
+
+                  - name: Copying .env File
+                    run: |
+                          touch .env
+                          echo "${{ secrets.ENV_FILE }}" > .env
+
+                  - name: Migrate database
+                    run: npx prisma migrate deploy
+                    env:
+                          DATABASE_URL: ${{ secrets.DATABASE_URL }}
+
+                  - name: Generate Prisma Client
+                    run: npx prisma generate
+
+                  # - name: Run tests
+                  #   run: npm test
+
+                  - name: Build
+                    run: npm run build
+
+                  - name: Restart Backend API
+                    run: pm2 restart BackendAPI
