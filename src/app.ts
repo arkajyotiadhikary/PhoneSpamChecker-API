@@ -7,7 +7,9 @@ import { middlewares } from "./middlewares";
 
 // routes
 import userRouter from "./routes/user.routes";
+import contactRouter from "./routes/contacts.routes";
 import phoneNumberRouter from "./routes/phoneNumber.routes";
+import authRouter from "./routes/auth.routes";
 
 const app = express();
 
@@ -36,6 +38,8 @@ app.use(middlewares);
 // error handling middleware
 
 // use routes
+app.use("/api", authRouter);
 app.use("/api", userRouter);
 app.use("/api", phoneNumberRouter);
+app.use("/api", contactRouter);
 export default app;

@@ -11,10 +11,37 @@ var __awaiter = (this && this.__awaiter) || function (thisArg, _arguments, P, ge
 Object.defineProperty(exports, "__esModule", { value: true });
 exports.getSpamNumbers = exports.getSpamCounts = exports.markAsSpam = void 0;
 const client_1 = require("@prisma/client");
+const validators_1 = require("../validators");
 const prisma = new client_1.PrismaClient();
 const markAsSpam = (req, res, next) => __awaiter(void 0, void 0, void 0, function* () {
-    const { phoneNumber } = req.params;
+    const { phoneNumber, countryCode } = req.body;
     try {
+        // check if the phone number exist in users or in contacts table
+        console.log("phoneNumber", phoneNumber);
+        const user = yield prisma.user.findUnique({
+            where: {
+                phoneNumber: phoneNumber,
+            },
+        });
+        if (!user) {
+            const contact = yield prisma.contact.findMany({
+                where: {
+                    phoneNumber: phoneNumber,
+                },
+            });
+            if (contact.length === 0) {
+                // create contact without name and user id
+                // validate phone number first
+                if (!(0, validators_1.isValidPhoneNumber)(phoneNumber, countryCode)) {
+                    return res.status(400).json({ message: "Invalid phone number" });
+                }
+                yield prisma.contact.create({
+                    data: {
+                        phoneNumber,
+                    },
+                });
+            }
+        }
         const spam = yield prisma.spam.upsert({
             where: {
                 phoneNumber,

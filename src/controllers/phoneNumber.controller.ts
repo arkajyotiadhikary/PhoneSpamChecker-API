@@ -1,11 +1,40 @@
 import { Request, Response, NextFunction } from "express";
 import { PrismaClient } from "@prisma/client";
+import { isValidPhoneNumber } from "../validators";
 
 const prisma = new PrismaClient();
 
 export const markAsSpam = async (req: Request, res: Response, next: NextFunction) => {
-      const { phoneNumber } = req.params;
+      const { phoneNumber, countryCode } = req.body;
       try {
+            // check if the phone number exist in users or in contacts table
+            console.log("phoneNumber", phoneNumber);
+
+            const user = await prisma.user.findUnique({
+                  where: {
+                        phoneNumber: phoneNumber,
+                  },
+            });
+            if (!user) {
+                  const contact = await prisma.contact.findMany({
+                        where: {
+                              phoneNumber: phoneNumber,
+                        },
+                  });
+                  if (contact.length === 0) {
+                        // create contact without name and user id
+                        // validate phone number first
+                        if (!isValidPhoneNumber(phoneNumber, countryCode)) {
+                              return res.status(400).json({ message: "Invalid phone number" });
+                        }
+                        await prisma.contact.create({
+                              data: {
+                                    phoneNumber,
+                              },
+                        });
+                  }
+            }
+
             const spam = await prisma.spam.upsert({
                   where: {
                         phoneNumber,

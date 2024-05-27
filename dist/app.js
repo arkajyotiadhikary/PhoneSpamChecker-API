@@ -9,7 +9,9 @@ const cors_1 = __importDefault(require("cors"));
 const middlewares_1 = require("./middlewares");
 // routes
 const user_routes_1 = __importDefault(require("./routes/user.routes"));
+const contacts_routes_1 = __importDefault(require("./routes/contacts.routes"));
 const phoneNumber_routes_1 = __importDefault(require("./routes/phoneNumber.routes"));
+const auth_routes_1 = __importDefault(require("./routes/auth.routes"));
 const app = (0, express_1.default)();
 // Populate Database with fake data
 // import { PrismaClient } from "@prisma/client";
@@ -33,7 +35,9 @@ app.use(express_1.default.json());
 app.use(middlewares_1.middlewares);
 // error handling middleware
 // use routes
+app.use("/api", auth_routes_1.default);
 app.use("/api", user_routes_1.default);
 app.use("/api", phoneNumber_routes_1.default);
+app.use("/api", contacts_routes_1.default);
 exports.default = app;
 //# sourceMappingURL=app.js.map
