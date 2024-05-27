@@ -28,3 +28,6 @@ jobs:
       #   run: npm test
       - name: Build
         run: npm run build
+
+      - name: Restart Backend API
+        run: pm2 restart BackendAPI 
