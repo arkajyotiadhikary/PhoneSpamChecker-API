@@ -2,13 +2,13 @@ name: Spam Detection CI
 
 on:
       push:
-            branches: [main,prod-render]
+            branches: [main, prod-render]
       pull_request:
             branches: [main]
 
 jobs:
       build:
-            runs-on: self-hosted
+            runs-on: ubuntu-latest
             strategy:
                   matrix:
                         node-version: [18.x]
@@ -42,5 +42,5 @@ jobs:
                   - name: Build
                     run: npm run build
 
-                  - name: Restart Backend API
-                    run: pm2 restart BackendAPI
+                  # - name: Restart Backend API
+                  #   run: pm2 restart BackendAPI
