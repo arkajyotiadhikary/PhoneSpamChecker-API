@@ -2,7 +2,7 @@ name: Spam Detection CI
 
 on:
       push:
-            branches: [main]
+            branches: [main,prod-render]
       pull_request:
             branches: [main]
 
